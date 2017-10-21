@@ -1803,7 +1803,7 @@ popscale.selectAll("rect")
 if(display_back_button){
 d3.selectAll(".chosen")
 	  .append("image")
-      .attr("xlink:href", "back_icon.jpg")
+      .attr("xlink:href", "images/back_icon.jpg")
       .attr("x", 0)
       .attr("y", 10)
       .attr("width", 80)
@@ -2397,7 +2397,7 @@ var setYearArrow = function(direction,xpos){
 
 d3.selectAll(".chosen")
 	  .append("image")
-      .attr("xlink:href", direction + "_year_arrow.jpg")
+      .attr("xlink:href", "images/" + direction + "_year_arrow.jpg")
       .attr("x", xpos)
       .attr("y", margin.top+height)
       .attr("width", 33)
