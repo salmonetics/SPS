@@ -1,0 +1,4273 @@
+"NMFS_POPID","BROOD_YEAR","COMMON_POPULATION_NAME","AGE_MATCH","IMPUTED_FRACWILD","IMPUTED_AGE"
+6,1964,"Coweeman River",21,0,0
+6,1965,"Coweeman River",24,0,0
+6,1966,"Coweeman River",28,0,0
+6,1967,"Coweeman River",32,0,0
+6,1968,"Coweeman River",35,0,0
+6,1969,"Coweeman River",38,0,0
+6,1970,"Coweeman River",40,0,0
+6,1971,"Coweeman River",45,0,0
+6,1972,"Coweeman River",48,0,0
+6,1973,"Coweeman River",53,0,0
+6,1974,"Coweeman River",58,0,0
+6,1975,"Coweeman River",63,0,0
+6,1976,"Coweeman River",70,0,0
+6,1977,"Coweeman River",0,0,0
+6,1978,"Coweeman River",0,0,0
+6,1979,"Coweeman River",0,0,0
+6,1980,"Coweeman River",0,0,0
+6,1981,"Coweeman River",0,0,0
+6,1982,"Coweeman River",0,0,0
+6,1983,"Coweeman River",0,0,0
+6,1984,"Coweeman River",0,0,0
+6,1985,"Coweeman River",0,0,0
+6,1986,"Coweeman River",0,0,0
+6,1987,"Coweeman River",0,0,0
+6,1988,"Coweeman River",0,0,0
+6,1989,"Coweeman River",0,0,0
+6,1990,"Coweeman River",0,0,0
+6,1991,"Coweeman River",0,0,0
+6,1992,"Coweeman River",0,0,0
+6,1993,"Coweeman River",0,0,0
+6,1994,"Coweeman River",0,0,0
+6,1995,"Coweeman River",0,0,0
+6,1996,"Coweeman River",0,0,0
+6,1997,"Coweeman River",0,0,0
+6,1998,"Coweeman River",0,0,0
+6,1999,"Coweeman River",0,0,0
+6,2000,"Coweeman River",0,0,0
+6,2001,"Coweeman River",0,0,0
+6,2002,"Coweeman River",0,0,0
+6,2003,"Coweeman River",0,0,0
+6,2004,"Coweeman River",0,0,0
+6,2005,"Coweeman River",0,0,0
+6,2006,"Coweeman River",0,0,0
+6,2007,"Coweeman River",0,0,0
+6,2008,"Coweeman River",0,0,0
+6,2009,"Coweeman River",0,0,0
+6,2010,"Coweeman River",0,0,0
+6,2011,"Coweeman River",0,0,0
+6,2012,"Coweeman River",0,0,0
+6,2013,"Coweeman River",0,0,0
+6,2014,"Coweeman River",0,0,0
+7,1964,"Elochoman River",21,0,0
+7,1965,"Elochoman River",24,0,0
+7,1966,"Elochoman River",28,0,0
+7,1967,"Elochoman River",32,0,0
+7,1968,"Elochoman River",35,0,0
+7,1969,"Elochoman River",38,0,0
+7,1970,"Elochoman River",40,0,0
+7,1971,"Elochoman River",45,0,0
+7,1972,"Elochoman River",48,0,0
+7,1973,"Elochoman River",0,0,0
+7,1974,"Elochoman River",0,0,0
+7,1975,"Elochoman River",0,0,0
+7,1976,"Elochoman River",0,0,0
+7,1977,"Elochoman River",0,0,0
+7,1978,"Elochoman River",0,0,0
+7,1979,"Elochoman River",0,0,0
+7,1980,"Elochoman River",0,1,0
+7,1981,"Elochoman River",0,1,0
+7,1982,"Elochoman River",0,1,0
+7,1983,"Elochoman River",0,1,0
+7,1984,"Elochoman River",0,1,0
+7,1985,"Elochoman River",0,1,0
+7,1986,"Elochoman River",0,1,0
+7,1987,"Elochoman River",0,1,0
+7,1988,"Elochoman River",0,1,0
+7,1989,"Elochoman River",0,1,0
+7,1990,"Elochoman River",0,1,0
+7,1991,"Elochoman River",0,0,0
+7,1992,"Elochoman River",0,0,0
+7,1993,"Elochoman River",0,0,0
+7,1994,"Elochoman River",0,0,0
+7,1995,"Elochoman River",0,0,0
+7,1996,"Elochoman River",0,0,0
+7,1997,"Elochoman River",0,0,0
+7,1998,"Elochoman River",0,0,0
+7,1999,"Elochoman River",0,0,0
+7,2000,"Elochoman River",0,0,0
+7,2001,"Elochoman River",0,0,0
+7,2002,"Elochoman River",0,0,0
+7,2003,"Elochoman River",0,0,0
+7,2004,"Elochoman River",0,0,0
+7,2005,"Elochoman River",0,0,0
+7,2006,"Elochoman River",0,0,0
+7,2007,"Elochoman River",0,0,0
+7,2008,"Elochoman River",0,0,0
+7,2009,"Elochoman River",0,0,0
+7,2010,"Elochoman River",0,0,0
+7,2011,"Elochoman River",0,0,0
+7,2012,"Elochoman River",0,0,0
+7,2013,"Elochoman River",0,0,0
+7,2014,"Elochoman River",0,0,0
+8,1964,"Grays and Chinook Rivers",21,0,0
+8,1965,"Grays and Chinook Rivers",24,0,0
+8,1966,"Grays and Chinook Rivers",28,0,0
+8,1967,"Grays and Chinook Rivers",32,0,0
+8,1968,"Grays and Chinook Rivers",35,0,0
+8,1969,"Grays and Chinook Rivers",38,0,0
+8,1970,"Grays and Chinook Rivers",40,0,0
+8,1971,"Grays and Chinook Rivers",45,0,0
+8,1972,"Grays and Chinook Rivers",48,0,0
+8,1973,"Grays and Chinook Rivers",53,0,0
+8,1974,"Grays and Chinook Rivers",58,0,0
+8,1975,"Grays and Chinook Rivers",63,0,0
+8,1976,"Grays and Chinook Rivers",70,0,0
+8,1977,"Grays and Chinook Rivers",0,1,0
+8,1978,"Grays and Chinook Rivers",0,1,0
+8,1979,"Grays and Chinook Rivers",0,1,0
+8,1980,"Grays and Chinook Rivers",0,1,0
+8,1981,"Grays and Chinook Rivers",0,1,0
+8,1982,"Grays and Chinook Rivers",0,1,0
+8,1983,"Grays and Chinook Rivers",0,1,0
+8,1984,"Grays and Chinook Rivers",0,1,0
+8,1985,"Grays and Chinook Rivers",0,1,0
+8,1986,"Grays and Chinook Rivers",0,1,0
+8,1987,"Grays and Chinook Rivers",0,1,0
+8,1988,"Grays and Chinook Rivers",0,1,0
+8,1989,"Grays and Chinook Rivers",0,1,0
+8,1990,"Grays and Chinook Rivers",0,1,0
+8,1991,"Grays and Chinook Rivers",0,0,0
+8,1992,"Grays and Chinook Rivers",0,0,0
+8,1993,"Grays and Chinook Rivers",0,0,0
+8,1994,"Grays and Chinook Rivers",0,0,0
+8,1995,"Grays and Chinook Rivers",0,0,0
+8,1996,"Grays and Chinook Rivers",0,0,0
+8,1997,"Grays and Chinook Rivers",0,0,0
+8,1998,"Grays and Chinook Rivers",0,0,0
+8,1999,"Grays and Chinook Rivers",0,0,0
+8,2000,"Grays and Chinook Rivers",0,0,0
+8,2001,"Grays and Chinook Rivers",0,0,0
+8,2002,"Grays and Chinook Rivers",0,0,0
+8,2003,"Grays and Chinook Rivers",0,0,0
+8,2004,"Grays and Chinook Rivers",0,0,0
+8,2005,"Grays and Chinook Rivers",0,0,0
+8,2006,"Grays and Chinook Rivers",0,0,0
+8,2007,"Grays and Chinook Rivers",0,0,0
+8,2008,"Grays and Chinook Rivers",0,0,0
+8,2009,"Grays and Chinook Rivers",0,0,0
+8,2010,"Grays and Chinook Rivers",0,0,0
+8,2011,"Grays and Chinook Rivers",0,0,0
+8,2012,"Grays and Chinook Rivers",0,0,0
+8,2013,"Grays and Chinook Rivers",0,0,0
+8,2014,"Grays and Chinook Rivers",0,0,0
+9,1992,"Hood River",0,0,0
+9,1993,"Hood River",0,0,0
+9,1994,"Hood River",0,0,0
+9,1995,"Hood River",0,0,0
+9,1996,"Hood River",0,0,0
+9,1997,"Hood River",0,0,0
+9,1998,"Hood River",0,0,0
+9,1999,"Hood River",0,0,0
+9,2000,"Hood River",0,0,0
+9,2001,"Hood River",0,0,0
+9,2002,"Hood River",0,0,0
+9,2003,"Hood River",0,0,0
+9,2004,"Hood River",0,0,0
+9,2005,"Hood River",0,0,0
+9,2006,"Hood River",0,0,0
+9,2007,"Hood River",0,0,0
+9,2008,"Hood River",0,0,0
+11,1964,"Kalama River",21,0,0
+11,1965,"Kalama River",24,0,0
+11,1966,"Kalama River",28,0,0
+11,1967,"Kalama River",32,0,0
+11,1968,"Kalama River",35,0,0
+11,1969,"Kalama River",38,0,0
+11,1970,"Kalama River",40,0,0
+11,1971,"Kalama River",45,0,0
+11,1972,"Kalama River",48,0,0
+11,1973,"Kalama River",0,0,0
+11,1974,"Kalama River",0,0,0
+11,1975,"Kalama River",0,0,0
+11,1976,"Kalama River",0,0,0
+11,1977,"Kalama River",0,1,0
+11,1978,"Kalama River",0,1,0
+11,1979,"Kalama River",0,1,0
+11,1980,"Kalama River",0,1,0
+11,1981,"Kalama River",0,1,0
+11,1982,"Kalama River",0,1,0
+11,1983,"Kalama River",0,1,0
+11,1984,"Kalama River",0,1,0
+11,1985,"Kalama River",0,1,0
+11,1986,"Kalama River",0,1,0
+11,1987,"Kalama River",0,1,0
+11,1988,"Kalama River",0,1,0
+11,1989,"Kalama River",0,1,0
+11,1990,"Kalama River",0,1,0
+11,1991,"Kalama River",0,0,0
+11,1992,"Kalama River",0,0,0
+11,1993,"Kalama River",0,0,0
+11,1994,"Kalama River",0,0,0
+11,1995,"Kalama River",0,0,0
+11,1996,"Kalama River",0,0,0
+11,1997,"Kalama River",0,0,0
+11,1998,"Kalama River",0,0,0
+11,1999,"Kalama River",0,0,0
+11,2000,"Kalama River",0,0,0
+11,2001,"Kalama River",0,0,0
+11,2002,"Kalama River",0,0,0
+11,2003,"Kalama River",0,0,0
+11,2004,"Kalama River",0,0,0
+11,2005,"Kalama River",0,0,0
+11,2006,"Kalama River",0,0,0
+11,2007,"Kalama River",0,0,0
+11,2008,"Kalama River",0,0,0
+11,2009,"Kalama River",0,0,0
+11,2010,"Kalama River",0,0,0
+11,2011,"Kalama River",0,0,0
+11,2012,"Kalama River",0,0,0
+11,2013,"Kalama River",0,0,0
+11,2014,"Kalama River",0,0,0
+12,1980,"Kalama River",0,0,0
+12,1981,"Kalama River",0,0,0
+12,1982,"Kalama River",0,0,0
+12,1983,"Kalama River",0,0,0
+12,1984,"Kalama River",0,0,0
+12,1985,"Kalama River",0,0,0
+12,1986,"Kalama River",0,0,0
+12,1987,"Kalama River",0,0,0
+12,1988,"Kalama River",0,0,0
+12,1989,"Kalama River",0,0,0
+12,1990,"Kalama River",0,0,0
+12,1991,"Kalama River",0,0,0
+12,1992,"Kalama River",0,0,0
+12,1993,"Kalama River",0,0,0
+12,1994,"Kalama River",0,0,0
+12,1995,"Kalama River",0,0,0
+12,1996,"Kalama River",0,0,0
+12,1997,"Kalama River",0,0,0
+12,1998,"Kalama River",0,0,0
+12,1999,"Kalama River",0,0,0
+12,2000,"Kalama River",0,0,0
+12,2001,"Kalama River",0,0,0
+12,2002,"Kalama River",0,0,0
+12,2003,"Kalama River",0,0,0
+12,2004,"Kalama River",0,0,0
+12,2005,"Kalama River",0,0,0
+12,2006,"Kalama River",0,0,0
+12,2007,"Kalama River",0,0,0
+12,2008,"Kalama River",0,0,0
+12,2009,"Kalama River",0,0,0
+12,2010,"Kalama River",0,0,0
+12,2011,"Kalama River",0,0,0
+12,2012,"Kalama River",0,0,0
+12,2013,"Kalama River",0,0,0
+13,1964,"Lewis River",0,0,0
+13,1965,"Lewis River",0,0,0
+13,1966,"Lewis River",0,0,0
+13,1967,"Lewis River",0,0,0
+13,1968,"Lewis River",0,0,0
+13,1969,"Lewis River",0,0,0
+13,1970,"Lewis River",0,0,0
+13,1971,"Lewis River",0,0,0
+13,1972,"Lewis River",0,0,0
+13,1973,"Lewis River",0,0,0
+13,1974,"Lewis River",0,0,0
+13,1975,"Lewis River",0,0,0
+13,1976,"Lewis River",0,0,0
+13,1977,"Lewis River",0,0,0
+13,1978,"Lewis River",0,0,0
+13,1979,"Lewis River",0,0,0
+13,1980,"Lewis River",0,0,0
+13,1981,"Lewis River",0,0,0
+13,1982,"Lewis River",0,0,0
+13,1983,"Lewis River",0,0,0
+13,1984,"Lewis River",0,0,0
+13,1985,"Lewis River",0,0,0
+13,1986,"Lewis River",0,0,0
+13,1987,"Lewis River",0,0,0
+13,1988,"Lewis River",0,0,0
+13,1989,"Lewis River",0,0,0
+13,1990,"Lewis River",0,0,0
+13,1991,"Lewis River",0,0,0
+13,1992,"Lewis River",0,0,0
+13,1993,"Lewis River",0,0,0
+13,1994,"Lewis River",0,0,0
+13,1995,"Lewis River",0,0,0
+13,1996,"Lewis River",0,0,0
+13,1997,"Lewis River",0,0,0
+13,1998,"Lewis River",0,0,0
+13,1999,"Lewis River",0,0,0
+13,2000,"Lewis River",0,0,0
+13,2001,"Lewis River",0,0,0
+13,2002,"Lewis River",0,0,0
+13,2003,"Lewis River",0,0,0
+13,2004,"Lewis River",0,0,0
+13,2005,"Lewis River",0,0,0
+13,2006,"Lewis River",0,0,0
+13,2007,"Lewis River",0,0,0
+13,2008,"Lewis River",0,0,0
+13,2009,"Lewis River",0,0,0
+13,2010,"Lewis River",0,0,0
+13,2011,"Lewis River",0,0,0
+13,2012,"Lewis River",0,0,0
+13,2013,"Lewis River",0,0,0
+14,1964,"Lewis River",21,0,0
+14,1965,"Lewis River",24,0,0
+14,1966,"Lewis River",28,0,0
+14,1967,"Lewis River",32,0,0
+14,1968,"Lewis River",35,0,0
+14,1969,"Lewis River",38,0,0
+14,1970,"Lewis River",40,0,0
+14,1971,"Lewis River",45,0,0
+14,1972,"Lewis River",48,0,0
+14,1973,"Lewis River",53,0,0
+14,1974,"Lewis River",58,0,0
+14,1975,"Lewis River",63,0,0
+14,1976,"Lewis River",70,0,0
+14,1977,"Lewis River",0,0,0
+14,1978,"Lewis River",0,0,0
+14,1979,"Lewis River",0,0,0
+14,1980,"Lewis River",0,0,0
+14,1981,"Lewis River",0,0,0
+14,1982,"Lewis River",0,0,0
+14,1983,"Lewis River",0,0,0
+14,1984,"Lewis River",0,0,0
+14,1985,"Lewis River",0,0,0
+14,1986,"Lewis River",0,0,0
+14,1987,"Lewis River",0,0,0
+14,1988,"Lewis River",0,0,0
+14,1989,"Lewis River",0,0,0
+14,1990,"Lewis River",0,0,0
+14,1991,"Lewis River",0,0,0
+14,1992,"Lewis River",0,0,0
+14,1993,"Lewis River",0,0,0
+14,1994,"Lewis River",0,0,0
+14,1995,"Lewis River",0,0,0
+14,1996,"Lewis River",0,0,0
+14,1997,"Lewis River",0,0,0
+14,1998,"Lewis River",0,0,0
+14,1999,"Lewis River",0,0,0
+14,2000,"Lewis River",0,0,0
+14,2001,"Lewis River",0,0,0
+14,2002,"Lewis River",0,0,0
+14,2003,"Lewis River",0,0,0
+14,2004,"Lewis River",0,0,0
+14,2005,"Lewis River",0,0,0
+14,2006,"Lewis River",0,0,0
+14,2007,"Lewis River",0,0,0
+14,2008,"Lewis River",0,0,0
+14,2009,"Lewis River",0,0,0
+14,2010,"Lewis River",0,0,0
+14,2011,"Lewis River",0,0,0
+14,2012,"Lewis River",0,0,0
+14,2013,"Lewis River",0,0,0
+14,2014,"Lewis River",0,0,0
+15,1964,"Lower Cowlitz River",21,0,0
+15,1965,"Lower Cowlitz River",24,0,0
+15,1966,"Lower Cowlitz River",28,0,0
+15,1967,"Lower Cowlitz River",32,0,0
+15,1968,"Lower Cowlitz River",35,0,0
+15,1969,"Lower Cowlitz River",38,0,0
+15,1970,"Lower Cowlitz River",40,0,0
+15,1971,"Lower Cowlitz River",45,0,0
+15,1972,"Lower Cowlitz River",48,0,0
+15,1973,"Lower Cowlitz River",0,0,0
+15,1974,"Lower Cowlitz River",0,0,0
+15,1975,"Lower Cowlitz River",0,0,0
+15,1976,"Lower Cowlitz River",0,0,0
+15,1977,"Lower Cowlitz River",0,1,0
+15,1978,"Lower Cowlitz River",0,1,0
+15,1979,"Lower Cowlitz River",0,1,0
+15,1980,"Lower Cowlitz River",0,1,0
+15,1981,"Lower Cowlitz River",0,1,0
+15,1982,"Lower Cowlitz River",0,1,0
+15,1983,"Lower Cowlitz River",0,1,0
+15,1984,"Lower Cowlitz River",0,1,0
+15,1985,"Lower Cowlitz River",0,1,0
+15,1986,"Lower Cowlitz River",0,1,0
+15,1987,"Lower Cowlitz River",0,1,0
+15,1988,"Lower Cowlitz River",0,1,0
+15,1989,"Lower Cowlitz River",0,1,0
+15,1990,"Lower Cowlitz River",0,1,0
+15,1991,"Lower Cowlitz River",0,1,0
+15,1992,"Lower Cowlitz River",0,1,0
+15,1993,"Lower Cowlitz River",0,0,0
+15,1994,"Lower Cowlitz River",0,0,0
+15,1995,"Lower Cowlitz River",0,0,0
+15,1996,"Lower Cowlitz River",0,0,0
+15,1997,"Lower Cowlitz River",0,0,0
+15,1998,"Lower Cowlitz River",0,0,0
+15,1999,"Lower Cowlitz River",0,0,0
+15,2000,"Lower Cowlitz River",0,0,0
+15,2001,"Lower Cowlitz River",0,0,0
+15,2002,"Lower Cowlitz River",0,0,0
+15,2003,"Lower Cowlitz River",0,0,0
+15,2004,"Lower Cowlitz River",0,0,0
+15,2005,"Lower Cowlitz River",0,0,0
+15,2006,"Lower Cowlitz River",0,0,0
+15,2007,"Lower Cowlitz River",0,0,0
+15,2008,"Lower Cowlitz River",0,0,0
+15,2009,"Lower Cowlitz River",0,0,0
+15,2010,"Lower Cowlitz River",0,0,0
+15,2011,"Lower Cowlitz River",0,0,0
+15,2012,"Lower Cowlitz River",0,0,0
+15,2013,"Lower Cowlitz River",0,0,0
+17,1980,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1981,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1982,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1983,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1984,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1985,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1986,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1987,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1988,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1989,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1990,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1991,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1992,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1993,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1994,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1995,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1996,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1997,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1998,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,1999,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2000,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2001,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2002,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2003,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2004,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2005,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2006,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2007,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2008,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2009,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2010,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2011,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2012,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2013,"Mill, Abernathy, and Germany Creeks",0,0,0
+17,2014,"Mill, Abernathy, and Germany Creeks",0,0,0
+20,1981,"Sandy River",0,1,1
+20,1982,"Sandy River",0,1,1
+20,1983,"Sandy River",0,1,1
+20,1984,"Sandy River",0,1,1
+20,1985,"Sandy River",0,1,1
+20,1986,"Sandy River",0,1,1
+20,1987,"Sandy River",0,1,1
+20,1988,"Sandy River",0,1,1
+20,1989,"Sandy River",0,1,1
+20,1990,"Sandy River",0,1,1
+20,1991,"Sandy River",0,1,1
+20,1992,"Sandy River",0,1,1
+20,1993,"Sandy River",0,1,1
+20,1994,"Sandy River",0,1,1
+20,1995,"Sandy River",0,1,1
+20,1996,"Sandy River",0,1,1
+20,1997,"Sandy River",0,1,1
+20,1998,"Sandy River",0,1,1
+20,1999,"Sandy River",0,1,1
+20,2000,"Sandy River",0,1,1
+20,2001,"Sandy River",0,1,1
+20,2002,"Sandy River",0,1,1
+20,2003,"Sandy River",0,1,1
+20,2004,"Sandy River",0,1,1
+20,2005,"Sandy River",0,1,1
+20,2006,"Sandy River",0,1,1
+20,2007,"Sandy River",0,0,0
+22,1981,"Sandy River",0,0,0
+22,1982,"Sandy River",0,0,0
+22,1983,"Sandy River",0,0,0
+22,1984,"Sandy River",0,0,0
+22,1985,"Sandy River",0,0,0
+22,1986,"Sandy River",0,0,0
+22,1987,"Sandy River",0,0,0
+22,1988,"Sandy River",0,0,0
+22,1989,"Sandy River",0,0,0
+22,1990,"Sandy River",0,0,0
+22,1991,"Sandy River",0,0,0
+22,1992,"Sandy River",0,0,0
+22,1993,"Sandy River",0,0,0
+22,1994,"Sandy River",0,0,0
+22,1995,"Sandy River",0,0,0
+22,1996,"Sandy River",0,0,0
+22,1997,"Sandy River",0,0,0
+22,1998,"Sandy River",0,0,0
+22,1999,"Sandy River",0,0,0
+22,2000,"Sandy River",0,0,0
+22,2001,"Sandy River",0,0,0
+22,2002,"Sandy River",0,0,0
+22,2003,"Sandy River",0,0,0
+22,2004,"Sandy River",0,0,0
+22,2005,"Sandy River",0,0,0
+22,2006,"Sandy River",0,0,0
+22,2007,"Sandy River",0,0,0
+22,2008,"Sandy River",0,0,0
+22,2009,"Sandy River",0,0,0
+22,2010,"Sandy River",0,0,0
+22,2011,"Sandy River",0,0,0
+22,2012,"Sandy River",0,0,0
+22,2013,"Sandy River",0,0,0
+22,2014,"Sandy River",0,0,0
+25,1964,"Toutle River",0,0,0
+25,1965,"Toutle River",0,0,0
+25,1966,"Toutle River",0,0,0
+25,1967,"Toutle River",0,0,0
+25,1968,"Toutle River",0,0,0
+25,1969,"Toutle River",0,0,0
+25,1970,"Toutle River",0,0,0
+25,1971,"Toutle River",0,0,0
+25,1972,"Toutle River",0,0,0
+25,1973,"Toutle River",0,0,0
+25,1974,"Toutle River",0,0,0
+25,1975,"Toutle River",0,0,0
+25,1976,"Toutle River",0,0,0
+25,1977,"Toutle River",0,0,0
+25,1978,"Toutle River",0,0,0
+25,1979,"Toutle River",0,0,0
+25,1980,"Toutle River",0,0,0
+25,1981,"Toutle River",0,0,0
+25,1982,"Toutle River",0,0,0
+25,1983,"Toutle River",0,0,0
+25,1984,"Toutle River",0,0,0
+25,1985,"Toutle River",0,0,0
+25,1986,"Toutle River",0,0,0
+25,1987,"Toutle River",0,0,0
+25,1988,"Toutle River",0,0,0
+25,1989,"Toutle River",0,0,0
+25,1990,"Toutle River",0,0,0
+25,1991,"Toutle River",0,0,0
+25,1992,"Toutle River",0,0,0
+25,1993,"Toutle River",0,0,0
+25,1994,"Toutle River",0,0,0
+25,1995,"Toutle River",0,0,0
+25,1996,"Toutle River",0,0,0
+25,1997,"Toutle River",0,0,0
+25,1998,"Toutle River",0,0,0
+25,1999,"Toutle River",0,0,0
+25,2000,"Toutle River",0,0,0
+25,2001,"Toutle River",0,0,0
+25,2002,"Toutle River",0,0,0
+25,2003,"Toutle River",0,0,0
+25,2004,"Toutle River",0,0,0
+25,2005,"Toutle River",0,0,0
+25,2006,"Toutle River",0,0,0
+25,2007,"Toutle River",0,0,0
+25,2008,"Toutle River",0,0,0
+25,2009,"Toutle River",0,0,0
+25,2010,"Toutle River",0,0,0
+25,2011,"Toutle River",0,0,0
+25,2012,"Toutle River",0,0,0
+25,2013,"Toutle River",0,0,0
+25,2014,"Toutle River",0,0,0
+27,1996,"Upper Cowlitz River",0,0,0
+27,1997,"Upper Cowlitz River",0,0,0
+27,1998,"Upper Cowlitz River",0,0,0
+27,1999,"Upper Cowlitz River",0,0,0
+27,2000,"Upper Cowlitz River",0,0,0
+27,2001,"Upper Cowlitz River",0,0,0
+27,2002,"Upper Cowlitz River",0,0,0
+27,2003,"Upper Cowlitz River",0,0,0
+27,2004,"Upper Cowlitz River",0,0,0
+27,2005,"Upper Cowlitz River",0,0,0
+27,2006,"Upper Cowlitz River",0,0,0
+27,2007,"Upper Cowlitz River",0,0,0
+27,2008,"Upper Cowlitz River",0,0,0
+27,2009,"Upper Cowlitz River",0,0,0
+27,2010,"Upper Cowlitz River",0,0,0
+27,2011,"Upper Cowlitz River",0,0,0
+27,2012,"Upper Cowlitz River",0,0,0
+27,2013,"Upper Cowlitz River",0,0,0
+28,1980,"Upper Cowlitz River",0,0,0
+28,1981,"Upper Cowlitz River",0,0,0
+28,1982,"Upper Cowlitz River",0,0,0
+28,1983,"Upper Cowlitz River",0,0,0
+28,1984,"Upper Cowlitz River",0,0,0
+28,1985,"Upper Cowlitz River",0,0,0
+28,1986,"Upper Cowlitz River",0,0,0
+28,1987,"Upper Cowlitz River",0,0,0
+28,1988,"Upper Cowlitz River",0,0,0
+28,1989,"Upper Cowlitz River",0,0,0
+28,1990,"Upper Cowlitz River",0,0,0
+28,1991,"Upper Cowlitz River",0,0,0
+28,1992,"Upper Cowlitz River",0,0,0
+28,1993,"Upper Cowlitz River",0,0,0
+28,1994,"Upper Cowlitz River",0,0,0
+28,1995,"Upper Cowlitz River",0,0,0
+28,1996,"Upper Cowlitz River",0,0,0
+28,1997,"Upper Cowlitz River",0,0,0
+28,1998,"Upper Cowlitz River",0,0,0
+28,1999,"Upper Cowlitz River",0,0,0
+28,2000,"Upper Cowlitz River",0,0,0
+28,2001,"Upper Cowlitz River",0,0,0
+28,2002,"Upper Cowlitz River",0,0,0
+28,2003,"Upper Cowlitz River",0,0,0
+28,2004,"Upper Cowlitz River",0,0,0
+28,2005,"Upper Cowlitz River",0,0,0
+28,2006,"Upper Cowlitz River",0,0,0
+28,2007,"Upper Cowlitz River",0,0,0
+28,2008,"Upper Cowlitz River",0,0,0
+28,2009,"Upper Cowlitz River",0,0,0
+28,2010,"Upper Cowlitz River",0,0,0
+28,2011,"Upper Cowlitz River",0,0,0
+28,2012,"Upper Cowlitz River",0,0,0
+28,2013,"Upper Cowlitz River",0,0,0
+28,2014,"Upper Cowlitz River",0,0,0
+29,1964,"Upper Gorge Tributaries",0,0,0
+29,1965,"Upper Gorge Tributaries",0,0,0
+29,1966,"Upper Gorge Tributaries",0,0,0
+29,1967,"Upper Gorge Tributaries",0,0,0
+29,1968,"Upper Gorge Tributaries",0,0,0
+29,1969,"Upper Gorge Tributaries",0,0,0
+29,1970,"Upper Gorge Tributaries",0,0,0
+29,1971,"Upper Gorge Tributaries",0,0,0
+29,1972,"Upper Gorge Tributaries",0,0,0
+29,1973,"Upper Gorge Tributaries",0,0,0
+29,1974,"Upper Gorge Tributaries",0,0,0
+29,1975,"Upper Gorge Tributaries",0,0,0
+29,1976,"Upper Gorge Tributaries",0,0,0
+29,1977,"Upper Gorge Tributaries",0,0,0
+29,1978,"Upper Gorge Tributaries",0,0,0
+29,1979,"Upper Gorge Tributaries",0,0,0
+29,1980,"Upper Gorge Tributaries",0,0,0
+29,1981,"Upper Gorge Tributaries",0,0,0
+29,1982,"Upper Gorge Tributaries",0,0,0
+29,1983,"Upper Gorge Tributaries",0,0,0
+29,1984,"Upper Gorge Tributaries",0,0,0
+29,1985,"Upper Gorge Tributaries",0,0,0
+29,1986,"Upper Gorge Tributaries",0,0,0
+29,1987,"Upper Gorge Tributaries",0,0,0
+29,1988,"Upper Gorge Tributaries",0,0,0
+29,1989,"Upper Gorge Tributaries",0,0,0
+29,1990,"Upper Gorge Tributaries",0,0,0
+29,1991,"Upper Gorge Tributaries",0,0,0
+29,1992,"Upper Gorge Tributaries",0,0,0
+29,1993,"Upper Gorge Tributaries",0,0,0
+29,1994,"Upper Gorge Tributaries",0,0,0
+29,1995,"Upper Gorge Tributaries",0,0,0
+29,1996,"Upper Gorge Tributaries",0,0,0
+29,1997,"Upper Gorge Tributaries",0,0,0
+29,1998,"Upper Gorge Tributaries",0,0,0
+29,1999,"Upper Gorge Tributaries",0,0,0
+29,2000,"Upper Gorge Tributaries",0,0,0
+29,2001,"Upper Gorge Tributaries",0,0,0
+29,2002,"Upper Gorge Tributaries",0,0,0
+29,2003,"Upper Gorge Tributaries",0,0,0
+29,2004,"Upper Gorge Tributaries",0,0,0
+29,2005,"Upper Gorge Tributaries",0,0,0
+29,2006,"Upper Gorge Tributaries",0,0,0
+29,2007,"Upper Gorge Tributaries",0,0,0
+29,2008,"Upper Gorge Tributaries",0,0,0
+29,2009,"Upper Gorge Tributaries",0,0,0
+29,2011,"Upper Gorge Tributaries",0,0,0
+30,1977,"Washougal River",0,1,0
+30,1978,"Washougal River",0,1,0
+30,1979,"Washougal River",0,1,0
+30,1980,"Washougal River",0,1,0
+30,1981,"Washougal River",0,1,0
+30,1982,"Washougal River",0,1,0
+30,1983,"Washougal River",0,1,0
+30,1984,"Washougal River",0,1,0
+30,1985,"Washougal River",0,1,0
+30,1986,"Washougal River",0,1,0
+30,1987,"Washougal River",0,1,0
+30,1988,"Washougal River",0,1,0
+30,1989,"Washougal River",0,1,0
+30,1990,"Washougal River",0,1,0
+30,1991,"Washougal River",0,0,0
+30,1992,"Washougal River",0,0,0
+30,1993,"Washougal River",0,0,0
+30,1994,"Washougal River",0,0,0
+30,1995,"Washougal River",0,0,0
+30,1996,"Washougal River",0,0,0
+30,1997,"Washougal River",0,0,0
+30,1998,"Washougal River",0,0,0
+30,1999,"Washougal River",0,0,0
+30,2000,"Washougal River",0,0,0
+30,2001,"Washougal River",0,0,0
+30,2002,"Washougal River",0,0,0
+30,2003,"Washougal River",0,0,0
+30,2004,"Washougal River",0,0,0
+30,2005,"Washougal River",0,0,0
+30,2006,"Washougal River",0,0,0
+30,2007,"Washougal River",0,0,0
+30,2008,"Washougal River",0,0,0
+30,2009,"Washougal River",0,0,0
+30,2010,"Washougal River",0,0,0
+30,2011,"Washougal River",0,0,0
+30,2012,"Washougal River",0,0,0
+30,2013,"Washougal River",0,0,0
+30,2014,"Washougal River",0,0,0
+31,1965,"White Salmon River",0,0,0
+31,1966,"White Salmon River",0,0,0
+31,1967,"White Salmon River",0,0,0
+31,1968,"White Salmon River",0,0,0
+31,1969,"White Salmon River",0,0,0
+31,1970,"White Salmon River",0,0,0
+31,1971,"White Salmon River",0,0,0
+31,1972,"White Salmon River",0,0,0
+31,1973,"White Salmon River",0,0,0
+31,1974,"White Salmon River",0,0,0
+31,1975,"White Salmon River",0,0,0
+31,1976,"White Salmon River",69,0,0
+31,1977,"White Salmon River",72,0,0
+31,1978,"White Salmon River",82,0,0
+31,1979,"White Salmon River",87,0,0
+31,1980,"White Salmon River",96,0,0
+31,1981,"White Salmon River",104,0,0
+31,1982,"White Salmon River",110,0,0
+31,1983,"White Salmon River",115,0,0
+31,1984,"White Salmon River",125,0,0
+31,1985,"White Salmon River",132,0,0
+31,1986,"White Salmon River",141,0,0
+31,1987,"White Salmon River",0,0,0
+31,1988,"White Salmon River",153,0,0
+31,1989,"White Salmon River",161,0,0
+31,1990,"White Salmon River",169,0,0
+31,1991,"White Salmon River",178,0,0
+31,1992,"White Salmon River",186,0,0
+31,1993,"White Salmon River",195,0,0
+31,1994,"White Salmon River",206,0,0
+31,1995,"White Salmon River",0,0,0
+31,1996,"White Salmon River",225,0,0
+31,1997,"White Salmon River",234,0,0
+31,1998,"White Salmon River",0,0,0
+31,1999,"White Salmon River",252,0,0
+31,2000,"White Salmon River",261,0,0
+31,2001,"White Salmon River",0,0,0
+31,2002,"White Salmon River",275,0,0
+31,2003,"White Salmon River",0,0,0
+31,2004,"White Salmon River",290,0,0
+31,2005,"White Salmon River",299,0,0
+31,2006,"White Salmon River",311,0,0
+31,2007,"White Salmon River",320,0,0
+31,2008,"White Salmon River",331,0,0
+31,2009,"White Salmon River",339,0,0
+31,2010,"White Salmon River",0,0,0
+31,2011,"White Salmon River",0,0,0
+31,2012,"White Salmon River",0,0,0
+31,2013,"White Salmon River",0,0,0
+31,2014,"White Salmon River",0,0,0
+32,1976,"White Salmon River",69,0,0
+32,1977,"White Salmon River",72,0,0
+32,1978,"White Salmon River",82,0,0
+32,1979,"White Salmon River",87,0,0
+32,1980,"White Salmon River",96,0,0
+32,1981,"White Salmon River",104,0,0
+32,1982,"White Salmon River",110,0,0
+32,1983,"White Salmon River",115,0,0
+32,1984,"White Salmon River",125,0,0
+32,1985,"White Salmon River",132,0,0
+32,1986,"White Salmon River",141,0,0
+32,1987,"White Salmon River",0,0,0
+32,1988,"White Salmon River",153,0,0
+32,1989,"White Salmon River",161,0,0
+32,1990,"White Salmon River",169,0,0
+32,1991,"White Salmon River",178,0,0
+32,1992,"White Salmon River",186,0,0
+32,1993,"White Salmon River",195,1,0
+32,1994,"White Salmon River",206,1,0
+32,1995,"White Salmon River",0,1,0
+32,1996,"White Salmon River",225,1,0
+32,1997,"White Salmon River",234,0,0
+32,1998,"White Salmon River",0,0,0
+32,1999,"White Salmon River",252,0,0
+32,2000,"White Salmon River",261,0,0
+32,2001,"White Salmon River",0,0,0
+32,2002,"White Salmon River",275,0,0
+32,2003,"White Salmon River",0,0,0
+32,2004,"White Salmon River",290,0,0
+32,2005,"White Salmon River",299,0,0
+32,2006,"White Salmon River",311,0,0
+32,2007,"White Salmon River",320,0,0
+32,2008,"White Salmon River",331,0,0
+32,2009,"White Salmon River",339,0,0
+32,2013,"White Salmon River",0,0,0
+32,2014,"White Salmon River",0,0,0
+56,1975,"Snake River Lower Mainstem",0,0,1
+56,1976,"Snake River Lower Mainstem",0,0,1
+56,1977,"Snake River Lower Mainstem",0,0,1
+56,1978,"Snake River Lower Mainstem",0,0,1
+56,1979,"Snake River Lower Mainstem",0,0,1
+56,1980,"Snake River Lower Mainstem",0,0,1
+56,1981,"Snake River Lower Mainstem",0,0,1
+56,1982,"Snake River Lower Mainstem",0,0,1
+56,1983,"Snake River Lower Mainstem",0,0,1
+56,1984,"Snake River Lower Mainstem",0,0,1
+56,1985,"Snake River Lower Mainstem",0,0,1
+56,1986,"Snake River Lower Mainstem",0,0,1
+56,1987,"Snake River Lower Mainstem",0,0,1
+56,1988,"Snake River Lower Mainstem",0,0,1
+56,1989,"Snake River Lower Mainstem",0,0,1
+56,1990,"Snake River Lower Mainstem",0,0,1
+56,1991,"Snake River Lower Mainstem",0,0,1
+56,1992,"Snake River Lower Mainstem",0,0,1
+56,1993,"Snake River Lower Mainstem",0,0,1
+56,1994,"Snake River Lower Mainstem",0,0,1
+56,1995,"Snake River Lower Mainstem",0,0,1
+56,1996,"Snake River Lower Mainstem",0,0,1
+56,1997,"Snake River Lower Mainstem",0,0,1
+56,1998,"Snake River Lower Mainstem",0,0,1
+56,1999,"Snake River Lower Mainstem",0,0,0
+56,2000,"Snake River Lower Mainstem",0,0,0
+56,2001,"Snake River Lower Mainstem",0,0,0
+56,2002,"Snake River Lower Mainstem",0,0,0
+56,2003,"Snake River Lower Mainstem",0,0,0
+56,2004,"Snake River Lower Mainstem",0,0,0
+56,2005,"Snake River Lower Mainstem",0,0,0
+56,2006,"Snake River Lower Mainstem",0,0,0
+56,2007,"Snake River Lower Mainstem",0,0,0
+56,2008,"Snake River Lower Mainstem",0,0,0
+56,2009,"Snake River Lower Mainstem",0,0,0
+56,2010,"Snake River Lower Mainstem",0,0,0
+56,2011,"Snake River Lower Mainstem",0,0,0
+56,2012,"Snake River Lower Mainstem",0,0,0
+56,2013,"Snake River Lower Mainstem",0,0,0
+56,2014,"Snake River Lower Mainstem",0,0,0
+58,1957,"Bear Valley Creek",0,0,1
+58,1958,"Bear Valley Creek",0,0,1
+58,1959,"Bear Valley Creek",0,0,1
+58,1960,"Bear Valley Creek",0,0,0
+58,1961,"Bear Valley Creek",0,0,0
+58,1962,"Bear Valley Creek",0,0,0
+58,1963,"Bear Valley Creek",0,0,0
+58,1964,"Bear Valley Creek",0,0,0
+58,1965,"Bear Valley Creek",0,0,0
+58,1966,"Bear Valley Creek",0,0,0
+58,1967,"Bear Valley Creek",0,0,0
+58,1968,"Bear Valley Creek",0,0,0
+58,1969,"Bear Valley Creek",0,0,0
+58,1970,"Bear Valley Creek",377,0,0
+58,1971,"Bear Valley Creek",0,0,0
+58,1972,"Bear Valley Creek",0,0,0
+58,1973,"Bear Valley Creek",0,0,0
+58,1974,"Bear Valley Creek",0,0,0
+58,1975,"Bear Valley Creek",0,0,0
+58,1976,"Bear Valley Creek",0,0,0
+58,1977,"Bear Valley Creek",74,0,0
+58,1978,"Bear Valley Creek",77,0,0
+58,1979,"Bear Valley Creek",86,0,0
+58,1980,"Bear Valley Creek",0,0,1
+58,1981,"Bear Valley Creek",100,0,1
+58,1982,"Bear Valley Creek",0,0,1
+58,1983,"Bear Valley Creek",0,0,1
+58,1984,"Bear Valley Creek",0,0,1
+58,1985,"Bear Valley Creek",127,0,0
+58,1986,"Bear Valley Creek",0,0,0
+58,1987,"Bear Valley Creek",0,0,0
+58,1988,"Bear Valley Creek",0,0,0
+58,1989,"Bear Valley Creek",158,0,0
+58,1990,"Bear Valley Creek",168,0,0
+58,1991,"Bear Valley Creek",175,0,0
+58,1992,"Bear Valley Creek",0,0,0
+58,1993,"Bear Valley Creek",0,0,0
+58,1994,"Bear Valley Creek",0,0,0
+58,1995,"Bear Valley Creek",0,0,0
+58,1996,"Bear Valley Creek",0,0,0
+58,1997,"Bear Valley Creek",231,0,0
+58,1998,"Bear Valley Creek",235,0,0
+58,1999,"Bear Valley Creek",249,0,0
+58,2000,"Bear Valley Creek",0,0,0
+58,2001,"Bear Valley Creek",0,0,0
+58,2002,"Bear Valley Creek",0,0,0
+58,2003,"Bear Valley Creek",0,0,0
+58,2004,"Bear Valley Creek",0,0,0
+58,2005,"Bear Valley Creek",0,0,0
+58,2006,"Bear Valley Creek",0,0,0
+58,2007,"Bear Valley Creek",0,0,0
+58,2008,"Bear Valley Creek",0,0,0
+58,2009,"Bear Valley Creek",0,0,0
+58,2010,"Bear Valley Creek",0,0,0
+58,2011,"Bear Valley Creek",0,0,0
+58,2012,"Bear Valley Creek",0,0,0
+58,2013,"Bear Valley Creek",0,0,0
+58,2014,"Bear Valley Creek",0,0,0
+59,1957,"Big Creek",0,0,1
+59,1958,"Big Creek",0,0,1
+59,1959,"Big Creek",0,0,1
+59,1960,"Big Creek",10,0,0
+59,1961,"Big Creek",13,0,0
+59,1962,"Big Creek",0,0,0
+59,1963,"Big Creek",0,0,0
+59,1964,"Big Creek",0,0,0
+59,1965,"Big Creek",0,0,0
+59,1966,"Big Creek",26,0,0
+59,1967,"Big Creek",0,0,0
+59,1968,"Big Creek",0,0,0
+59,1969,"Big Creek",0,0,0
+59,1970,"Big Creek",0,0,0
+59,1971,"Big Creek",43,0,0
+59,1972,"Big Creek",47,0,0
+59,1973,"Big Creek",51,0,0
+59,1974,"Big Creek",0,0,0
+59,1975,"Big Creek",62,0,0
+59,1976,"Big Creek",0,0,1
+59,1977,"Big Creek",74,0,0
+59,1978,"Big Creek",76,0,0
+59,1979,"Big Creek",86,0,0
+59,1980,"Big Creek",0,0,1
+59,1981,"Big Creek",100,0,0
+59,1982,"Big Creek",0,0,1
+59,1983,"Big Creek",0,0,1
+59,1984,"Big Creek",0,0,1
+59,1985,"Big Creek",127,0,0
+59,1986,"Big Creek",0,0,0
+59,1987,"Big Creek",146,0,0
+59,1988,"Big Creek",0,0,0
+59,1989,"Big Creek",158,0,0
+59,1990,"Big Creek",168,0,0
+59,1991,"Big Creek",175,0,0
+59,1992,"Big Creek",0,0,0
+59,1993,"Big Creek",0,0,0
+59,1994,"Big Creek",0,0,0
+59,1995,"Big Creek",0,0,0
+59,1996,"Big Creek",223,0,0
+59,1997,"Big Creek",232,0,0
+59,1998,"Big Creek",235,0,0
+59,1999,"Big Creek",249,0,0
+59,2000,"Big Creek",260,0,0
+59,2001,"Big Creek",0,0,0
+59,2002,"Big Creek",0,0,0
+59,2003,"Big Creek",280,0,0
+59,2004,"Big Creek",0,0,0
+59,2005,"Big Creek",296,0,0
+59,2006,"Big Creek",304,0,0
+59,2007,"Big Creek",315,0,0
+59,2008,"Big Creek",325,0,0
+59,2009,"Big Creek",336,0,0
+59,2010,"Big Creek",0,0,0
+59,2011,"Big Creek",0,0,0
+59,2012,"Big Creek",0,0,0
+59,2013,"Big Creek",0,0,0
+59,2014,"Big Creek",0,0,0
+61,1960,"Camas Creek",0,0,1
+61,1961,"Camas Creek",0,0,1
+61,1962,"Camas Creek",0,0,1
+61,1963,"Camas Creek",0,0,1
+61,1964,"Camas Creek",0,0,1
+61,1965,"Camas Creek",0,0,1
+61,1966,"Camas Creek",26,0,1
+61,1967,"Camas Creek",0,0,1
+61,1968,"Camas Creek",0,0,1
+61,1969,"Camas Creek",0,0,1
+61,1970,"Camas Creek",0,0,1
+61,1971,"Camas Creek",0,0,1
+61,1972,"Camas Creek",47,0,0
+61,1973,"Camas Creek",51,0,0
+61,1974,"Camas Creek",56,0,0
+61,1975,"Camas Creek",62,0,0
+61,1976,"Camas Creek",66,0,0
+61,1977,"Camas Creek",74,0,0
+61,1978,"Camas Creek",77,0,0
+61,1979,"Camas Creek",86,0,0
+61,1980,"Camas Creek",0,0,0
+61,1981,"Camas Creek",100,0,0
+61,1982,"Camas Creek",0,0,1
+61,1983,"Camas Creek",0,0,1
+61,1984,"Camas Creek",0,0,1
+61,1985,"Camas Creek",127,0,0
+61,1986,"Camas Creek",140,0,0
+61,1987,"Camas Creek",146,0,0
+61,1988,"Camas Creek",151,0,0
+61,1989,"Camas Creek",158,0,0
+61,1990,"Camas Creek",168,0,0
+61,1991,"Camas Creek",175,0,0
+61,1992,"Camas Creek",183,0,0
+61,1993,"Camas Creek",192,0,0
+61,1994,"Camas Creek",205,0,0
+61,1995,"Camas Creek",212,0,0
+61,1996,"Camas Creek",223,0,0
+61,1997,"Camas Creek",232,0,0
+61,1998,"Camas Creek",235,0,0
+61,1999,"Camas Creek",249,0,0
+61,2000,"Camas Creek",260,0,0
+61,2001,"Camas Creek",0,0,0
+61,2002,"Camas Creek",0,0,0
+61,2003,"Camas Creek",0,0,0
+61,2004,"Camas Creek",286,0,0
+61,2005,"Camas Creek",0,0,0
+61,2006,"Camas Creek",304,0,0
+61,2007,"Camas Creek",315,0,0
+61,2008,"Camas Creek",325,0,0
+61,2009,"Camas Creek",336,0,0
+61,2010,"Camas Creek",344,0,0
+61,2011,"Camas Creek",350,0,0
+61,2012,"Camas Creek",358,0,0
+61,2013,"Camas Creek",369,0,0
+61,2014,"Camas Creek",0,0,0
+62,1955,"Catherine Creek",2,0,0
+62,1956,"Catherine Creek",3,0,0
+62,1957,"Catherine Creek",5,0,0
+62,1958,"Catherine Creek",7,0,0
+62,1959,"Catherine Creek",9,0,0
+62,1960,"Catherine Creek",0,0,0
+62,1961,"Catherine Creek",0,0,0
+62,1962,"Catherine Creek",0,0,0
+62,1963,"Catherine Creek",0,0,0
+62,1964,"Catherine Creek",0,0,0
+62,1965,"Catherine Creek",0,0,0
+62,1966,"Catherine Creek",0,0,0
+62,1967,"Catherine Creek",31,0,0
+62,1968,"Catherine Creek",0,0,0
+62,1969,"Catherine Creek",0,0,0
+62,1970,"Catherine Creek",0,0,0
+62,1971,"Catherine Creek",0,0,0
+62,1972,"Catherine Creek",0,0,0
+62,1973,"Catherine Creek",52,0,0
+62,1974,"Catherine Creek",0,0,0
+62,1975,"Catherine Creek",0,0,0
+62,1976,"Catherine Creek",67,0,0
+62,1977,"Catherine Creek",0,0,0
+62,1978,"Catherine Creek",78,0,0
+62,1979,"Catherine Creek",0,0,1
+62,1980,"Catherine Creek",0,0,1
+62,1981,"Catherine Creek",0,0,1
+62,1982,"Catherine Creek",0,0,1
+62,1983,"Catherine Creek",111,0,0
+62,1984,"Catherine Creek",122,0,0
+62,1985,"Catherine Creek",133,0,0
+62,1986,"Catherine Creek",0,0,0
+62,1987,"Catherine Creek",0,0,0
+62,1988,"Catherine Creek",0,0,0
+62,1989,"Catherine Creek",0,0,0
+62,1990,"Catherine Creek",0,0,0
+62,1991,"Catherine Creek",0,0,0
+62,1992,"Catherine Creek",0,0,0
+62,1993,"Catherine Creek",0,0,0
+62,1994,"Catherine Creek",198,0,0
+62,1995,"Catherine Creek",215,0,0
+62,1996,"Catherine Creek",221,0,0
+62,1997,"Catherine Creek",0,0,0
+62,1998,"Catherine Creek",0,0,0
+62,1999,"Catherine Creek",0,0,0
+62,2000,"Catherine Creek",0,0,0
+62,2001,"Catherine Creek",0,0,0
+62,2002,"Catherine Creek",0,0,0
+62,2003,"Catherine Creek",0,0,0
+62,2004,"Catherine Creek",0,0,0
+62,2005,"Catherine Creek",0,0,0
+62,2006,"Catherine Creek",0,0,0
+62,2007,"Catherine Creek",0,0,0
+62,2008,"Catherine Creek",0,0,0
+62,2009,"Catherine Creek",0,0,0
+62,2010,"Catherine Creek",0,0,0
+62,2011,"Catherine Creek",0,0,0
+62,2012,"Catherine Creek",0,0,0
+62,2013,"Catherine Creek",0,0,0
+63,1957,"Chamberlain Creek",0,0,0
+63,1958,"Chamberlain Creek",0,0,0
+63,1959,"Chamberlain Creek",0,0,0
+63,1960,"Chamberlain Creek",0,0,0
+63,1961,"Chamberlain Creek",0,0,0
+63,1962,"Chamberlain Creek",0,0,0
+63,1963,"Chamberlain Creek",0,0,0
+63,1964,"Chamberlain Creek",0,0,0
+63,1965,"Chamberlain Creek",0,0,0
+63,1966,"Chamberlain Creek",0,0,0
+63,1967,"Chamberlain Creek",0,0,0
+63,1968,"Chamberlain Creek",0,0,0
+63,1969,"Chamberlain Creek",0,0,0
+63,1970,"Chamberlain Creek",0,0,0
+63,1971,"Chamberlain Creek",0,0,0
+63,1972,"Chamberlain Creek",0,0,0
+63,1973,"Chamberlain Creek",0,0,0
+63,1974,"Chamberlain Creek",0,0,0
+63,1975,"Chamberlain Creek",0,0,0
+63,1976,"Chamberlain Creek",0,0,0
+63,1977,"Chamberlain Creek",0,0,0
+63,1978,"Chamberlain Creek",0,0,0
+63,1979,"Chamberlain Creek",0,0,0
+63,1980,"Chamberlain Creek",0,0,0
+63,1981,"Chamberlain Creek",0,0,0
+63,1982,"Chamberlain Creek",0,0,0
+63,1983,"Chamberlain Creek",0,0,0
+63,1984,"Chamberlain Creek",0,0,0
+63,1985,"Chamberlain Creek",127,0,0
+63,1986,"Chamberlain Creek",0,0,0
+63,1987,"Chamberlain Creek",0,0,0
+63,1988,"Chamberlain Creek",151,0,0
+63,1989,"Chamberlain Creek",158,0,0
+63,1990,"Chamberlain Creek",168,0,0
+63,1991,"Chamberlain Creek",175,0,0
+63,1992,"Chamberlain Creek",0,0,0
+63,1993,"Chamberlain Creek",0,0,0
+63,1994,"Chamberlain Creek",0,0,0
+63,1995,"Chamberlain Creek",0,0,0
+63,1996,"Chamberlain Creek",0,0,0
+63,1997,"Chamberlain Creek",0,0,0
+63,1998,"Chamberlain Creek",235,0,0
+63,1999,"Chamberlain Creek",249,0,0
+63,2000,"Chamberlain Creek",260,0,0
+63,2001,"Chamberlain Creek",0,0,0
+63,2002,"Chamberlain Creek",0,0,0
+63,2003,"Chamberlain Creek",0,0,0
+63,2004,"Chamberlain Creek",286,0,0
+63,2005,"Chamberlain Creek",296,0,0
+63,2006,"Chamberlain Creek",304,0,0
+63,2007,"Chamberlain Creek",315,0,0
+63,2008,"Chamberlain Creek",325,0,0
+63,2009,"Chamberlain Creek",336,0,0
+63,2010,"Chamberlain Creek",344,0,0
+63,2011,"Chamberlain Creek",0,0,0
+63,2012,"Chamberlain Creek",358,0,0
+63,2013,"Chamberlain Creek",0,0,0
+63,2014,"Chamberlain Creek",0,0,0
+64,1957,"East Fork Salmon River",0,0,1
+64,1958,"East Fork Salmon River",0,0,1
+64,1959,"East Fork Salmon River",0,0,1
+64,1960,"East Fork Salmon River",0,0,0
+64,1961,"East Fork Salmon River",0,0,0
+64,1962,"East Fork Salmon River",0,0,0
+64,1963,"East Fork Salmon River",0,0,0
+64,1964,"East Fork Salmon River",0,0,0
+64,1965,"East Fork Salmon River",0,0,0
+64,1966,"East Fork Salmon River",0,0,0
+64,1967,"East Fork Salmon River",0,0,0
+64,1968,"East Fork Salmon River",0,0,0
+64,1969,"East Fork Salmon River",0,0,0
+64,1970,"East Fork Salmon River",0,0,0
+64,1971,"East Fork Salmon River",0,0,0
+64,1972,"East Fork Salmon River",0,0,0
+64,1973,"East Fork Salmon River",0,0,0
+64,1974,"East Fork Salmon River",0,0,0
+64,1975,"East Fork Salmon River",0,0,0
+64,1976,"East Fork Salmon River",68,0,0
+64,1977,"East Fork Salmon River",0,0,0
+64,1978,"East Fork Salmon River",76,0,0
+64,1979,"East Fork Salmon River",88,0,0
+64,1980,"East Fork Salmon River",0,0,1
+64,1981,"East Fork Salmon River",101,0,1
+64,1982,"East Fork Salmon River",0,0,1
+64,1983,"East Fork Salmon River",0,0,1
+64,1984,"East Fork Salmon River",0,0,1
+64,1985,"East Fork Salmon River",0,0,1
+64,1986,"East Fork Salmon River",0,0,1
+64,1987,"East Fork Salmon River",0,0,1
+64,1988,"East Fork Salmon River",0,0,1
+64,1989,"East Fork Salmon River",0,0,1
+64,1990,"East Fork Salmon River",0,0,1
+64,1991,"East Fork Salmon River",0,0,1
+64,1992,"East Fork Salmon River",0,0,1
+64,1993,"East Fork Salmon River",193,0,0
+64,1994,"East Fork Salmon River",202,0,0
+64,1995,"East Fork Salmon River",0,0,1
+64,1996,"East Fork Salmon River",0,0,1
+64,1997,"East Fork Salmon River",0,0,1
+64,1998,"East Fork Salmon River",0,0,1
+64,1999,"East Fork Salmon River",251,0,0
+64,2000,"East Fork Salmon River",257,0,0
+64,2001,"East Fork Salmon River",268,0,0
+64,2002,"East Fork Salmon River",0,0,0
+64,2003,"East Fork Salmon River",0,0,0
+64,2004,"East Fork Salmon River",287,0,0
+64,2005,"East Fork Salmon River",295,0,0
+64,2006,"East Fork Salmon River",308,0,0
+64,2007,"East Fork Salmon River",317,0,0
+64,2008,"East Fork Salmon River",0,0,0
+64,2009,"East Fork Salmon River",0,0,0
+64,2010,"East Fork Salmon River",0,0,0
+64,2011,"East Fork Salmon River",0,0,0
+64,2012,"East Fork Salmon River",0,0,0
+64,2013,"East Fork Salmon River",0,0,0
+64,2014,"East Fork Salmon River",0,0,0
+65,1957,"East Fork South Fork Salmon River",0,0,1
+65,1958,"East Fork South Fork Salmon River",0,0,1
+65,1959,"East Fork South Fork Salmon River",0,0,1
+65,1960,"East Fork South Fork Salmon River",0,0,0
+65,1961,"East Fork South Fork Salmon River",0,0,0
+65,1962,"East Fork South Fork Salmon River",0,0,0
+65,1963,"East Fork South Fork Salmon River",0,0,0
+65,1964,"East Fork South Fork Salmon River",0,0,0
+65,1965,"East Fork South Fork Salmon River",0,0,0
+65,1966,"East Fork South Fork Salmon River",0,0,0
+65,1967,"East Fork South Fork Salmon River",0,0,0
+65,1968,"East Fork South Fork Salmon River",0,0,0
+65,1969,"East Fork South Fork Salmon River",0,0,0
+65,1970,"East Fork South Fork Salmon River",0,0,0
+65,1971,"East Fork South Fork Salmon River",0,0,0
+65,1972,"East Fork South Fork Salmon River",0,0,0
+65,1973,"East Fork South Fork Salmon River",0,0,0
+65,1974,"East Fork South Fork Salmon River",0,0,0
+65,1975,"East Fork South Fork Salmon River",0,0,0
+65,1976,"East Fork South Fork Salmon River",0,0,0
+65,1977,"East Fork South Fork Salmon River",0,0,0
+65,1978,"East Fork South Fork Salmon River",0,0,0
+65,1979,"East Fork South Fork Salmon River",89,0,0
+65,1980,"East Fork South Fork Salmon River",0,0,0
+65,1981,"East Fork South Fork Salmon River",103,0,0
+65,1982,"East Fork South Fork Salmon River",0,0,0
+65,1983,"East Fork South Fork Salmon River",0,0,0
+65,1984,"East Fork South Fork Salmon River",0,0,0
+65,1985,"East Fork South Fork Salmon River",0,0,0
+65,1986,"East Fork South Fork Salmon River",0,0,0
+65,1987,"East Fork South Fork Salmon River",0,0,0
+65,1988,"East Fork South Fork Salmon River",0,0,0
+65,1989,"East Fork South Fork Salmon River",0,0,0
+65,1990,"East Fork South Fork Salmon River",0,0,0
+65,1991,"East Fork South Fork Salmon River",0,0,0
+65,1992,"East Fork South Fork Salmon River",0,0,0
+65,1993,"East Fork South Fork Salmon River",0,0,0
+65,1994,"East Fork South Fork Salmon River",203,0,0
+65,1995,"East Fork South Fork Salmon River",214,0,0
+65,1996,"East Fork South Fork Salmon River",0,0,0
+65,1997,"East Fork South Fork Salmon River",0,0,0
+65,1998,"East Fork South Fork Salmon River",0,0,0
+65,1999,"East Fork South Fork Salmon River",0,0,0
+65,2000,"East Fork South Fork Salmon River",0,0,0
+65,2001,"East Fork South Fork Salmon River",0,0,0
+65,2002,"East Fork South Fork Salmon River",0,0,0
+65,2003,"East Fork South Fork Salmon River",0,0,0
+65,2004,"East Fork South Fork Salmon River",0,0,0
+65,2005,"East Fork South Fork Salmon River",0,0,0
+65,2006,"East Fork South Fork Salmon River",0,0,0
+65,2007,"East Fork South Fork Salmon River",0,0,0
+65,2008,"East Fork South Fork Salmon River",0,0,0
+65,2009,"East Fork South Fork Salmon River",0,0,0
+65,2010,"East Fork South Fork Salmon River",0,0,0
+65,2011,"East Fork South Fork Salmon River",0,0,0
+65,2012,"East Fork South Fork Salmon River",0,0,0
+65,2013,"East Fork South Fork Salmon River",0,0,0
+65,2014,"East Fork South Fork Salmon River",0,0,0
+66,1955,"Grande Ronde River Upper Mainstem",2,0,0
+66,1956,"Grande Ronde River Upper Mainstem",3,0,0
+66,1957,"Grande Ronde River Upper Mainstem",5,0,0
+66,1958,"Grande Ronde River Upper Mainstem",0,0,0
+66,1959,"Grande Ronde River Upper Mainstem",9,0,0
+66,1960,"Grande Ronde River Upper Mainstem",12,0,0
+66,1961,"Grande Ronde River Upper Mainstem",15,0,0
+66,1962,"Grande Ronde River Upper Mainstem",0,0,0
+66,1963,"Grande Ronde River Upper Mainstem",18,0,0
+66,1964,"Grande Ronde River Upper Mainstem",0,0,0
+66,1965,"Grande Ronde River Upper Mainstem",23,0,0
+66,1966,"Grande Ronde River Upper Mainstem",27,0,0
+66,1967,"Grande Ronde River Upper Mainstem",31,0,0
+66,1968,"Grande Ronde River Upper Mainstem",0,0,0
+66,1969,"Grande Ronde River Upper Mainstem",0,0,0
+66,1970,"Grande Ronde River Upper Mainstem",0,0,0
+66,1971,"Grande Ronde River Upper Mainstem",44,0,0
+66,1972,"Grande Ronde River Upper Mainstem",0,0,0
+66,1973,"Grande Ronde River Upper Mainstem",52,0,0
+66,1974,"Grande Ronde River Upper Mainstem",57,0,0
+66,1975,"Grande Ronde River Upper Mainstem",59,0,0
+66,1976,"Grande Ronde River Upper Mainstem",67,0,0
+66,1977,"Grande Ronde River Upper Mainstem",0,0,0
+66,1978,"Grande Ronde River Upper Mainstem",78,0,0
+66,1979,"Grande Ronde River Upper Mainstem",0,0,1
+66,1980,"Grande Ronde River Upper Mainstem",0,0,1
+66,1981,"Grande Ronde River Upper Mainstem",0,0,1
+66,1982,"Grande Ronde River Upper Mainstem",0,0,1
+66,1983,"Grande Ronde River Upper Mainstem",111,0,0
+66,1984,"Grande Ronde River Upper Mainstem",122,0,0
+66,1985,"Grande Ronde River Upper Mainstem",133,0,0
+66,1986,"Grande Ronde River Upper Mainstem",139,0,0
+66,1987,"Grande Ronde River Upper Mainstem",0,0,0
+66,1988,"Grande Ronde River Upper Mainstem",0,0,0
+66,1989,"Grande Ronde River Upper Mainstem",160,0,0
+66,1990,"Grande Ronde River Upper Mainstem",167,0,0
+66,1991,"Grande Ronde River Upper Mainstem",176,0,0
+66,1992,"Grande Ronde River Upper Mainstem",0,0,0
+66,1993,"Grande Ronde River Upper Mainstem",0,0,0
+66,1994,"Grande Ronde River Upper Mainstem",198,0,0
+66,1995,"Grande Ronde River Upper Mainstem",215,0,0
+66,1996,"Grande Ronde River Upper Mainstem",221,0,0
+66,1997,"Grande Ronde River Upper Mainstem",0,0,0
+66,1998,"Grande Ronde River Upper Mainstem",237,0,0
+66,1999,"Grande Ronde River Upper Mainstem",0,0,0
+66,2000,"Grande Ronde River Upper Mainstem",0,0,0
+66,2001,"Grande Ronde River Upper Mainstem",266,0,0
+66,2002,"Grande Ronde River Upper Mainstem",0,0,0
+66,2003,"Grande Ronde River Upper Mainstem",0,0,0
+66,2004,"Grande Ronde River Upper Mainstem",0,0,0
+66,2005,"Grande Ronde River Upper Mainstem",0,0,0
+66,2006,"Grande Ronde River Upper Mainstem",0,0,0
+66,2007,"Grande Ronde River Upper Mainstem",0,0,0
+66,2008,"Grande Ronde River Upper Mainstem",0,0,0
+66,2009,"Grande Ronde River Upper Mainstem",0,0,0
+66,2010,"Grande Ronde River Upper Mainstem",0,0,0
+66,2011,"Grande Ronde River Upper Mainstem",0,0,0
+66,2012,"Grande Ronde River Upper Mainstem",0,0,0
+66,2013,"Grande Ronde River Upper Mainstem",0,0,0
+67,1949,"Imnaha River Mainstem",0,0,1
+67,1950,"Imnaha River Mainstem",0,0,1
+67,1951,"Imnaha River Mainstem",0,0,1
+67,1952,"Imnaha River Mainstem",0,0,1
+67,1953,"Imnaha River Mainstem",0,0,1
+67,1954,"Imnaha River Mainstem",0,0,1
+67,1955,"Imnaha River Mainstem",0,0,1
+67,1956,"Imnaha River Mainstem",0,0,1
+67,1957,"Imnaha River Mainstem",0,0,1
+67,1958,"Imnaha River Mainstem",0,0,1
+67,1959,"Imnaha River Mainstem",0,0,1
+67,1960,"Imnaha River Mainstem",0,0,1
+67,1961,"Imnaha River Mainstem",0,0,1
+67,1962,"Imnaha River Mainstem",0,0,1
+67,1963,"Imnaha River Mainstem",0,0,1
+67,1964,"Imnaha River Mainstem",0,0,1
+67,1965,"Imnaha River Mainstem",0,0,1
+67,1966,"Imnaha River Mainstem",0,0,1
+67,1967,"Imnaha River Mainstem",0,0,1
+67,1968,"Imnaha River Mainstem",0,0,1
+67,1969,"Imnaha River Mainstem",0,0,1
+67,1970,"Imnaha River Mainstem",0,0,1
+67,1971,"Imnaha River Mainstem",0,0,1
+67,1972,"Imnaha River Mainstem",0,0,1
+67,1973,"Imnaha River Mainstem",0,0,1
+67,1974,"Imnaha River Mainstem",0,0,1
+67,1975,"Imnaha River Mainstem",0,0,1
+67,1976,"Imnaha River Mainstem",0,0,1
+67,1977,"Imnaha River Mainstem",0,0,1
+67,1978,"Imnaha River Mainstem",0,0,1
+67,1979,"Imnaha River Mainstem",0,0,1
+67,1980,"Imnaha River Mainstem",0,0,1
+67,1981,"Imnaha River Mainstem",0,0,1
+67,1982,"Imnaha River Mainstem",0,0,1
+67,1983,"Imnaha River Mainstem",0,0,1
+67,1984,"Imnaha River Mainstem",0,0,1
+67,1985,"Imnaha River Mainstem",0,0,0
+67,1986,"Imnaha River Mainstem",0,0,0
+67,1987,"Imnaha River Mainstem",0,0,0
+67,1988,"Imnaha River Mainstem",0,0,0
+67,1989,"Imnaha River Mainstem",0,0,0
+67,1990,"Imnaha River Mainstem",0,0,0
+67,1991,"Imnaha River Mainstem",0,0,0
+67,1992,"Imnaha River Mainstem",0,0,0
+67,1993,"Imnaha River Mainstem",0,0,0
+67,1994,"Imnaha River Mainstem",0,0,0
+67,1995,"Imnaha River Mainstem",0,0,0
+67,1996,"Imnaha River Mainstem",0,0,0
+67,1997,"Imnaha River Mainstem",0,0,0
+67,1998,"Imnaha River Mainstem",0,0,0
+67,1999,"Imnaha River Mainstem",0,0,0
+67,2000,"Imnaha River Mainstem",0,0,0
+67,2001,"Imnaha River Mainstem",0,0,0
+67,2002,"Imnaha River Mainstem",0,0,0
+67,2003,"Imnaha River Mainstem",0,0,0
+67,2004,"Imnaha River Mainstem",0,0,0
+67,2005,"Imnaha River Mainstem",0,0,0
+67,2006,"Imnaha River Mainstem",0,0,0
+67,2007,"Imnaha River Mainstem",0,0,0
+67,2008,"Imnaha River Mainstem",0,0,0
+67,2009,"Imnaha River Mainstem",0,0,0
+67,2010,"Imnaha River Mainstem",0,0,0
+67,2011,"Imnaha River Mainstem",0,0,0
+67,2012,"Imnaha River Mainstem",0,0,0
+67,2013,"Imnaha River Mainstem",0,0,0
+70,1957,"Lemhi River",0,0,1
+70,1958,"Lemhi River",0,0,1
+70,1959,"Lemhi River",0,0,1
+70,1960,"Lemhi River",0,0,0
+70,1961,"Lemhi River",0,0,0
+70,1962,"Lemhi River",0,0,0
+70,1963,"Lemhi River",0,0,0
+70,1964,"Lemhi River",0,0,0
+70,1965,"Lemhi River",0,0,0
+70,1966,"Lemhi River",0,0,0
+70,1967,"Lemhi River",0,0,0
+70,1968,"Lemhi River",0,0,0
+70,1969,"Lemhi River",0,0,0
+70,1970,"Lemhi River",0,0,0
+70,1971,"Lemhi River",0,0,0
+70,1972,"Lemhi River",0,0,0
+70,1973,"Lemhi River",0,0,0
+70,1974,"Lemhi River",0,0,0
+70,1975,"Lemhi River",0,0,0
+70,1976,"Lemhi River",0,0,1
+70,1977,"Lemhi River",0,0,1
+70,1978,"Lemhi River",0,0,1
+70,1979,"Lemhi River",0,0,1
+70,1980,"Lemhi River",0,0,1
+70,1981,"Lemhi River",0,0,1
+70,1982,"Lemhi River",0,0,1
+70,1983,"Lemhi River",0,0,1
+70,1984,"Lemhi River",0,0,1
+70,1985,"Lemhi River",0,0,1
+70,1986,"Lemhi River",0,0,1
+70,1987,"Lemhi River",0,0,1
+70,1988,"Lemhi River",0,0,1
+70,1989,"Lemhi River",0,0,1
+70,1990,"Lemhi River",0,0,1
+70,1991,"Lemhi River",0,0,1
+70,1992,"Lemhi River",0,0,1
+70,1993,"Lemhi River",0,0,1
+70,1994,"Lemhi River",204,0,1
+70,1995,"Lemhi River",0,0,1
+70,1996,"Lemhi River",0,0,1
+70,1997,"Lemhi River",0,0,1
+70,1998,"Lemhi River",0,0,1
+70,1999,"Lemhi River",0,0,1
+70,2000,"Lemhi River",0,0,1
+70,2001,"Lemhi River",268,0,0
+70,2002,"Lemhi River",274,0,0
+70,2003,"Lemhi River",281,0,0
+70,2004,"Lemhi River",287,0,0
+70,2005,"Lemhi River",295,0,0
+70,2006,"Lemhi River",308,0,0
+70,2007,"Lemhi River",317,0,0
+70,2008,"Lemhi River",327,0,0
+70,2009,"Lemhi River",338,0,0
+70,2010,"Lemhi River",0,0,0
+70,2011,"Lemhi River",0,0,0
+70,2012,"Lemhi River",0,0,0
+70,2013,"Lemhi River",0,0,0
+70,2014,"Lemhi River",0,0,0
+75,1957,"Loon Creek",0,0,1
+75,1958,"Loon Creek",0,0,1
+75,1959,"Loon Creek",0,0,1
+75,1960,"Loon Creek",0,0,1
+75,1961,"Loon Creek",0,0,1
+75,1962,"Loon Creek",0,0,1
+75,1963,"Loon Creek",0,0,1
+75,1964,"Loon Creek",0,0,1
+75,1965,"Loon Creek",0,0,1
+75,1966,"Loon Creek",26,0,1
+75,1967,"Loon Creek",30,0,0
+75,1968,"Loon Creek",34,0,0
+75,1969,"Loon Creek",37,0,0
+75,1970,"Loon Creek",377,0,0
+75,1971,"Loon Creek",43,0,0
+75,1972,"Loon Creek",47,0,0
+75,1973,"Loon Creek",51,0,0
+75,1974,"Loon Creek",56,0,0
+75,1975,"Loon Creek",62,0,0
+75,1976,"Loon Creek",0,0,0
+75,1977,"Loon Creek",74,0,0
+75,1978,"Loon Creek",77,0,0
+75,1979,"Loon Creek",86,0,1
+75,1980,"Loon Creek",0,0,0
+75,1981,"Loon Creek",100,0,0
+75,1982,"Loon Creek",0,0,1
+75,1983,"Loon Creek",0,0,1
+75,1984,"Loon Creek",0,0,1
+75,1985,"Loon Creek",127,0,0
+75,1986,"Loon Creek",140,0,0
+75,1987,"Loon Creek",146,0,0
+75,1988,"Loon Creek",151,0,0
+75,1989,"Loon Creek",158,0,0
+75,1990,"Loon Creek",168,0,0
+75,1991,"Loon Creek",175,0,0
+75,1992,"Loon Creek",183,0,0
+75,1993,"Loon Creek",192,0,0
+75,1994,"Loon Creek",0,0,0
+75,1995,"Loon Creek",212,0,0
+75,1996,"Loon Creek",223,0,0
+75,1997,"Loon Creek",232,0,0
+75,1998,"Loon Creek",235,0,0
+75,1999,"Loon Creek",249,0,0
+75,2000,"Loon Creek",260,0,0
+75,2001,"Loon Creek",267,0,0
+75,2002,"Loon Creek",0,0,0
+75,2003,"Loon Creek",0,0,0
+75,2004,"Loon Creek",286,0,0
+75,2005,"Loon Creek",296,0,0
+75,2006,"Loon Creek",304,0,0
+75,2007,"Loon Creek",315,0,0
+75,2008,"Loon Creek",325,0,0
+75,2009,"Loon Creek",336,0,0
+75,2010,"Loon Creek",344,0,0
+75,2011,"Loon Creek",350,0,0
+75,2012,"Loon Creek",358,0,0
+75,2013,"Loon Creek",369,0,0
+75,2014,"Loon Creek",0,0,0
+76,1949,"Wallowa/Lostine Rivers",0,0,0
+76,1950,"Wallowa/Lostine Rivers",0,0,0
+76,1951,"Wallowa/Lostine Rivers",0,0,0
+76,1952,"Wallowa/Lostine Rivers",0,0,0
+76,1953,"Wallowa/Lostine Rivers",0,0,0
+76,1954,"Wallowa/Lostine Rivers",1,0,0
+76,1955,"Wallowa/Lostine Rivers",2,0,0
+76,1956,"Wallowa/Lostine Rivers",3,0,0
+76,1957,"Wallowa/Lostine Rivers",5,0,0
+76,1958,"Wallowa/Lostine Rivers",0,0,0
+76,1959,"Wallowa/Lostine Rivers",9,0,0
+76,1960,"Wallowa/Lostine Rivers",12,0,0
+76,1961,"Wallowa/Lostine Rivers",15,0,0
+76,1962,"Wallowa/Lostine Rivers",0,0,0
+76,1963,"Wallowa/Lostine Rivers",0,0,0
+76,1964,"Wallowa/Lostine Rivers",0,0,0
+76,1965,"Wallowa/Lostine Rivers",23,0,0
+76,1966,"Wallowa/Lostine Rivers",0,0,0
+76,1967,"Wallowa/Lostine Rivers",0,0,0
+76,1968,"Wallowa/Lostine Rivers",0,0,0
+76,1969,"Wallowa/Lostine Rivers",0,0,0
+76,1970,"Wallowa/Lostine Rivers",0,0,0
+76,1971,"Wallowa/Lostine Rivers",0,0,0
+76,1972,"Wallowa/Lostine Rivers",0,0,0
+76,1973,"Wallowa/Lostine Rivers",0,0,0
+76,1974,"Wallowa/Lostine Rivers",0,0,0
+76,1975,"Wallowa/Lostine Rivers",59,0,0
+76,1976,"Wallowa/Lostine Rivers",67,0,0
+76,1977,"Wallowa/Lostine Rivers",0,0,1
+76,1978,"Wallowa/Lostine Rivers",0,0,1
+76,1979,"Wallowa/Lostine Rivers",0,0,1
+76,1980,"Wallowa/Lostine Rivers",0,0,1
+76,1981,"Wallowa/Lostine Rivers",0,0,1
+76,1982,"Wallowa/Lostine Rivers",0,0,1
+76,1983,"Wallowa/Lostine Rivers",111,0,0
+76,1984,"Wallowa/Lostine Rivers",122,0,0
+76,1985,"Wallowa/Lostine Rivers",133,0,0
+76,1986,"Wallowa/Lostine Rivers",139,0,0
+76,1987,"Wallowa/Lostine Rivers",0,0,0
+76,1988,"Wallowa/Lostine Rivers",0,0,0
+76,1989,"Wallowa/Lostine Rivers",0,0,0
+76,1990,"Wallowa/Lostine Rivers",0,0,0
+76,1991,"Wallowa/Lostine Rivers",0,0,0
+76,1992,"Wallowa/Lostine Rivers",0,0,0
+76,1993,"Wallowa/Lostine Rivers",0,0,0
+76,1994,"Wallowa/Lostine Rivers",198,0,0
+76,1995,"Wallowa/Lostine Rivers",215,0,0
+76,1996,"Wallowa/Lostine Rivers",0,0,0
+76,1997,"Wallowa/Lostine Rivers",0,0,0
+76,1998,"Wallowa/Lostine Rivers",0,0,0
+76,1999,"Wallowa/Lostine Rivers",0,0,0
+76,2000,"Wallowa/Lostine Rivers",0,0,0
+76,2001,"Wallowa/Lostine Rivers",0,0,0
+76,2002,"Wallowa/Lostine Rivers",0,0,0
+76,2003,"Wallowa/Lostine Rivers",0,0,0
+76,2004,"Wallowa/Lostine Rivers",0,0,0
+76,2005,"Wallowa/Lostine Rivers",0,0,0
+76,2006,"Wallowa/Lostine Rivers",0,0,0
+76,2007,"Wallowa/Lostine Rivers",0,0,0
+76,2008,"Wallowa/Lostine Rivers",0,0,0
+76,2009,"Wallowa/Lostine Rivers",0,0,0
+76,2010,"Wallowa/Lostine Rivers",0,0,0
+76,2011,"Wallowa/Lostine Rivers",0,0,0
+76,2012,"Wallowa/Lostine Rivers",0,0,0
+76,2013,"Wallowa/Lostine Rivers",0,0,0
+78,1957,"Marsh Creek",0,0,1
+78,1958,"Marsh Creek",0,0,1
+78,1959,"Marsh Creek",0,0,1
+78,1960,"Marsh Creek",0,0,0
+78,1961,"Marsh Creek",0,0,0
+78,1962,"Marsh Creek",0,0,0
+78,1963,"Marsh Creek",0,0,0
+78,1964,"Marsh Creek",0,0,0
+78,1965,"Marsh Creek",0,0,0
+78,1966,"Marsh Creek",0,0,0
+78,1967,"Marsh Creek",0,0,0
+78,1968,"Marsh Creek",0,0,0
+78,1969,"Marsh Creek",0,0,0
+78,1970,"Marsh Creek",0,0,0
+78,1971,"Marsh Creek",0,0,0
+78,1972,"Marsh Creek",0,0,0
+78,1973,"Marsh Creek",0,0,0
+78,1974,"Marsh Creek",0,0,0
+78,1975,"Marsh Creek",0,0,0
+78,1976,"Marsh Creek",0,0,0
+78,1977,"Marsh Creek",0,0,0
+78,1978,"Marsh Creek",0,0,0
+78,1979,"Marsh Creek",86,0,0
+78,1980,"Marsh Creek",0,0,1
+78,1981,"Marsh Creek",100,0,1
+78,1982,"Marsh Creek",0,0,1
+78,1983,"Marsh Creek",0,0,1
+78,1984,"Marsh Creek",0,0,1
+78,1985,"Marsh Creek",127,0,0
+78,1986,"Marsh Creek",140,0,0
+78,1987,"Marsh Creek",146,0,0
+78,1988,"Marsh Creek",0,0,0
+78,1989,"Marsh Creek",158,0,0
+78,1990,"Marsh Creek",168,0,0
+78,1991,"Marsh Creek",175,0,0
+78,1992,"Marsh Creek",0,0,0
+78,1993,"Marsh Creek",0,0,0
+78,1994,"Marsh Creek",0,0,1
+78,1995,"Marsh Creek",0,0,1
+78,1996,"Marsh Creek",223,0,0
+78,1997,"Marsh Creek",232,0,0
+78,1998,"Marsh Creek",0,0,0
+78,1999,"Marsh Creek",249,0,0
+78,2000,"Marsh Creek",260,0,0
+78,2001,"Marsh Creek",0,0,0
+78,2002,"Marsh Creek",0,0,0
+78,2003,"Marsh Creek",0,0,0
+78,2004,"Marsh Creek",286,0,0
+78,2005,"Marsh Creek",0,0,0
+78,2006,"Marsh Creek",0,0,0
+78,2007,"Marsh Creek",0,0,0
+78,2008,"Marsh Creek",0,0,0
+78,2009,"Marsh Creek",0,0,0
+78,2010,"Marsh Creek",342,0,0
+78,2011,"Marsh Creek",0,0,0
+78,2012,"Marsh Creek",0,0,0
+78,2013,"Marsh Creek",0,0,0
+78,2014,"Marsh Creek",0,0,0
+80,1957,"Middle Fork Salmon River Upper Mainstem",4,0,1
+80,1958,"Middle Fork Salmon River Upper Mainstem",6,0,1
+80,1959,"Middle Fork Salmon River Upper Mainstem",8,0,1
+80,1960,"Middle Fork Salmon River Upper Mainstem",10,0,0
+80,1961,"Middle Fork Salmon River Upper Mainstem",14,0,0
+80,1962,"Middle Fork Salmon River Upper Mainstem",16,0,0
+80,1963,"Middle Fork Salmon River Upper Mainstem",17,0,0
+80,1964,"Middle Fork Salmon River Upper Mainstem",20,0,0
+80,1965,"Middle Fork Salmon River Upper Mainstem",11,0,0
+80,1966,"Middle Fork Salmon River Upper Mainstem",26,0,0
+80,1967,"Middle Fork Salmon River Upper Mainstem",30,0,0
+80,1968,"Middle Fork Salmon River Upper Mainstem",34,0,0
+80,1969,"Middle Fork Salmon River Upper Mainstem",37,0,0
+80,1970,"Middle Fork Salmon River Upper Mainstem",376,0,0
+80,1971,"Middle Fork Salmon River Upper Mainstem",43,0,0
+80,1972,"Middle Fork Salmon River Upper Mainstem",47,0,0
+80,1973,"Middle Fork Salmon River Upper Mainstem",51,0,0
+80,1974,"Middle Fork Salmon River Upper Mainstem",56,0,0
+80,1975,"Middle Fork Salmon River Upper Mainstem",62,0,0
+80,1976,"Middle Fork Salmon River Upper Mainstem",66,0,0
+80,1977,"Middle Fork Salmon River Upper Mainstem",73,0,0
+80,1978,"Middle Fork Salmon River Upper Mainstem",77,0,0
+80,1979,"Middle Fork Salmon River Upper Mainstem",86,0,0
+80,1980,"Middle Fork Salmon River Upper Mainstem",94,0,1
+80,1981,"Middle Fork Salmon River Upper Mainstem",100,0,0
+80,1982,"Middle Fork Salmon River Upper Mainstem",109,0,1
+80,1983,"Middle Fork Salmon River Upper Mainstem",118,0,1
+80,1984,"Middle Fork Salmon River Upper Mainstem",124,0,1
+80,1985,"Middle Fork Salmon River Upper Mainstem",127,0,0
+80,1986,"Middle Fork Salmon River Upper Mainstem",140,0,0
+80,1987,"Middle Fork Salmon River Upper Mainstem",146,0,0
+80,1988,"Middle Fork Salmon River Upper Mainstem",151,0,0
+80,1989,"Middle Fork Salmon River Upper Mainstem",158,0,0
+80,1990,"Middle Fork Salmon River Upper Mainstem",168,0,0
+80,1991,"Middle Fork Salmon River Upper Mainstem",175,0,0
+80,1992,"Middle Fork Salmon River Upper Mainstem",183,0,0
+80,1993,"Middle Fork Salmon River Upper Mainstem",192,0,0
+80,1994,"Middle Fork Salmon River Upper Mainstem",205,0,1
+80,1995,"Middle Fork Salmon River Upper Mainstem",212,0,1
+80,1996,"Middle Fork Salmon River Upper Mainstem",223,0,0
+80,1997,"Middle Fork Salmon River Upper Mainstem",232,0,0
+80,1998,"Middle Fork Salmon River Upper Mainstem",235,0,0
+80,1999,"Middle Fork Salmon River Upper Mainstem",249,0,0
+80,2000,"Middle Fork Salmon River Upper Mainstem",258,0,0
+80,2001,"Middle Fork Salmon River Upper Mainstem",267,0,0
+80,2002,"Middle Fork Salmon River Upper Mainstem",378,0,0
+80,2003,"Middle Fork Salmon River Upper Mainstem",280,0,0
+80,2004,"Middle Fork Salmon River Upper Mainstem",286,0,0
+80,2005,"Middle Fork Salmon River Upper Mainstem",296,0,0
+80,2006,"Middle Fork Salmon River Upper Mainstem",304,0,0
+80,2007,"Middle Fork Salmon River Upper Mainstem",315,0,0
+80,2008,"Middle Fork Salmon River Upper Mainstem",325,0,0
+80,2009,"Middle Fork Salmon River Upper Mainstem",336,0,0
+80,2010,"Middle Fork Salmon River Upper Mainstem",344,0,0
+80,2011,"Middle Fork Salmon River Upper Mainstem",350,0,0
+80,2012,"Middle Fork Salmon River Upper Mainstem",359,0,0
+80,2013,"Middle Fork Salmon River Upper Mainstem",369,0,0
+80,2014,"Middle Fork Salmon River Upper Mainstem",374,0,0
+81,1957,"Middle Fork Salmon River Lower Mainstem",4,0,1
+81,1958,"Middle Fork Salmon River Lower Mainstem",6,0,1
+81,1959,"Middle Fork Salmon River Lower Mainstem",8,0,1
+81,1960,"Middle Fork Salmon River Lower Mainstem",10,0,0
+81,1961,"Middle Fork Salmon River Lower Mainstem",14,0,0
+81,1962,"Middle Fork Salmon River Lower Mainstem",16,0,0
+81,1963,"Middle Fork Salmon River Lower Mainstem",17,0,0
+81,1964,"Middle Fork Salmon River Lower Mainstem",20,0,0
+81,1965,"Middle Fork Salmon River Lower Mainstem",11,0,0
+81,1966,"Middle Fork Salmon River Lower Mainstem",26,0,0
+81,1967,"Middle Fork Salmon River Lower Mainstem",30,0,0
+81,1968,"Middle Fork Salmon River Lower Mainstem",34,0,0
+81,1969,"Middle Fork Salmon River Lower Mainstem",37,0,0
+81,1970,"Middle Fork Salmon River Lower Mainstem",376,0,0
+81,1971,"Middle Fork Salmon River Lower Mainstem",43,0,0
+81,1972,"Middle Fork Salmon River Lower Mainstem",47,0,0
+81,1973,"Middle Fork Salmon River Lower Mainstem",51,0,0
+81,1974,"Middle Fork Salmon River Lower Mainstem",56,0,0
+81,1975,"Middle Fork Salmon River Lower Mainstem",62,0,0
+81,1976,"Middle Fork Salmon River Lower Mainstem",66,0,1
+81,1977,"Middle Fork Salmon River Lower Mainstem",73,0,0
+81,1978,"Middle Fork Salmon River Lower Mainstem",77,0,0
+81,1979,"Middle Fork Salmon River Lower Mainstem",86,0,0
+81,1980,"Middle Fork Salmon River Lower Mainstem",94,0,1
+81,1981,"Middle Fork Salmon River Lower Mainstem",100,0,0
+81,1982,"Middle Fork Salmon River Lower Mainstem",109,0,1
+81,1983,"Middle Fork Salmon River Lower Mainstem",118,0,1
+81,1984,"Middle Fork Salmon River Lower Mainstem",124,0,1
+81,1985,"Middle Fork Salmon River Lower Mainstem",127,0,0
+81,1986,"Middle Fork Salmon River Lower Mainstem",140,0,0
+81,1987,"Middle Fork Salmon River Lower Mainstem",146,0,0
+81,1988,"Middle Fork Salmon River Lower Mainstem",151,0,0
+81,1989,"Middle Fork Salmon River Lower Mainstem",158,0,0
+81,1990,"Middle Fork Salmon River Lower Mainstem",168,0,0
+81,1991,"Middle Fork Salmon River Lower Mainstem",175,0,0
+81,1992,"Middle Fork Salmon River Lower Mainstem",183,0,0
+81,1993,"Middle Fork Salmon River Lower Mainstem",192,0,0
+81,1994,"Middle Fork Salmon River Lower Mainstem",205,0,1
+81,1995,"Middle Fork Salmon River Lower Mainstem",212,0,1
+81,1996,"Middle Fork Salmon River Lower Mainstem",223,0,0
+81,1997,"Middle Fork Salmon River Lower Mainstem",232,0,0
+81,1998,"Middle Fork Salmon River Lower Mainstem",235,0,0
+81,1999,"Middle Fork Salmon River Lower Mainstem",249,0,0
+81,2000,"Middle Fork Salmon River Lower Mainstem",258,0,0
+81,2001,"Middle Fork Salmon River Lower Mainstem",267,0,0
+81,2002,"Middle Fork Salmon River Lower Mainstem",378,0,0
+81,2003,"Middle Fork Salmon River Lower Mainstem",280,0,0
+81,2004,"Middle Fork Salmon River Lower Mainstem",286,0,0
+81,2005,"Middle Fork Salmon River Lower Mainstem",296,0,0
+81,2006,"Middle Fork Salmon River Lower Mainstem",304,0,0
+81,2007,"Middle Fork Salmon River Lower Mainstem",315,0,0
+81,2008,"Middle Fork Salmon River Lower Mainstem",325,0,0
+81,2009,"Middle Fork Salmon River Lower Mainstem",336,0,0
+81,2010,"Middle Fork Salmon River Lower Mainstem",344,0,0
+81,2011,"Middle Fork Salmon River Lower Mainstem",350,0,0
+81,2012,"Middle Fork Salmon River Lower Mainstem",359,0,0
+81,2013,"Middle Fork Salmon River Lower Mainstem",369,0,0
+81,2014,"Middle Fork Salmon River Lower Mainstem",374,0,0
+82,1954,"Minam River",1,0,0
+82,1955,"Minam River",2,0,0
+82,1956,"Minam River",3,0,0
+82,1957,"Minam River",5,0,0
+82,1958,"Minam River",7,0,0
+82,1959,"Minam River",9,0,0
+82,1960,"Minam River",12,0,0
+82,1961,"Minam River",15,0,0
+82,1962,"Minam River",0,0,0
+82,1963,"Minam River",18,0,0
+82,1964,"Minam River",0,0,0
+82,1965,"Minam River",23,0,0
+82,1966,"Minam River",27,0,0
+82,1967,"Minam River",31,0,0
+82,1968,"Minam River",0,0,0
+82,1969,"Minam River",0,0,0
+82,1970,"Minam River",0,0,0
+82,1971,"Minam River",44,0,0
+82,1972,"Minam River",0,0,0
+82,1973,"Minam River",52,0,0
+82,1974,"Minam River",57,0,0
+82,1975,"Minam River",59,0,0
+82,1976,"Minam River",67,0,0
+82,1977,"Minam River",0,0,0
+82,1978,"Minam River",78,0,0
+82,1979,"Minam River",0,0,1
+82,1980,"Minam River",0,0,1
+82,1981,"Minam River",0,0,1
+82,1982,"Minam River",0,0,1
+82,1983,"Minam River",111,0,0
+82,1984,"Minam River",122,0,0
+82,1985,"Minam River",133,0,0
+82,1986,"Minam River",139,0,0
+82,1987,"Minam River",0,0,0
+82,1988,"Minam River",0,0,0
+82,1989,"Minam River",160,0,0
+82,1990,"Minam River",167,0,0
+82,1991,"Minam River",176,0,0
+82,1992,"Minam River",0,0,0
+82,1993,"Minam River",0,0,0
+82,1994,"Minam River",198,0,0
+82,1995,"Minam River",215,0,0
+82,1996,"Minam River",0,0,0
+82,1997,"Minam River",0,0,0
+82,1998,"Minam River",0,0,0
+82,1999,"Minam River",0,0,0
+82,2000,"Minam River",0,0,0
+82,2001,"Minam River",0,0,0
+82,2002,"Minam River",0,0,0
+82,2003,"Minam River",0,0,0
+82,2004,"Minam River",0,0,0
+82,2005,"Minam River",0,0,0
+82,2006,"Minam River",0,0,0
+82,2007,"Minam River",0,0,0
+82,2008,"Minam River",0,0,0
+82,2009,"Minam River",0,0,0
+82,2010,"Minam River",0,0,0
+82,2011,"Minam River",0,0,0
+82,2012,"Minam River",0,0,0
+82,2013,"Minam River",0,0,0
+85,1980,"Pahsimeroi River",0,0,0
+85,1981,"Pahsimeroi River",0,0,0
+85,1982,"Pahsimeroi River",0,0,0
+85,1983,"Pahsimeroi River",0,0,0
+85,1984,"Pahsimeroi River",0,0,0
+85,1985,"Pahsimeroi River",0,0,0
+85,1986,"Pahsimeroi River",0,0,0
+85,1987,"Pahsimeroi River",0,0,0
+85,1988,"Pahsimeroi River",0,0,0
+85,1989,"Pahsimeroi River",0,0,0
+85,1990,"Pahsimeroi River",0,0,0
+85,1991,"Pahsimeroi River",0,0,0
+85,1992,"Pahsimeroi River",0,0,0
+85,1993,"Pahsimeroi River",0,0,0
+85,1994,"Pahsimeroi River",0,0,0
+85,1995,"Pahsimeroi River",0,0,0
+85,1996,"Pahsimeroi River",0,0,0
+85,1997,"Pahsimeroi River",0,0,0
+85,1998,"Pahsimeroi River",237,0,0
+85,1999,"Pahsimeroi River",0,0,0
+85,2000,"Pahsimeroi River",0,0,0
+85,2001,"Pahsimeroi River",0,0,0
+85,2002,"Pahsimeroi River",274,0,0
+85,2003,"Pahsimeroi River",0,0,0
+85,2004,"Pahsimeroi River",287,0,0
+85,2005,"Pahsimeroi River",295,0,0
+85,2006,"Pahsimeroi River",308,0,0
+85,2007,"Pahsimeroi River",0,0,0
+85,2008,"Pahsimeroi River",0,0,0
+85,2009,"Pahsimeroi River",0,0,0
+85,2010,"Pahsimeroi River",0,0,0
+85,2011,"Pahsimeroi River",0,0,0
+85,2012,"Pahsimeroi River",357,0,0
+85,2013,"Pahsimeroi River",0,0,0
+85,2014,"Pahsimeroi River",0,0,0
+88,1957,"Salmon River Lower Mainstem",0,0,1
+88,1958,"Salmon River Lower Mainstem",0,0,1
+88,1959,"Salmon River Lower Mainstem",0,0,1
+88,1960,"Salmon River Lower Mainstem",0,0,1
+88,1961,"Salmon River Lower Mainstem",0,0,1
+88,1962,"Salmon River Lower Mainstem",0,0,1
+88,1963,"Salmon River Lower Mainstem",0,0,1
+88,1964,"Salmon River Lower Mainstem",0,0,1
+88,1965,"Salmon River Lower Mainstem",0,0,1
+88,1966,"Salmon River Lower Mainstem",0,0,1
+88,1967,"Salmon River Lower Mainstem",0,0,1
+88,1968,"Salmon River Lower Mainstem",0,0,1
+88,1969,"Salmon River Lower Mainstem",0,0,1
+88,1970,"Salmon River Lower Mainstem",0,0,1
+88,1971,"Salmon River Lower Mainstem",0,0,1
+88,1972,"Salmon River Lower Mainstem",0,0,1
+88,1973,"Salmon River Lower Mainstem",0,0,1
+88,1974,"Salmon River Lower Mainstem",0,0,1
+88,1975,"Salmon River Lower Mainstem",0,0,1
+88,1976,"Salmon River Lower Mainstem",0,0,1
+88,1977,"Salmon River Lower Mainstem",0,0,1
+88,1978,"Salmon River Lower Mainstem",0,0,1
+88,1979,"Salmon River Lower Mainstem",0,0,0
+88,1980,"Salmon River Lower Mainstem",0,0,1
+88,1981,"Salmon River Lower Mainstem",0,0,1
+88,1982,"Salmon River Lower Mainstem",0,0,1
+88,1983,"Salmon River Lower Mainstem",0,0,1
+88,1984,"Salmon River Lower Mainstem",0,0,1
+88,1985,"Salmon River Lower Mainstem",0,0,1
+88,1986,"Salmon River Lower Mainstem",0,0,1
+88,1987,"Salmon River Lower Mainstem",0,0,1
+88,1988,"Salmon River Lower Mainstem",0,0,1
+88,1989,"Salmon River Lower Mainstem",0,0,1
+88,1990,"Salmon River Lower Mainstem",0,0,1
+88,1991,"Salmon River Lower Mainstem",0,0,1
+88,1992,"Salmon River Lower Mainstem",0,0,1
+88,1993,"Salmon River Lower Mainstem",0,0,1
+88,1994,"Salmon River Lower Mainstem",0,0,1
+88,1995,"Salmon River Lower Mainstem",0,0,1
+88,1996,"Salmon River Lower Mainstem",0,0,1
+88,1997,"Salmon River Lower Mainstem",0,0,1
+88,1998,"Salmon River Lower Mainstem",0,0,1
+88,1999,"Salmon River Lower Mainstem",0,0,1
+88,2000,"Salmon River Lower Mainstem",0,0,1
+88,2001,"Salmon River Lower Mainstem",0,0,0
+88,2002,"Salmon River Lower Mainstem",0,0,0
+88,2003,"Salmon River Lower Mainstem",0,0,0
+88,2004,"Salmon River Lower Mainstem",0,0,0
+88,2005,"Salmon River Lower Mainstem",295,0,0
+88,2006,"Salmon River Lower Mainstem",0,0,0
+88,2007,"Salmon River Lower Mainstem",0,0,0
+88,2008,"Salmon River Lower Mainstem",0,0,0
+88,2009,"Salmon River Lower Mainstem",0,0,0
+88,2010,"Salmon River Lower Mainstem",0,0,0
+88,2011,"Salmon River Lower Mainstem",0,0,0
+88,2012,"Salmon River Lower Mainstem",0,0,0
+88,2013,"Salmon River Lower Mainstem",367,0,0
+88,2014,"Salmon River Lower Mainstem",375,0,0
+89,1957,"Salmon River Upper Mainstem",0,0,1
+89,1958,"Salmon River Upper Mainstem",0,0,1
+89,1959,"Salmon River Upper Mainstem",0,0,1
+89,1960,"Salmon River Upper Mainstem",0,0,0
+89,1961,"Salmon River Upper Mainstem",0,0,0
+89,1962,"Salmon River Upper Mainstem",0,0,0
+89,1963,"Salmon River Upper Mainstem",0,0,0
+89,1964,"Salmon River Upper Mainstem",0,0,0
+89,1965,"Salmon River Upper Mainstem",0,0,0
+89,1966,"Salmon River Upper Mainstem",0,0,0
+89,1967,"Salmon River Upper Mainstem",0,0,0
+89,1968,"Salmon River Upper Mainstem",0,0,0
+89,1969,"Salmon River Upper Mainstem",0,0,0
+89,1970,"Salmon River Upper Mainstem",0,0,0
+89,1971,"Salmon River Upper Mainstem",0,0,0
+89,1972,"Salmon River Upper Mainstem",0,0,0
+89,1973,"Salmon River Upper Mainstem",0,0,0
+89,1974,"Salmon River Upper Mainstem",0,0,0
+89,1975,"Salmon River Upper Mainstem",0,0,0
+89,1976,"Salmon River Upper Mainstem",0,0,0
+89,1977,"Salmon River Upper Mainstem",0,0,0
+89,1978,"Salmon River Upper Mainstem",76,0,0
+89,1979,"Salmon River Upper Mainstem",0,0,0
+89,1980,"Salmon River Upper Mainstem",0,0,0
+89,1981,"Salmon River Upper Mainstem",0,0,0
+89,1982,"Salmon River Upper Mainstem",0,0,1
+89,1983,"Salmon River Upper Mainstem",0,0,1
+89,1984,"Salmon River Upper Mainstem",0,0,1
+89,1985,"Salmon River Upper Mainstem",0,0,1
+89,1986,"Salmon River Upper Mainstem",0,0,1
+89,1987,"Salmon River Upper Mainstem",0,0,1
+89,1988,"Salmon River Upper Mainstem",0,0,1
+89,1989,"Salmon River Upper Mainstem",0,0,1
+89,1990,"Salmon River Upper Mainstem",0,0,1
+89,1991,"Salmon River Upper Mainstem",0,0,1
+89,1992,"Salmon River Upper Mainstem",0,0,1
+89,1993,"Salmon River Upper Mainstem",193,0,0
+89,1994,"Salmon River Upper Mainstem",202,0,0
+89,1995,"Salmon River Upper Mainstem",0,0,1
+89,1996,"Salmon River Upper Mainstem",0,0,1
+89,1997,"Salmon River Upper Mainstem",0,0,1
+89,1998,"Salmon River Upper Mainstem",0,0,1
+89,1999,"Salmon River Upper Mainstem",251,0,0
+89,2000,"Salmon River Upper Mainstem",257,0,0
+89,2001,"Salmon River Upper Mainstem",0,0,0
+89,2002,"Salmon River Upper Mainstem",0,0,0
+89,2003,"Salmon River Upper Mainstem",281,0,0
+89,2004,"Salmon River Upper Mainstem",0,0,0
+89,2005,"Salmon River Upper Mainstem",0,0,0
+89,2006,"Salmon River Upper Mainstem",0,0,0
+89,2007,"Salmon River Upper Mainstem",0,0,0
+89,2008,"Salmon River Upper Mainstem",0,0,0
+89,2009,"Salmon River Upper Mainstem",0,0,0
+89,2010,"Salmon River Upper Mainstem",0,0,0
+89,2011,"Salmon River Upper Mainstem",0,0,0
+89,2012,"Salmon River Upper Mainstem",0,0,0
+89,2013,"Salmon River Upper Mainstem",0,0,0
+89,2014,"Salmon River Upper Mainstem",0,0,0
+90,1957,"Secesh River",0,0,1
+90,1958,"Secesh River",0,0,1
+90,1959,"Secesh River",0,0,1
+90,1960,"Secesh River",0,0,0
+90,1961,"Secesh River",0,0,0
+90,1962,"Secesh River",0,0,0
+90,1963,"Secesh River",0,0,0
+90,1964,"Secesh River",0,0,0
+90,1965,"Secesh River",0,0,0
+90,1966,"Secesh River",0,0,0
+90,1967,"Secesh River",0,0,0
+90,1968,"Secesh River",0,0,0
+90,1969,"Secesh River",0,0,0
+90,1970,"Secesh River",0,0,0
+90,1971,"Secesh River",0,0,0
+90,1972,"Secesh River",0,0,0
+90,1973,"Secesh River",0,0,0
+90,1974,"Secesh River",0,0,0
+90,1975,"Secesh River",0,0,0
+90,1976,"Secesh River",0,0,0
+90,1977,"Secesh River",0,0,0
+90,1978,"Secesh River",0,0,0
+90,1979,"Secesh River",89,0,0
+90,1980,"Secesh River",95,0,0
+90,1981,"Secesh River",103,0,0
+90,1982,"Secesh River",0,0,0
+90,1983,"Secesh River",117,0,0
+90,1984,"Secesh River",0,0,0
+90,1985,"Secesh River",0,0,0
+90,1986,"Secesh River",0,0,0
+90,1987,"Secesh River",0,0,0
+90,1988,"Secesh River",0,0,0
+90,1989,"Secesh River",0,0,0
+90,1990,"Secesh River",0,0,0
+90,1991,"Secesh River",0,0,0
+90,1992,"Secesh River",0,0,0
+90,1993,"Secesh River",0,0,0
+90,1994,"Secesh River",203,0,0
+90,1995,"Secesh River",0,0,0
+90,1996,"Secesh River",0,0,0
+90,1997,"Secesh River",0,0,0
+90,1998,"Secesh River",0,0,0
+90,1999,"Secesh River",0,0,0
+90,2000,"Secesh River",0,0,0
+90,2001,"Secesh River",0,0,0
+90,2002,"Secesh River",0,0,0
+90,2003,"Secesh River",0,0,0
+90,2004,"Secesh River",0,0,0
+90,2005,"Secesh River",0,0,0
+90,2006,"Secesh River",0,0,0
+90,2007,"Secesh River",0,0,0
+90,2008,"Secesh River",0,0,0
+90,2009,"Secesh River",0,0,0
+90,2010,"Secesh River",0,0,0
+90,2011,"Secesh River",0,0,0
+90,2012,"Secesh River",0,0,0
+90,2013,"Secesh River",0,0,0
+90,2014,"Secesh River",0,0,0
+91,1957,"South Fork Salmon River",0,0,0
+91,1958,"South Fork Salmon River",0,0,0
+91,1959,"South Fork Salmon River",0,0,0
+91,1960,"South Fork Salmon River",0,0,0
+91,1961,"South Fork Salmon River",0,0,0
+91,1962,"South Fork Salmon River",0,0,0
+91,1963,"South Fork Salmon River",0,0,0
+91,1964,"South Fork Salmon River",0,0,0
+91,1965,"South Fork Salmon River",0,0,0
+91,1966,"South Fork Salmon River",0,0,0
+91,1967,"South Fork Salmon River",0,0,0
+91,1968,"South Fork Salmon River",0,0,0
+91,1969,"South Fork Salmon River",0,0,0
+91,1970,"South Fork Salmon River",0,0,0
+91,1971,"South Fork Salmon River",0,0,0
+91,1972,"South Fork Salmon River",0,0,0
+91,1973,"South Fork Salmon River",0,0,0
+91,1974,"South Fork Salmon River",0,0,0
+91,1975,"South Fork Salmon River",0,0,0
+91,1976,"South Fork Salmon River",0,0,0
+91,1977,"South Fork Salmon River",0,0,0
+91,1978,"South Fork Salmon River",0,0,0
+91,1979,"South Fork Salmon River",89,0,0
+91,1980,"South Fork Salmon River",95,0,0
+91,1981,"South Fork Salmon River",103,0,0
+91,1982,"South Fork Salmon River",0,0,1
+91,1983,"South Fork Salmon River",117,0,0
+91,1984,"South Fork Salmon River",0,0,1
+91,1985,"South Fork Salmon River",0,0,0
+91,1986,"South Fork Salmon River",0,0,0
+91,1987,"South Fork Salmon River",0,0,0
+91,1988,"South Fork Salmon River",0,0,0
+91,1989,"South Fork Salmon River",0,0,0
+91,1990,"South Fork Salmon River",0,0,0
+91,1991,"South Fork Salmon River",0,0,0
+91,1992,"South Fork Salmon River",0,0,0
+91,1993,"South Fork Salmon River",0,0,0
+91,1994,"South Fork Salmon River",0,0,0
+91,1995,"South Fork Salmon River",214,0,0
+91,1996,"South Fork Salmon River",0,0,0
+91,1997,"South Fork Salmon River",0,0,0
+91,1998,"South Fork Salmon River",0,0,0
+91,1999,"South Fork Salmon River",0,0,0
+91,2000,"South Fork Salmon River",0,0,0
+91,2001,"South Fork Salmon River",0,0,0
+91,2002,"South Fork Salmon River",0,0,0
+91,2003,"South Fork Salmon River",0,0,0
+91,2004,"South Fork Salmon River",0,0,0
+91,2005,"South Fork Salmon River",0,0,0
+91,2006,"South Fork Salmon River",0,0,0
+91,2007,"South Fork Salmon River",0,0,0
+91,2008,"South Fork Salmon River",0,0,0
+91,2009,"South Fork Salmon River",0,0,0
+91,2010,"South Fork Salmon River",0,0,0
+91,2011,"South Fork Salmon River",0,0,0
+91,2012,"South Fork Salmon River",0,0,0
+91,2013,"South Fork Salmon River",0,0,0
+91,2014,"South Fork Salmon River",0,0,0
+92,1957,"Sulphur Creek",0,0,1
+92,1958,"Sulphur Creek",0,0,1
+92,1959,"Sulphur Creek",0,0,1
+92,1960,"Sulphur Creek",10,0,0
+92,1961,"Sulphur Creek",13,0,0
+92,1962,"Sulphur Creek",16,0,0
+92,1963,"Sulphur Creek",17,0,0
+92,1964,"Sulphur Creek",20,0,0
+92,1965,"Sulphur Creek",11,0,0
+92,1966,"Sulphur Creek",26,0,0
+92,1967,"Sulphur Creek",0,0,0
+92,1968,"Sulphur Creek",0,0,0
+92,1969,"Sulphur Creek",0,0,0
+92,1970,"Sulphur Creek",0,0,0
+92,1971,"Sulphur Creek",43,0,0
+92,1972,"Sulphur Creek",47,0,0
+92,1973,"Sulphur Creek",51,0,0
+92,1974,"Sulphur Creek",56,0,0
+92,1975,"Sulphur Creek",62,0,0
+92,1976,"Sulphur Creek",0,0,0
+92,1977,"Sulphur Creek",74,0,0
+92,1978,"Sulphur Creek",77,0,0
+92,1979,"Sulphur Creek",86,0,0
+92,1980,"Sulphur Creek",0,0,0
+92,1981,"Sulphur Creek",100,0,0
+92,1982,"Sulphur Creek",0,0,0
+92,1983,"Sulphur Creek",0,0,0
+92,1984,"Sulphur Creek",0,0,0
+92,1985,"Sulphur Creek",127,0,0
+92,1986,"Sulphur Creek",140,0,0
+92,1987,"Sulphur Creek",146,0,0
+92,1988,"Sulphur Creek",0,0,0
+92,1989,"Sulphur Creek",158,0,0
+92,1990,"Sulphur Creek",168,0,0
+92,1991,"Sulphur Creek",175,0,0
+92,1992,"Sulphur Creek",183,0,0
+92,1993,"Sulphur Creek",192,0,0
+92,1994,"Sulphur Creek",0,0,0
+92,1995,"Sulphur Creek",0,0,0
+92,1996,"Sulphur Creek",223,0,0
+92,1997,"Sulphur Creek",232,0,0
+92,1998,"Sulphur Creek",235,0,0
+92,1999,"Sulphur Creek",249,0,0
+92,2000,"Sulphur Creek",260,0,0
+92,2001,"Sulphur Creek",266,0,0
+92,2002,"Sulphur Creek",0,0,0
+92,2003,"Sulphur Creek",0,0,0
+92,2004,"Sulphur Creek",286,0,0
+92,2005,"Sulphur Creek",296,0,0
+92,2006,"Sulphur Creek",304,0,0
+92,2007,"Sulphur Creek",315,0,0
+92,2008,"Sulphur Creek",325,0,0
+92,2009,"Sulphur Creek",336,0,0
+92,2010,"Sulphur Creek",0,0,0
+92,2011,"Sulphur Creek",350,0,0
+92,2012,"Sulphur Creek",358,0,0
+92,2013,"Sulphur Creek",0,0,0
+92,2014,"Sulphur Creek",0,0,0
+93,1954,"Tucannon River",0,0,0
+93,1955,"Tucannon River",0,0,0
+93,1956,"Tucannon River",0,0,0
+93,1957,"Tucannon River",0,0,0
+93,1958,"Tucannon River",0,0,0
+93,1959,"Tucannon River",0,0,0
+93,1960,"Tucannon River",0,0,0
+93,1961,"Tucannon River",0,0,0
+93,1962,"Tucannon River",0,0,0
+93,1963,"Tucannon River",0,0,0
+93,1964,"Tucannon River",0,0,0
+93,1965,"Tucannon River",0,0,0
+93,1966,"Tucannon River",0,0,0
+93,1967,"Tucannon River",0,0,0
+93,1968,"Tucannon River",0,0,0
+93,1969,"Tucannon River",0,0,0
+93,1970,"Tucannon River",0,0,0
+93,1971,"Tucannon River",0,0,0
+93,1972,"Tucannon River",0,0,0
+93,1973,"Tucannon River",0,0,0
+93,1974,"Tucannon River",0,0,0
+93,1975,"Tucannon River",0,0,0
+93,1976,"Tucannon River",0,0,0
+93,1977,"Tucannon River",0,0,0
+93,1978,"Tucannon River",0,0,0
+93,1979,"Tucannon River",0,0,1
+93,1980,"Tucannon River",0,0,1
+93,1981,"Tucannon River",0,0,1
+93,1982,"Tucannon River",0,0,1
+93,1983,"Tucannon River",0,0,1
+93,1984,"Tucannon River",0,0,1
+93,1985,"Tucannon River",0,0,0
+93,1986,"Tucannon River",0,0,0
+93,1987,"Tucannon River",0,0,0
+93,1988,"Tucannon River",0,0,0
+93,1989,"Tucannon River",0,0,0
+93,1990,"Tucannon River",0,0,0
+93,1991,"Tucannon River",0,0,0
+93,1992,"Tucannon River",0,0,0
+93,1993,"Tucannon River",0,0,0
+93,1994,"Tucannon River",0,0,0
+93,1995,"Tucannon River",0,0,0
+93,1996,"Tucannon River",0,0,0
+93,1997,"Tucannon River",0,0,0
+93,1998,"Tucannon River",0,0,0
+93,1999,"Tucannon River",246,0,0
+93,2000,"Tucannon River",0,0,0
+93,2001,"Tucannon River",0,0,0
+93,2002,"Tucannon River",0,0,0
+93,2003,"Tucannon River",0,0,0
+93,2004,"Tucannon River",0,0,0
+93,2005,"Tucannon River",0,0,0
+93,2006,"Tucannon River",0,0,0
+93,2007,"Tucannon River",0,0,0
+93,2008,"Tucannon River",0,0,0
+93,2009,"Tucannon River",0,0,0
+93,2010,"Tucannon River",0,0,0
+93,2011,"Tucannon River",0,0,0
+93,2012,"Tucannon River",0,0,0
+93,2013,"Tucannon River",0,0,0
+93,2014,"Tucannon River",0,0,0
+97,1957,"Valley Creek",0,0,1
+97,1958,"Valley Creek",0,0,1
+97,1959,"Valley Creek",0,0,1
+97,1960,"Valley Creek",0,0,0
+97,1961,"Valley Creek",0,0,0
+97,1962,"Valley Creek",0,0,0
+97,1963,"Valley Creek",0,0,0
+97,1964,"Valley Creek",0,0,0
+97,1965,"Valley Creek",0,0,0
+97,1966,"Valley Creek",0,0,0
+97,1967,"Valley Creek",0,0,0
+97,1968,"Valley Creek",0,0,0
+97,1969,"Valley Creek",0,0,0
+97,1970,"Valley Creek",0,0,0
+97,1971,"Valley Creek",0,0,0
+97,1972,"Valley Creek",0,0,0
+97,1973,"Valley Creek",0,0,0
+97,1974,"Valley Creek",0,0,0
+97,1975,"Valley Creek",0,0,0
+97,1976,"Valley Creek",68,0,0
+97,1977,"Valley Creek",0,0,0
+97,1978,"Valley Creek",0,0,0
+97,1979,"Valley Creek",88,0,0
+97,1980,"Valley Creek",0,0,1
+97,1981,"Valley Creek",101,0,0
+97,1982,"Valley Creek",0,0,1
+97,1983,"Valley Creek",0,0,1
+97,1984,"Valley Creek",0,0,1
+97,1985,"Valley Creek",0,0,1
+97,1986,"Valley Creek",0,0,1
+97,1987,"Valley Creek",0,0,1
+97,1988,"Valley Creek",0,0,1
+97,1989,"Valley Creek",0,0,1
+97,1990,"Valley Creek",0,0,1
+97,1991,"Valley Creek",0,0,1
+97,1992,"Valley Creek",0,0,1
+97,1993,"Valley Creek",0,0,0
+97,1994,"Valley Creek",202,0,1
+97,1995,"Valley Creek",0,0,1
+97,1996,"Valley Creek",0,0,1
+97,1997,"Valley Creek",0,0,1
+97,1998,"Valley Creek",0,0,1
+97,1999,"Valley Creek",0,0,1
+97,2000,"Valley Creek",0,0,1
+97,2001,"Valley Creek",268,0,0
+97,2002,"Valley Creek",274,0,0
+97,2003,"Valley Creek",281,0,0
+97,2004,"Valley Creek",0,0,0
+97,2005,"Valley Creek",295,0,0
+97,2006,"Valley Creek",308,0,0
+97,2007,"Valley Creek",0,0,0
+97,2008,"Valley Creek",0,0,0
+97,2009,"Valley Creek",0,0,0
+97,2010,"Valley Creek",0,0,0
+97,2011,"Valley Creek",0,0,0
+97,2012,"Valley Creek",0,0,0
+97,2013,"Valley Creek",0,0,0
+97,2014,"Valley Creek",0,0,0
+98,1949,"Wenaha River",0,0,0
+98,1950,"Wenaha River",0,0,0
+98,1951,"Wenaha River",0,0,0
+98,1952,"Wenaha River",0,0,0
+98,1953,"Wenaha River",0,0,0
+98,1954,"Wenaha River",0,0,0
+98,1955,"Wenaha River",0,0,0
+98,1956,"Wenaha River",0,0,0
+98,1957,"Wenaha River",0,0,0
+98,1958,"Wenaha River",0,0,0
+98,1959,"Wenaha River",0,0,0
+98,1960,"Wenaha River",0,0,0
+98,1961,"Wenaha River",0,0,0
+98,1962,"Wenaha River",0,0,0
+98,1963,"Wenaha River",18,0,0
+98,1964,"Wenaha River",0,0,0
+98,1965,"Wenaha River",23,0,0
+98,1966,"Wenaha River",27,0,0
+98,1967,"Wenaha River",0,0,0
+98,1968,"Wenaha River",0,0,0
+98,1969,"Wenaha River",0,0,0
+98,1970,"Wenaha River",0,0,0
+98,1971,"Wenaha River",0,0,0
+98,1972,"Wenaha River",0,0,0
+98,1973,"Wenaha River",0,0,0
+98,1974,"Wenaha River",57,0,0
+98,1975,"Wenaha River",59,0,0
+98,1976,"Wenaha River",67,0,0
+98,1977,"Wenaha River",0,0,1
+98,1978,"Wenaha River",78,0,1
+98,1979,"Wenaha River",0,0,1
+98,1980,"Wenaha River",0,0,1
+98,1981,"Wenaha River",0,0,1
+98,1982,"Wenaha River",0,0,1
+98,1983,"Wenaha River",111,0,0
+98,1984,"Wenaha River",122,0,0
+98,1985,"Wenaha River",133,0,0
+98,1986,"Wenaha River",139,0,0
+98,1987,"Wenaha River",0,0,0
+98,1988,"Wenaha River",0,0,0
+98,1989,"Wenaha River",0,0,0
+98,1990,"Wenaha River",0,0,0
+98,1991,"Wenaha River",0,0,0
+98,1992,"Wenaha River",0,0,0
+98,1993,"Wenaha River",0,0,0
+98,1994,"Wenaha River",198,0,0
+98,1995,"Wenaha River",215,0,0
+98,1996,"Wenaha River",0,0,0
+98,1997,"Wenaha River",0,0,0
+98,1998,"Wenaha River",0,0,0
+98,1999,"Wenaha River",0,0,0
+98,2000,"Wenaha River",0,0,0
+98,2001,"Wenaha River",0,0,0
+98,2002,"Wenaha River",0,0,0
+98,2003,"Wenaha River",0,0,0
+98,2004,"Wenaha River",0,0,0
+98,2005,"Wenaha River",0,0,0
+98,2006,"Wenaha River",0,0,0
+98,2007,"Wenaha River",0,0,0
+98,2008,"Wenaha River",0,0,0
+98,2009,"Wenaha River",0,0,0
+98,2010,"Wenaha River",0,0,0
+98,2011,"Wenaha River",0,0,0
+98,2012,"Wenaha River",0,0,0
+98,2013,"Wenaha River",0,0,0
+99,1957,"Yankee Fork",0,0,0
+99,1958,"Yankee Fork",0,0,0
+99,1959,"Yankee Fork",0,0,0
+99,1960,"Yankee Fork",0,0,0
+99,1961,"Yankee Fork",0,0,1
+99,1962,"Yankee Fork",0,0,1
+99,1963,"Yankee Fork",0,0,1
+99,1964,"Yankee Fork",0,0,1
+99,1965,"Yankee Fork",0,0,1
+99,1966,"Yankee Fork",0,0,1
+99,1967,"Yankee Fork",0,0,1
+99,1968,"Yankee Fork",0,0,1
+99,1969,"Yankee Fork",0,0,1
+99,1970,"Yankee Fork",0,0,1
+99,1971,"Yankee Fork",0,0,1
+99,1972,"Yankee Fork",0,0,1
+99,1973,"Yankee Fork",0,0,1
+99,1974,"Yankee Fork",0,0,1
+99,1975,"Yankee Fork",0,0,1
+99,1976,"Yankee Fork",0,0,1
+99,1977,"Yankee Fork",0,0,1
+99,1978,"Yankee Fork",0,0,1
+99,1979,"Yankee Fork",0,0,1
+99,1980,"Yankee Fork",0,0,1
+99,1981,"Yankee Fork",0,0,1
+99,1982,"Yankee Fork",0,0,1
+99,1983,"Yankee Fork",0,0,1
+99,1984,"Yankee Fork",0,0,1
+99,1985,"Yankee Fork",0,0,1
+99,1986,"Yankee Fork",0,0,1
+99,1987,"Yankee Fork",0,0,1
+99,1988,"Yankee Fork",0,0,1
+99,1989,"Yankee Fork",0,0,1
+99,1990,"Yankee Fork",0,0,1
+99,1991,"Yankee Fork",0,0,1
+99,1992,"Yankee Fork",0,0,1
+99,1993,"Yankee Fork",0,0,1
+99,1994,"Yankee Fork",0,0,1
+99,1995,"Yankee Fork",0,0,1
+99,1996,"Yankee Fork",0,0,1
+99,1997,"Yankee Fork",0,0,1
+99,1998,"Yankee Fork",0,0,1
+99,1999,"Yankee Fork",0,0,1
+99,2000,"Yankee Fork",0,0,1
+99,2001,"Yankee Fork",0,0,1
+99,2002,"Yankee Fork",274,0,0
+99,2003,"Yankee Fork",0,0,0
+99,2004,"Yankee Fork",287,0,0
+99,2005,"Yankee Fork",295,0,0
+99,2006,"Yankee Fork",308,0,0
+99,2007,"Yankee Fork",317,0,0
+99,2008,"Yankee Fork",327,0,0
+99,2009,"Yankee Fork",338,0,0
+99,2010,"Yankee Fork",0,0,0
+99,2011,"Yankee Fork",0,0,0
+99,2012,"Yankee Fork",357,0,0
+99,2013,"Yankee Fork",367,0,0
+99,2014,"Yankee Fork",375,0,0
+100,1960,"Entiat River",0,0,0
+100,1961,"Entiat River",0,0,0
+100,1962,"Entiat River",0,0,0
+100,1963,"Entiat River",19,0,0
+100,1964,"Entiat River",0,0,0
+100,1965,"Entiat River",0,0,0
+100,1966,"Entiat River",0,0,0
+100,1967,"Entiat River",0,0,0
+100,1968,"Entiat River",0,0,0
+100,1969,"Entiat River",0,0,0
+100,1970,"Entiat River",0,0,0
+100,1971,"Entiat River",0,0,0
+100,1972,"Entiat River",0,0,0
+100,1973,"Entiat River",0,0,0
+100,1974,"Entiat River",0,0,0
+100,1975,"Entiat River",0,0,0
+100,1976,"Entiat River",0,0,0
+100,1977,"Entiat River",0,0,0
+100,1978,"Entiat River",0,0,0
+100,1979,"Entiat River",0,0,0
+100,1980,"Entiat River",0,0,0
+100,1981,"Entiat River",0,0,0
+100,1982,"Entiat River",0,0,0
+100,1983,"Entiat River",0,0,0
+100,1984,"Entiat River",0,0,0
+100,1985,"Entiat River",0,0,0
+100,1986,"Entiat River",0,0,0
+100,1987,"Entiat River",0,0,0
+100,1988,"Entiat River",0,0,0
+100,1989,"Entiat River",0,0,0
+100,1990,"Entiat River",0,0,0
+100,1991,"Entiat River",0,0,0
+100,1992,"Entiat River",0,0,0
+100,1993,"Entiat River",0,0,0
+100,1994,"Entiat River",0,0,0
+100,1995,"Entiat River",0,0,0
+100,1996,"Entiat River",0,0,0
+100,1997,"Entiat River",0,0,0
+100,1998,"Entiat River",0,0,0
+100,1999,"Entiat River",0,0,0
+100,2000,"Entiat River",0,0,0
+100,2001,"Entiat River",0,0,0
+100,2002,"Entiat River",0,0,0
+100,2003,"Entiat River",0,0,0
+100,2004,"Entiat River",0,0,0
+100,2005,"Entiat River",0,0,0
+100,2006,"Entiat River",306,0,0
+100,2007,"Entiat River",0,0,0
+100,2008,"Entiat River",323,0,0
+100,2009,"Entiat River",0,0,0
+100,2010,"Entiat River",0,0,0
+100,2011,"Entiat River",0,0,0
+100,2012,"Entiat River",0,0,0
+100,2013,"Entiat River",0,0,0
+101,1960,"Methow River",0,0,0
+101,1961,"Methow River",0,0,0
+101,1962,"Methow River",0,0,0
+101,1963,"Methow River",19,0,0
+101,1964,"Methow River",0,0,0
+101,1965,"Methow River",0,0,0
+101,1966,"Methow River",0,0,0
+101,1967,"Methow River",0,0,0
+101,1968,"Methow River",0,0,0
+101,1969,"Methow River",0,0,0
+101,1970,"Methow River",0,0,0
+101,1971,"Methow River",0,0,0
+101,1972,"Methow River",0,0,0
+101,1973,"Methow River",0,0,0
+101,1974,"Methow River",0,0,0
+101,1975,"Methow River",0,0,0
+101,1976,"Methow River",0,0,0
+101,1977,"Methow River",0,0,0
+101,1978,"Methow River",0,0,0
+101,1979,"Methow River",0,0,0
+101,1980,"Methow River",0,0,0
+101,1981,"Methow River",0,0,0
+101,1982,"Methow River",0,0,0
+101,1983,"Methow River",0,0,0
+101,1984,"Methow River",0,0,0
+101,1985,"Methow River",0,0,0
+101,1986,"Methow River",0,0,0
+101,1987,"Methow River",0,0,0
+101,1988,"Methow River",0,0,0
+101,1989,"Methow River",0,0,0
+101,1990,"Methow River",0,0,0
+101,1991,"Methow River",0,0,0
+101,1992,"Methow River",0,0,0
+101,1993,"Methow River",0,0,0
+101,1994,"Methow River",0,0,0
+101,1995,"Methow River",0,0,0
+101,1996,"Methow River",0,0,0
+101,1997,"Methow River",0,0,0
+101,1998,"Methow River",0,0,0
+101,1999,"Methow River",0,0,0
+101,2000,"Methow River",0,0,0
+101,2001,"Methow River",0,0,0
+101,2002,"Methow River",0,0,0
+101,2003,"Methow River",0,0,0
+101,2004,"Methow River",0,0,0
+101,2005,"Methow River",0,0,0
+101,2006,"Methow River",0,0,0
+101,2007,"Methow River",0,0,0
+101,2008,"Methow River",0,0,0
+101,2009,"Methow River",0,0,0
+101,2010,"Methow River",0,0,0
+101,2011,"Methow River",0,0,0
+101,2012,"Methow River",0,0,0
+101,2013,"Methow River",0,0,0
+101,2014,"Methow River",0,0,0
+102,1960,"Wenatchee River",0,0,0
+102,1961,"Wenatchee River",0,0,0
+102,1962,"Wenatchee River",0,0,0
+102,1963,"Wenatchee River",19,0,0
+102,1964,"Wenatchee River",0,0,0
+102,1965,"Wenatchee River",0,0,0
+102,1966,"Wenatchee River",0,0,0
+102,1967,"Wenatchee River",0,0,0
+102,1968,"Wenatchee River",0,0,0
+102,1969,"Wenatchee River",0,0,0
+102,1970,"Wenatchee River",0,0,0
+102,1971,"Wenatchee River",0,0,0
+102,1972,"Wenatchee River",0,0,0
+102,1973,"Wenatchee River",0,0,0
+102,1974,"Wenatchee River",0,0,0
+102,1975,"Wenatchee River",0,0,0
+102,1976,"Wenatchee River",0,0,0
+102,1977,"Wenatchee River",0,0,0
+102,1978,"Wenatchee River",0,0,0
+102,1979,"Wenatchee River",0,0,0
+102,1980,"Wenatchee River",0,0,0
+102,1981,"Wenatchee River",0,0,0
+102,1982,"Wenatchee River",0,0,0
+102,1983,"Wenatchee River",0,0,0
+102,1984,"Wenatchee River",0,0,0
+102,1985,"Wenatchee River",0,0,0
+102,1986,"Wenatchee River",0,0,0
+102,1987,"Wenatchee River",0,0,0
+102,1988,"Wenatchee River",0,0,0
+102,1989,"Wenatchee River",0,0,0
+102,1990,"Wenatchee River",0,0,0
+102,1991,"Wenatchee River",0,0,0
+102,1992,"Wenatchee River",0,0,0
+102,1993,"Wenatchee River",0,0,0
+102,1994,"Wenatchee River",0,0,0
+102,1995,"Wenatchee River",0,0,0
+102,1996,"Wenatchee River",0,0,0
+102,1997,"Wenatchee River",0,0,0
+102,1998,"Wenatchee River",0,0,0
+102,1999,"Wenatchee River",0,0,0
+102,2000,"Wenatchee River",0,0,0
+102,2001,"Wenatchee River",0,0,0
+102,2002,"Wenatchee River",0,0,0
+102,2003,"Wenatchee River",0,0,0
+102,2004,"Wenatchee River",0,0,0
+102,2005,"Wenatchee River",0,0,0
+102,2006,"Wenatchee River",306,0,0
+102,2007,"Wenatchee River",0,0,0
+102,2008,"Wenatchee River",323,0,0
+102,2009,"Wenatchee River",0,0,0
+102,2010,"Wenatchee River",0,0,0
+102,2011,"Wenatchee River",0,0,0
+102,2012,"Wenatchee River",0,0,0
+102,2013,"Wenatchee River",0,0,0
+104,1974,"Clackamas River",0,1,1
+104,1975,"Clackamas River",0,1,1
+104,1976,"Clackamas River",0,1,1
+104,1977,"Clackamas River",0,1,1
+104,1978,"Clackamas River",0,1,1
+104,1979,"Clackamas River",0,1,1
+104,1980,"Clackamas River",0,1,1
+104,1981,"Clackamas River",0,1,1
+104,1982,"Clackamas River",0,1,1
+104,1983,"Clackamas River",0,1,1
+104,1984,"Clackamas River",0,1,1
+104,1985,"Clackamas River",0,1,1
+104,1986,"Clackamas River",0,1,1
+104,1987,"Clackamas River",0,1,1
+104,1988,"Clackamas River",0,1,1
+104,1989,"Clackamas River",0,1,1
+104,1990,"Clackamas River",0,1,1
+104,1991,"Clackamas River",0,1,1
+104,1992,"Clackamas River",0,1,1
+104,1993,"Clackamas River",0,1,1
+104,1994,"Clackamas River",0,1,1
+104,1995,"Clackamas River",0,1,1
+104,1996,"Clackamas River",0,1,1
+104,1997,"Clackamas River",0,1,1
+104,1998,"Clackamas River",0,1,1
+104,1999,"Clackamas River",0,1,1
+104,2000,"Clackamas River",0,1,1
+104,2001,"Clackamas River",0,1,1
+104,2002,"Clackamas River",0,0,1
+104,2003,"Clackamas River",0,0,1
+104,2004,"Clackamas River",0,0,1
+104,2005,"Clackamas River",0,0,1
+104,2006,"Clackamas River",0,0,1
+104,2007,"Clackamas River",0,0,1
+104,2008,"Clackamas River",0,0,1
+104,2009,"Clackamas River",0,0,0
+104,2010,"Clackamas River",0,0,0
+104,2011,"Clackamas River",0,0,0
+104,2012,"Clackamas River",0,0,0
+105,1970,"McKenzie River",0,0,0
+105,1971,"McKenzie River",0,0,0
+105,1972,"McKenzie River",0,0,0
+105,1973,"McKenzie River",0,0,0
+105,1974,"McKenzie River",0,0,0
+105,1975,"McKenzie River",0,0,0
+105,1976,"McKenzie River",0,0,0
+105,1977,"McKenzie River",0,0,0
+105,1978,"McKenzie River",0,0,0
+105,1979,"McKenzie River",0,0,0
+105,1980,"McKenzie River",0,0,0
+105,1981,"McKenzie River",0,0,0
+105,1982,"McKenzie River",0,0,0
+105,1983,"McKenzie River",0,0,0
+105,1984,"McKenzie River",0,0,0
+105,1985,"McKenzie River",0,0,0
+105,1986,"McKenzie River",0,0,0
+105,1987,"McKenzie River",0,0,0
+105,1988,"McKenzie River",0,0,0
+105,1989,"McKenzie River",0,0,0
+105,1990,"McKenzie River",0,0,0
+105,1991,"McKenzie River",0,0,0
+105,1992,"McKenzie River",0,0,0
+105,1993,"McKenzie River",0,0,0
+105,1994,"McKenzie River",204,0,0
+105,1995,"McKenzie River",0,0,0
+105,1996,"McKenzie River",0,0,0
+105,1997,"McKenzie River",0,0,0
+105,1998,"McKenzie River",0,0,0
+105,1999,"McKenzie River",246,0,0
+105,2000,"McKenzie River",0,0,0
+105,2001,"McKenzie River",0,0,0
+105,2002,"McKenzie River",0,0,0
+105,2003,"McKenzie River",0,0,0
+105,2004,"McKenzie River",0,0,0
+105,2005,"McKenzie River",0,0,0
+105,2006,"McKenzie River",0,0,0
+105,2007,"McKenzie River",0,0,0
+105,2008,"McKenzie River",0,0,0
+105,2009,"McKenzie River",0,0,0
+105,2010,"McKenzie River",0,0,0
+105,2011,"McKenzie River",0,0,0
+105,2012,"McKenzie River",0,0,0
+105,2013,"McKenzie River",0,0,0
+105,2014,"McKenzie River",0,0,0
+108,2001,"North Santiam River",0,0,0
+108,2002,"North Santiam River",0,0,0
+108,2003,"North Santiam River",0,0,0
+108,2004,"North Santiam River",0,0,0
+108,2005,"North Santiam River",0,0,0
+108,2006,"North Santiam River",0,1,0
+108,2007,"North Santiam River",0,1,0
+108,2008,"North Santiam River",0,1,0
+108,2009,"North Santiam River",0,1,0
+108,2010,"North Santiam River",0,0,0
+108,2011,"North Santiam River",0,0,0
+108,2012,"North Santiam River",0,0,0
+108,2013,"North Santiam River",0,0,0
+109,2001,"South Santiam River",0,0,0
+109,2002,"South Santiam River",0,0,0
+109,2003,"South Santiam River",0,0,0
+109,2004,"South Santiam River",0,0,0
+109,2005,"South Santiam River",0,0,0
+109,2006,"South Santiam River",0,0,0
+109,2007,"South Santiam River",0,0,0
+109,2008,"South Santiam River",0,0,0
+109,2009,"South Santiam River",0,0,0
+109,2010,"South Santiam River",0,0,0
+109,2011,"South Santiam River",0,0,0
+109,2012,"South Santiam River",0,0,0
+109,2013,"South Santiam River",0,0,0
+109,2014,"South Santiam River",0,0,0
+115,1999,"Grays and Chinook Rivers",0,0,0
+115,2000,"Grays and Chinook Rivers",0,0,0
+115,2001,"Grays and Chinook Rivers",0,0,0
+115,2002,"Grays and Chinook Rivers",0,0,0
+115,2003,"Grays and Chinook Rivers",0,0,0
+115,2004,"Grays and Chinook Rivers",0,0,0
+115,2005,"Grays and Chinook Rivers",0,0,0
+115,2006,"Grays and Chinook Rivers",0,0,0
+115,2007,"Grays and Chinook Rivers",0,0,0
+115,2008,"Grays and Chinook Rivers",0,0,0
+115,2009,"Grays and Chinook Rivers",0,0,0
+115,2010,"Grays and Chinook Rivers",0,0,0
+115,2011,"Grays and Chinook Rivers",0,0,0
+115,2012,"Grays and Chinook Rivers",0,0,0
+115,2013,"Grays and Chinook Rivers",0,0,0
+118,1999,"Lower Gorge Tributaries",0,0,0
+118,2000,"Lower Gorge Tributaries",0,0,0
+118,2001,"Lower Gorge Tributaries",0,0,0
+118,2002,"Lower Gorge Tributaries",0,0,0
+118,2003,"Lower Gorge Tributaries",0,0,0
+118,2004,"Lower Gorge Tributaries",0,0,0
+118,2005,"Lower Gorge Tributaries",0,0,0
+118,2006,"Lower Gorge Tributaries",0,0,0
+118,2007,"Lower Gorge Tributaries",0,0,0
+118,2008,"Lower Gorge Tributaries",0,0,0
+118,2009,"Lower Gorge Tributaries",0,0,0
+118,2010,"Lower Gorge Tributaries",0,0,0
+118,2011,"Lower Gorge Tributaries",0,0,0
+118,2012,"Lower Gorge Tributaries",0,0,0
+118,2013,"Lower Gorge Tributaries",0,0,0
+123,2002,"Upper Gorge Tributaries",0,0,0
+123,2003,"Upper Gorge Tributaries",0,0,0
+123,2004,"Upper Gorge Tributaries",0,0,0
+123,2005,"Upper Gorge Tributaries",0,0,0
+123,2006,"Upper Gorge Tributaries",0,0,0
+123,2007,"Upper Gorge Tributaries",0,0,0
+123,2008,"Upper Gorge Tributaries",0,0,0
+123,2009,"Upper Gorge Tributaries",0,0,0
+123,2010,"Upper Gorge Tributaries",0,0,0
+123,2011,"Upper Gorge Tributaries",0,0,0
+124,2002,"Washougal River",0,0,0
+124,2003,"Washougal River",0,0,0
+124,2004,"Washougal River",0,0,0
+124,2005,"Washougal River",0,0,0
+124,2006,"Washougal River",0,0,0
+124,2007,"Washougal River",0,0,0
+124,2008,"Washougal River",0,0,0
+124,2009,"Washougal River",0,0,0
+124,2010,"Washougal River",0,0,0
+124,2011,"Washougal River",0,0,0
+124,2012,"Washougal River",0,0,0
+124,2013,"Washougal River",0,0,0
+128,2002,"Big Creek",0,0,0
+128,2003,"Big Creek",0,0,0
+128,2004,"Big Creek",0,0,0
+128,2005,"Big Creek",0,0,0
+128,2006,"Big Creek",0,0,0
+128,2007,"Big Creek",0,0,0
+128,2008,"Big Creek",0,0,0
+128,2009,"Big Creek",0,0,0
+128,2010,"Big Creek",0,0,0
+128,2011,"Big Creek",0,0,0
+128,2012,"Big Creek",0,0,0
+130,1957,"Clackamas River",0,0,0
+130,1958,"Clackamas River",0,0,0
+130,1959,"Clackamas River",0,0,0
+130,1960,"Clackamas River",0,0,0
+130,1961,"Clackamas River",0,0,0
+130,1962,"Clackamas River",0,0,0
+130,1963,"Clackamas River",0,0,0
+130,1964,"Clackamas River",0,0,0
+130,1965,"Clackamas River",0,0,0
+130,1966,"Clackamas River",0,0,0
+130,1967,"Clackamas River",0,0,0
+130,1968,"Clackamas River",0,0,0
+130,1969,"Clackamas River",0,0,0
+130,1970,"Clackamas River",0,0,0
+130,1971,"Clackamas River",0,0,0
+130,1972,"Clackamas River",0,0,0
+130,1973,"Clackamas River",0,0,0
+130,1974,"Clackamas River",0,1,0
+130,1975,"Clackamas River",0,1,0
+130,1976,"Clackamas River",0,1,0
+130,1977,"Clackamas River",0,1,0
+130,1978,"Clackamas River",0,1,0
+130,1979,"Clackamas River",0,1,0
+130,1980,"Clackamas River",0,1,0
+130,1981,"Clackamas River",0,1,0
+130,1982,"Clackamas River",0,1,0
+130,1983,"Clackamas River",0,1,0
+130,1984,"Clackamas River",0,1,0
+130,1985,"Clackamas River",0,1,0
+130,1986,"Clackamas River",0,1,0
+130,1987,"Clackamas River",0,1,0
+130,1988,"Clackamas River",0,1,0
+130,1989,"Clackamas River",0,1,0
+130,1990,"Clackamas River",0,1,0
+130,1991,"Clackamas River",0,1,0
+130,1992,"Clackamas River",0,1,0
+130,1993,"Clackamas River",0,1,0
+130,1994,"Clackamas River",0,1,0
+130,1995,"Clackamas River",0,1,0
+130,1996,"Clackamas River",0,1,0
+130,1997,"Clackamas River",0,1,0
+130,1998,"Clackamas River",0,1,0
+130,1999,"Clackamas River",0,1,0
+130,2000,"Clackamas River",0,0,0
+130,2001,"Clackamas River",0,0,0
+130,2002,"Clackamas River",0,0,0
+130,2003,"Clackamas River",0,0,0
+130,2004,"Clackamas River",0,0,0
+130,2005,"Clackamas River",0,0,0
+130,2006,"Clackamas River",0,0,0
+130,2007,"Clackamas River",0,0,0
+130,2008,"Clackamas River",0,0,0
+130,2009,"Clackamas River",0,0,0
+130,2010,"Clackamas River",0,0,0
+130,2011,"Clackamas River",0,0,0
+130,2012,"Clackamas River",0,0,0
+130,2013,"Clackamas River",0,0,0
+131,2002,"Clatskanie River",0,0,0
+131,2003,"Clatskanie River",0,0,0
+131,2004,"Clatskanie River",0,0,0
+131,2005,"Clatskanie River",0,0,0
+131,2006,"Clatskanie River",0,0,0
+131,2007,"Clatskanie River",0,0,0
+131,2008,"Clatskanie River",0,0,0
+131,2009,"Clatskanie River",0,0,0
+131,2010,"Clatskanie River",0,0,0
+131,2011,"Clatskanie River",0,0,0
+131,2012,"Clatskanie River",0,0,0
+131,2013,"Clatskanie River",0,0,0
+138,2002,"Lower Gorge Tributaries",0,0,0
+138,2003,"Lower Gorge Tributaries",0,0,0
+138,2004,"Lower Gorge Tributaries",0,0,0
+138,2005,"Lower Gorge Tributaries",0,0,0
+138,2006,"Lower Gorge Tributaries",0,0,0
+138,2007,"Lower Gorge Tributaries",0,0,0
+138,2008,"Lower Gorge Tributaries",0,0,0
+138,2009,"Lower Gorge Tributaries",0,0,0
+138,2010,"Lower Gorge Tributaries",0,0,0
+138,2011,"Lower Gorge Tributaries",0,0,0
+138,2012,"Lower Gorge Tributaries",0,0,0
+138,2013,"Lower Gorge Tributaries",0,0,0
+141,2005,"North Fork Lewis River",0,0,0
+141,2010,"North Fork Lewis River",0,0,0
+141,2012,"North Fork Lewis River",0,0,0
+143,2002,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2003,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2004,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2005,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2006,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2007,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2008,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2009,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2010,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2011,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2012,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+143,2013,"Oregon Upper Gorge Tributaries and Hood River",0,0,0
+145,1957,"Sandy River",0,0,0
+145,1958,"Sandy River",0,0,0
+145,1959,"Sandy River",0,0,0
+145,1960,"Sandy River",0,0,0
+145,1961,"Sandy River",0,0,0
+145,1962,"Sandy River",0,0,0
+145,1963,"Sandy River",0,0,0
+145,1964,"Sandy River",0,0,0
+145,1965,"Sandy River",0,0,0
+145,1966,"Sandy River",0,0,0
+145,1967,"Sandy River",0,0,0
+145,1968,"Sandy River",0,0,0
+145,1969,"Sandy River",0,0,0
+145,1970,"Sandy River",0,0,0
+145,1971,"Sandy River",0,0,0
+145,1972,"Sandy River",0,0,0
+145,1973,"Sandy River",0,0,0
+145,1974,"Sandy River",0,0,0
+145,1975,"Sandy River",0,0,0
+145,1976,"Sandy River",0,0,0
+145,1977,"Sandy River",0,0,0
+145,1978,"Sandy River",0,0,0
+145,1979,"Sandy River",0,0,0
+145,1980,"Sandy River",0,0,0
+145,1981,"Sandy River",0,0,0
+145,1982,"Sandy River",0,0,0
+145,1983,"Sandy River",0,0,0
+145,1984,"Sandy River",0,0,0
+145,1985,"Sandy River",0,0,0
+145,1986,"Sandy River",0,0,0
+145,1987,"Sandy River",0,0,0
+145,1988,"Sandy River",0,0,0
+145,1989,"Sandy River",0,0,0
+145,1990,"Sandy River",0,0,0
+145,1991,"Sandy River",0,0,0
+145,1992,"Sandy River",0,0,0
+145,1993,"Sandy River",0,0,0
+145,1994,"Sandy River",0,0,0
+145,1995,"Sandy River",0,0,0
+145,1996,"Sandy River",0,0,0
+145,1997,"Sandy River",0,0,0
+145,1998,"Sandy River",0,0,0
+145,1999,"Sandy River",0,0,0
+145,2000,"Sandy River",0,0,0
+145,2001,"Sandy River",0,0,0
+145,2002,"Sandy River",0,0,0
+145,2003,"Sandy River",0,0,0
+145,2004,"Sandy River",0,0,0
+145,2005,"Sandy River",0,0,0
+145,2006,"Sandy River",0,0,0
+145,2007,"Sandy River",0,0,0
+145,2008,"Sandy River",0,0,0
+145,2009,"Sandy River",0,0,0
+145,2010,"Sandy River",0,0,0
+145,2011,"Sandy River",0,0,0
+145,2012,"Sandy River",0,0,0
+145,2013,"Sandy River",0,0,0
+146,2002,"Scappoose Creek",0,0,0
+146,2003,"Scappoose Creek",0,0,0
+146,2004,"Scappoose Creek",0,0,0
+146,2005,"Scappoose Creek",0,0,0
+146,2006,"Scappoose Creek",0,0,0
+146,2007,"Scappoose Creek",0,0,0
+146,2008,"Scappoose Creek",0,0,0
+146,2009,"Scappoose Creek",0,0,0
+146,2010,"Scappoose Creek",0,0,0
+146,2011,"Scappoose Creek",0,0,0
+146,2012,"Scappoose Creek",0,0,0
+146,2013,"Scappoose Creek",0,0,0
+148,1996,"Tilton River",0,0,0
+148,1997,"Tilton River",0,0,0
+148,1998,"Tilton River",0,0,0
+148,1999,"Tilton River",0,0,0
+148,2000,"Tilton River",0,0,0
+148,2001,"Tilton River",0,0,0
+148,2002,"Tilton River",0,0,0
+148,2003,"Tilton River",0,0,0
+148,2004,"Tilton River",0,0,0
+148,2005,"Tilton River",0,0,0
+148,2006,"Tilton River",0,0,0
+148,2007,"Tilton River",0,0,0
+148,2008,"Tilton River",0,0,0
+148,2009,"Tilton River",0,0,0
+148,2010,"Tilton River",0,0,0
+148,2011,"Tilton River",0,0,0
+148,2012,"Tilton River",0,0,0
+148,2013,"Tilton River",0,0,0
+149,1996,"Upper Cowlitz River",0,0,0
+149,1997,"Upper Cowlitz River",0,0,0
+149,1998,"Upper Cowlitz River",0,0,0
+149,1999,"Upper Cowlitz River",0,0,0
+149,2000,"Upper Cowlitz River",0,0,0
+149,2001,"Upper Cowlitz River",0,0,0
+149,2002,"Upper Cowlitz River",0,0,0
+149,2003,"Upper Cowlitz River",0,0,0
+149,2004,"Upper Cowlitz River",0,0,0
+149,2005,"Upper Cowlitz River",0,0,0
+149,2006,"Upper Cowlitz River",0,0,0
+149,2007,"Upper Cowlitz River",0,0,0
+149,2008,"Upper Cowlitz River",0,0,0
+149,2009,"Upper Cowlitz River",0,0,0
+149,2010,"Upper Cowlitz River",0,0,0
+149,2011,"Upper Cowlitz River",0,0,0
+149,2012,"Upper Cowlitz River",0,0,0
+149,2013,"Upper Cowlitz River",0,0,0
+150,2007,"Washington Upper Gorge Tributaries and White Salmon River",0,0,0
+150,2008,"Washington Upper Gorge Tributaries and White Salmon River",0,0,0
+150,2009,"Washington Upper Gorge Tributaries and White Salmon River",0,0,0
+150,2010,"Washington Upper Gorge Tributaries and White Salmon River",0,0,0
+150,2011,"Washington Upper Gorge Tributaries and White Salmon River",0,0,0
+150,2012,"Washington Upper Gorge Tributaries and White Salmon River",0,0,0
+150,2013,"Washington Upper Gorge Tributaries and White Salmon River",0,0,0
+152,2002,"Youngs Bay",0,0,0
+152,2003,"Youngs Bay",0,0,0
+152,2004,"Youngs Bay",0,0,0
+152,2005,"Youngs Bay",0,0,0
+152,2006,"Youngs Bay",0,0,0
+152,2007,"Youngs Bay",0,0,0
+152,2008,"Youngs Bay",0,0,0
+152,2009,"Youngs Bay",0,0,0
+152,2010,"Youngs Bay",0,0,0
+152,2011,"Youngs Bay",0,0,0
+152,2012,"Youngs Bay",0,0,0
+226,1974,"Clackamas River",0,0,1
+226,1975,"Clackamas River",0,0,1
+226,1976,"Clackamas River",0,0,1
+226,1977,"Clackamas River",0,0,1
+226,1978,"Clackamas River",0,0,1
+226,1979,"Clackamas River",0,0,1
+226,1980,"Clackamas River",0,0,1
+226,1981,"Clackamas River",0,0,1
+226,1982,"Clackamas River",0,0,1
+226,1983,"Clackamas River",0,0,1
+226,1984,"Clackamas River",0,0,1
+226,1985,"Clackamas River",0,0,1
+226,1986,"Clackamas River",0,0,1
+226,1987,"Clackamas River",0,0,1
+226,1988,"Clackamas River",0,0,1
+226,1989,"Clackamas River",0,0,1
+226,1990,"Clackamas River",0,0,1
+226,1991,"Clackamas River",0,0,1
+226,1992,"Clackamas River",0,0,1
+226,1993,"Clackamas River",0,0,1
+226,1994,"Clackamas River",0,0,1
+226,1995,"Clackamas River",0,0,1
+226,1996,"Clackamas River",0,0,1
+226,1997,"Clackamas River",0,0,1
+226,1998,"Clackamas River",0,0,1
+226,1999,"Clackamas River",0,0,1
+226,2000,"Clackamas River",0,0,1
+226,2001,"Clackamas River",0,0,1
+226,2002,"Clackamas River",0,0,1
+226,2003,"Clackamas River",0,0,1
+226,2004,"Clackamas River",0,0,1
+226,2005,"Clackamas River",0,0,1
+226,2006,"Clackamas River",0,0,1
+226,2007,"Clackamas River",0,0,1
+226,2008,"Clackamas River",0,0,1
+226,2009,"Clackamas River",0,0,1
+226,2010,"Clackamas River",0,0,1
+226,2011,"Clackamas River",0,0,1
+226,2013,"Clackamas River",0,0,1
+227,1987,"Coweeman River",0,0,0
+227,1988,"Coweeman River",0,0,0
+227,1989,"Coweeman River",0,0,0
+227,1990,"Coweeman River",0,0,0
+227,1993,"Coweeman River",0,0,0
+227,1994,"Coweeman River",0,0,0
+227,1997,"Coweeman River",0,0,0
+227,1998,"Coweeman River",0,0,0
+227,1999,"Coweeman River",0,0,0
+227,2000,"Coweeman River",0,0,0
+227,2001,"Coweeman River",0,0,0
+227,2002,"Coweeman River",0,0,0
+227,2003,"Coweeman River",0,0,0
+227,2004,"Coweeman River",0,0,0
+227,2005,"Coweeman River",0,0,0
+227,2006,"Coweeman River",0,0,0
+227,2007,"Coweeman River",0,0,0
+227,2008,"Coweeman River",0,0,0
+227,2009,"Coweeman River",0,0,0
+227,2010,"Coweeman River",0,0,0
+227,2011,"Coweeman River",0,0,0
+227,2012,"Coweeman River",0,0,0
+227,2013,"Coweeman River",0,0,0
+227,2014,"Coweeman River",0,0,0
+228,1996,"East Fork Lewis River",0,0,0
+228,1997,"East Fork Lewis River",0,0,0
+228,1998,"East Fork Lewis River",0,0,0
+228,1999,"East Fork Lewis River",0,0,0
+228,2000,"East Fork Lewis River",0,0,0
+228,2001,"East Fork Lewis River",0,0,0
+228,2002,"East Fork Lewis River",0,0,0
+228,2003,"East Fork Lewis River",0,0,0
+228,2004,"East Fork Lewis River",0,0,0
+228,2005,"East Fork Lewis River",0,0,0
+228,2006,"East Fork Lewis River",0,0,0
+228,2007,"East Fork Lewis River",0,0,0
+228,2008,"East Fork Lewis River",0,0,0
+228,2009,"East Fork Lewis River",0,0,0
+228,2010,"East Fork Lewis River",0,0,0
+228,2011,"East Fork Lewis River",0,0,0
+228,2012,"East Fork Lewis River",0,0,0
+228,2013,"East Fork Lewis River",0,0,0
+228,2014,"East Fork Lewis River",0,0,0
+228,2015,"East Fork Lewis River",0,0,0
+229,1986,"East Fork Lewis River",0,0,0
+229,1987,"East Fork Lewis River",0,0,0
+229,1988,"East Fork Lewis River",0,0,0
+229,1989,"East Fork Lewis River",0,0,0
+229,1990,"East Fork Lewis River",0,0,0
+229,1991,"East Fork Lewis River",0,0,0
+229,1992,"East Fork Lewis River",0,0,0
+229,1993,"East Fork Lewis River",0,0,0
+229,1994,"East Fork Lewis River",0,0,0
+229,1995,"East Fork Lewis River",0,0,0
+229,1997,"East Fork Lewis River",0,0,0
+229,1998,"East Fork Lewis River",0,0,0
+229,1999,"East Fork Lewis River",0,0,0
+229,2001,"East Fork Lewis River",0,0,0
+229,2002,"East Fork Lewis River",0,0,0
+229,2003,"East Fork Lewis River",0,0,0
+229,2004,"East Fork Lewis River",0,0,0
+229,2005,"East Fork Lewis River",0,0,0
+229,2006,"East Fork Lewis River",0,0,0
+229,2007,"East Fork Lewis River",0,0,0
+229,2008,"East Fork Lewis River",0,0,0
+229,2009,"East Fork Lewis River",0,0,0
+229,2010,"East Fork Lewis River",0,0,0
+229,2011,"East Fork Lewis River",0,0,0
+229,2012,"East Fork Lewis River",0,0,0
+229,2013,"East Fork Lewis River",0,0,0
+229,2014,"East Fork Lewis River",0,0,0
+230,1992,"Hood River",0,0,0
+230,1993,"Hood River",0,0,0
+230,1994,"Hood River",0,0,0
+230,1995,"Hood River",0,0,0
+230,1996,"Hood River",0,0,0
+230,1997,"Hood River",0,0,0
+230,1998,"Hood River",0,0,0
+230,1999,"Hood River",0,0,0
+230,2000,"Hood River",0,0,0
+230,2001,"Hood River",0,0,0
+230,2002,"Hood River",0,0,0
+230,2003,"Hood River",0,0,0
+230,2004,"Hood River",0,0,0
+230,2005,"Hood River",0,0,0
+230,2006,"Hood River",0,0,0
+230,2007,"Hood River",0,0,0
+230,2008,"Hood River",0,0,0
+231,1991,"Hood River",0,0,0
+231,1992,"Hood River",0,0,0
+231,1993,"Hood River",0,0,0
+231,1994,"Hood River",0,0,0
+231,1995,"Hood River",0,0,0
+231,1996,"Hood River",0,0,0
+231,1997,"Hood River",0,0,0
+231,1998,"Hood River",0,0,0
+231,1999,"Hood River",0,0,0
+231,2000,"Hood River",0,0,0
+231,2001,"Hood River",0,0,0
+231,2002,"Hood River",0,0,0
+231,2003,"Hood River",0,0,0
+231,2004,"Hood River",0,0,0
+231,2005,"Hood River",0,0,0
+231,2006,"Hood River",0,0,0
+231,2007,"Hood River",0,0,0
+231,2008,"Hood River",0,0,0
+231,2009,"Hood River",0,0,0
+231,2010,"Hood River",0,0,0
+231,2011,"Hood River",0,0,0
+231,2012,"Hood River",0,0,0
+231,2013,"Hood River",0,0,0
+232,1977,"Kalama River",0,0,0
+232,1978,"Kalama River",0,0,0
+232,1979,"Kalama River",0,0,0
+232,1980,"Kalama River",0,0,0
+232,1981,"Kalama River",0,0,0
+232,1982,"Kalama River",0,0,0
+232,1983,"Kalama River",0,0,0
+232,1984,"Kalama River",0,0,0
+232,1985,"Kalama River",0,0,0
+232,1986,"Kalama River",0,0,0
+232,1987,"Kalama River",0,0,0
+232,1988,"Kalama River",0,0,0
+232,1989,"Kalama River",0,0,0
+232,1990,"Kalama River",0,0,0
+232,1991,"Kalama River",0,0,0
+232,1992,"Kalama River",0,0,0
+232,1993,"Kalama River",0,0,0
+232,1994,"Kalama River",0,0,0
+232,1995,"Kalama River",0,0,0
+232,1996,"Kalama River",0,0,0
+232,1997,"Kalama River",0,0,0
+232,1998,"Kalama River",0,0,0
+232,1999,"Kalama River",0,0,0
+232,2000,"Kalama River",0,0,0
+232,2001,"Kalama River",0,0,0
+232,2002,"Kalama River",0,0,0
+232,2003,"Kalama River",0,0,0
+232,2004,"Kalama River",0,0,0
+232,2005,"Kalama River",0,0,0
+232,2006,"Kalama River",0,0,0
+232,2007,"Kalama River",0,0,0
+232,2008,"Kalama River",0,0,0
+232,2009,"Kalama River",0,0,0
+232,2010,"Kalama River",0,0,0
+232,2011,"Kalama River",0,0,0
+232,2012,"Kalama River",0,0,0
+232,2013,"Kalama River",0,0,0
+232,2014,"Kalama River",0,0,0
+233,1977,"Kalama River",0,0,0
+233,1978,"Kalama River",0,0,0
+233,1979,"Kalama River",0,0,0
+233,1980,"Kalama River",0,0,0
+233,1981,"Kalama River",0,0,0
+233,1982,"Kalama River",0,0,0
+233,1983,"Kalama River",0,0,0
+233,1984,"Kalama River",0,0,0
+233,1985,"Kalama River",0,0,0
+233,1986,"Kalama River",0,0,0
+233,1987,"Kalama River",0,0,0
+233,1988,"Kalama River",0,0,0
+233,1989,"Kalama River",0,0,0
+233,1990,"Kalama River",0,0,0
+233,1991,"Kalama River",0,0,0
+233,1992,"Kalama River",0,0,0
+233,1993,"Kalama River",0,0,0
+233,1994,"Kalama River",0,0,0
+233,1995,"Kalama River",0,0,0
+233,1996,"Kalama River",0,0,0
+233,1997,"Kalama River",0,0,0
+233,1998,"Kalama River",0,0,0
+233,1999,"Kalama River",0,0,0
+233,2000,"Kalama River",0,0,0
+233,2001,"Kalama River",0,0,0
+233,2002,"Kalama River",0,0,0
+233,2003,"Kalama River",0,0,0
+233,2004,"Kalama River",0,0,0
+233,2005,"Kalama River",0,0,0
+233,2006,"Kalama River",0,0,0
+233,2007,"Kalama River",0,0,0
+233,2008,"Kalama River",0,0,0
+233,2009,"Kalama River",0,0,0
+233,2010,"Kalama River",0,0,0
+233,2011,"Kalama River",0,0,0
+233,2012,"Kalama River",0,0,0
+233,2013,"Kalama River",0,0,0
+233,2014,"Kalama River",0,0,0
+238,1985,"North Fork Toutle River",0,0,0
+238,1987,"North Fork Toutle River",0,0,0
+238,1988,"North Fork Toutle River",0,0,0
+238,1989,"North Fork Toutle River",0,0,0
+238,1990,"North Fork Toutle River",0,0,0
+238,1991,"North Fork Toutle River",0,0,0
+238,1992,"North Fork Toutle River",0,0,0
+238,1993,"North Fork Toutle River",0,0,0
+238,1994,"North Fork Toutle River",0,0,0
+238,1995,"North Fork Toutle River",0,0,0
+238,1996,"North Fork Toutle River",0,0,0
+238,1997,"North Fork Toutle River",0,0,0
+238,1998,"North Fork Toutle River",0,0,0
+238,1999,"North Fork Toutle River",0,0,0
+238,2000,"North Fork Toutle River",0,0,0
+238,2001,"North Fork Toutle River",0,0,0
+238,2002,"North Fork Toutle River",0,0,0
+238,2003,"North Fork Toutle River",0,0,0
+238,2004,"North Fork Toutle River",0,0,0
+238,2005,"North Fork Toutle River",0,0,0
+238,2006,"North Fork Toutle River",0,0,0
+238,2007,"North Fork Toutle River",0,0,0
+238,2008,"North Fork Toutle River",0,0,0
+238,2009,"North Fork Toutle River",0,0,0
+238,2010,"North Fork Toutle River",0,0,0
+238,2011,"North Fork Toutle River",0,0,0
+238,2012,"North Fork Toutle River",0,0,0
+238,2013,"North Fork Toutle River",0,0,0
+238,2014,"North Fork Toutle River",0,0,0
+240,1974,"Sandy River",0,0,0
+240,1975,"Sandy River",0,0,0
+240,1976,"Sandy River",0,0,0
+240,1977,"Sandy River",0,0,0
+240,1978,"Sandy River",0,0,0
+240,1979,"Sandy River",0,0,0
+240,1980,"Sandy River",0,0,0
+240,1981,"Sandy River",0,0,0
+240,1982,"Sandy River",0,0,0
+240,1983,"Sandy River",0,0,0
+240,1984,"Sandy River",0,0,0
+240,1985,"Sandy River",0,0,0
+240,1986,"Sandy River",0,0,0
+240,1987,"Sandy River",0,0,0
+240,1988,"Sandy River",0,0,0
+240,1989,"Sandy River",0,0,0
+240,1990,"Sandy River",0,0,0
+240,1991,"Sandy River",0,1,0
+240,1992,"Sandy River",0,1,0
+240,1993,"Sandy River",0,1,0
+240,1994,"Sandy River",0,1,0
+240,1995,"Sandy River",0,1,0
+240,1996,"Sandy River",0,1,0
+240,1997,"Sandy River",0,1,0
+240,1998,"Sandy River",0,1,0
+240,1999,"Sandy River",0,0,0
+240,2000,"Sandy River",0,0,0
+240,2001,"Sandy River",0,0,0
+240,2002,"Sandy River",0,0,0
+240,2003,"Sandy River",0,0,0
+240,2004,"Sandy River",0,0,0
+240,2005,"Sandy River",0,0,0
+240,2006,"Sandy River",0,0,0
+240,2007,"Sandy River",0,0,0
+240,2008,"Sandy River",0,0,0
+240,2009,"Sandy River",0,0,0
+240,2010,"Sandy River",0,0,0
+240,2011,"Sandy River",0,0,0
+240,2012,"Sandy River",0,0,0
+240,2013,"Sandy River",0,0,0
+241,1981,"South Fork Toutle River",0,0,0
+241,1982,"South Fork Toutle River",0,0,0
+241,1984,"South Fork Toutle River",0,0,0
+241,1985,"South Fork Toutle River",0,0,0
+241,1986,"South Fork Toutle River",0,0,0
+241,1987,"South Fork Toutle River",0,0,0
+241,1988,"South Fork Toutle River",0,0,0
+241,1989,"South Fork Toutle River",0,0,0
+241,1990,"South Fork Toutle River",0,0,0
+241,1991,"South Fork Toutle River",0,0,0
+241,1992,"South Fork Toutle River",0,0,0
+241,1993,"South Fork Toutle River",0,0,0
+241,1994,"South Fork Toutle River",0,0,0
+241,1995,"South Fork Toutle River",0,0,0
+241,1996,"South Fork Toutle River",0,0,0
+241,1997,"South Fork Toutle River",0,0,0
+241,1998,"South Fork Toutle River",0,0,0
+241,1999,"South Fork Toutle River",0,0,0
+241,2000,"South Fork Toutle River",0,0,0
+241,2001,"South Fork Toutle River",0,0,0
+241,2002,"South Fork Toutle River",0,0,0
+241,2003,"South Fork Toutle River",0,0,0
+241,2004,"South Fork Toutle River",0,0,0
+241,2005,"South Fork Toutle River",0,0,0
+241,2006,"South Fork Toutle River",0,0,0
+241,2007,"South Fork Toutle River",0,0,0
+241,2008,"South Fork Toutle River",0,0,0
+241,2009,"South Fork Toutle River",0,0,0
+241,2010,"South Fork Toutle River",0,0,0
+241,2011,"South Fork Toutle River",0,0,0
+241,2012,"South Fork Toutle River",0,0,0
+241,2013,"South Fork Toutle River",0,0,0
+241,2014,"South Fork Toutle River",0,0,0
+242,1999,"Tilton River",0,0,0
+242,2000,"Tilton River",0,0,0
+242,2001,"Tilton River",0,0,0
+242,2002,"Tilton River",0,0,0
+242,2003,"Tilton River",0,0,0
+242,2004,"Tilton River",0,0,0
+242,2005,"Tilton River",0,0,0
+242,2006,"Tilton River",0,0,0
+242,2007,"Tilton River",0,0,0
+242,2008,"Tilton River",0,0,0
+242,2009,"Tilton River",0,0,0
+242,2010,"Tilton River",0,0,0
+242,2011,"Tilton River",0,0,0
+242,2012,"Tilton River",0,0,0
+242,2013,"Tilton River",0,0,0
+243,1997,"Upper Cowlitz River",0,0,0
+243,1998,"Upper Cowlitz River",0,0,0
+243,1999,"Upper Cowlitz River",0,0,0
+243,2000,"Upper Cowlitz River",0,0,0
+243,2001,"Upper Cowlitz River",0,0,0
+243,2002,"Upper Cowlitz River",0,0,0
+243,2003,"Upper Cowlitz River",0,0,0
+243,2004,"Upper Cowlitz River",0,0,0
+243,2005,"Upper Cowlitz River",0,0,0
+243,2006,"Upper Cowlitz River",0,0,0
+243,2007,"Upper Cowlitz River",0,0,0
+243,2008,"Upper Cowlitz River",0,0,0
+243,2009,"Upper Cowlitz River",0,0,0
+243,2010,"Upper Cowlitz River",0,0,0
+243,2011,"Upper Cowlitz River",0,0,0
+243,2012,"Upper Cowlitz River",0,0,0
+243,2013,"Upper Cowlitz River",0,0,0
+244,2000,"Upper Gorge Tributaries",0,0,0
+244,2001,"Upper Gorge Tributaries",0,0,0
+244,2002,"Upper Gorge Tributaries",0,0,0
+244,2003,"Upper Gorge Tributaries",0,0,0
+244,2004,"Upper Gorge Tributaries",0,0,0
+244,2005,"Upper Gorge Tributaries",0,0,0
+244,2006,"Upper Gorge Tributaries",0,0,0
+244,2007,"Upper Gorge Tributaries",0,0,0
+244,2008,"Upper Gorge Tributaries",0,0,0
+244,2009,"Upper Gorge Tributaries",0,0,0
+244,2010,"Upper Gorge Tributaries",0,0,0
+244,2011,"Upper Gorge Tributaries",0,0,0
+244,2012,"Upper Gorge Tributaries",0,0,0
+244,2013,"Upper Gorge Tributaries",0,0,0
+245,1953,"Washougal River",0,0,0
+245,1954,"Washougal River",0,0,0
+245,1955,"Washougal River",0,0,0
+245,1956,"Washougal River",0,0,0
+245,1957,"Washougal River",0,0,0
+245,1958,"Washougal River",0,0,0
+245,1959,"Washougal River",0,0,0
+245,1960,"Washougal River",0,0,0
+245,1961,"Washougal River",0,0,0
+245,1962,"Washougal River",0,0,0
+245,1963,"Washougal River",0,0,0
+245,1964,"Washougal River",0,0,0
+245,1965,"Washougal River",0,0,0
+245,1966,"Washougal River",0,0,0
+245,1967,"Washougal River",0,0,0
+245,1968,"Washougal River",0,0,0
+245,1969,"Washougal River",0,0,0
+245,1970,"Washougal River",0,0,0
+245,1971,"Washougal River",0,0,0
+245,1973,"Washougal River",0,0,0
+245,1974,"Washougal River",0,0,0
+245,1986,"Washougal River",0,0,0
+245,1987,"Washougal River",0,0,0
+245,1988,"Washougal River",0,0,0
+245,1989,"Washougal River",0,0,0
+245,1990,"Washougal River",0,0,0
+245,1991,"Washougal River",0,0,0
+245,1992,"Washougal River",0,0,0
+245,1993,"Washougal River",0,0,0
+245,1994,"Washougal River",0,0,0
+245,1995,"Washougal River",0,0,0
+245,1996,"Washougal River",0,0,0
+245,1997,"Washougal River",0,0,0
+245,1998,"Washougal River",0,0,0
+245,1999,"Washougal River",0,0,0
+245,2000,"Washougal River",0,0,0
+245,2001,"Washougal River",0,0,0
+245,2002,"Washougal River",0,0,0
+245,2003,"Washougal River",0,0,0
+245,2005,"Washougal River",0,0,0
+245,2006,"Washougal River",0,0,0
+245,2007,"Washougal River",0,0,0
+245,2008,"Washougal River",0,0,0
+245,2009,"Washougal River",0,0,0
+245,2010,"Washougal River",0,0,0
+245,2012,"Washougal River",0,0,0
+245,2014,"Washougal River",0,0,0
+245,2015,"Washougal River",0,0,0
+246,1991,"Washougal River",0,0,0
+246,1992,"Washougal River",0,0,0
+246,1993,"Washougal River",0,0,0
+246,1994,"Washougal River",0,0,0
+246,1995,"Washougal River",0,0,0
+246,1997,"Washougal River",0,0,0
+246,1998,"Washougal River",0,0,0
+246,1999,"Washougal River",0,0,0
+246,2001,"Washougal River",0,0,0
+246,2002,"Washougal River",0,0,0
+246,2003,"Washougal River",0,0,0
+246,2004,"Washougal River",0,0,0
+246,2005,"Washougal River",0,0,0
+246,2006,"Washougal River",0,0,0
+246,2007,"Washougal River",0,0,0
+246,2008,"Washougal River",0,0,0
+246,2009,"Washougal River",0,0,0
+246,2010,"Washougal River",0,0,0
+246,2011,"Washougal River",0,0,0
+246,2012,"Washougal River",0,0,0
+246,2013,"Washougal River",0,0,0
+246,2014,"Washougal River",0,0,0
+247,1989,"Wind River",0,0,0
+247,1990,"Wind River",0,0,0
+247,1991,"Wind River",0,0,0
+247,1992,"Wind River",0,0,0
+247,1993,"Wind River",0,0,0
+247,1994,"Wind River",0,0,0
+247,1995,"Wind River",0,0,0
+247,1996,"Wind River",0,0,0
+247,1997,"Wind River",0,0,0
+247,1998,"Wind River",0,0,0
+247,1999,"Wind River",0,0,0
+247,2000,"Wind River",0,0,0
+247,2001,"Wind River",0,0,0
+247,2002,"Wind River",0,0,0
+247,2003,"Wind River",0,0,0
+247,2004,"Wind River",0,0,0
+247,2005,"Wind River",0,0,0
+247,2006,"Wind River",0,0,0
+247,2007,"Wind River",0,0,0
+247,2008,"Wind River",0,0,0
+247,2009,"Wind River",0,0,0
+247,2010,"Wind River",0,0,0
+247,2011,"Wind River",0,0,0
+247,2012,"Wind River",0,0,0
+247,2013,"Wind River",0,0,0
+247,2014,"Wind River",0,0,0
+249,1990,"Deschutes River Eastside",0,0,1
+249,1991,"Deschutes River Eastside",177,0,1
+249,1992,"Deschutes River Eastside",185,0,1
+249,1993,"Deschutes River Eastside",194,0,1
+249,1994,"Deschutes River Eastside",0,0,1
+249,1995,"Deschutes River Eastside",213,0,1
+249,1996,"Deschutes River Eastside",224,0,1
+249,1997,"Deschutes River Eastside",233,0,1
+249,1998,"Deschutes River Eastside",0,0,1
+249,1999,"Deschutes River Eastside",248,0,1
+249,2000,"Deschutes River Eastside",259,0,1
+249,2001,"Deschutes River Eastside",269,0,1
+249,2002,"Deschutes River Eastside",0,0,1
+249,2003,"Deschutes River Eastside",282,0,1
+249,2004,"Deschutes River Eastside",288,0,1
+249,2005,"Deschutes River Eastside",298,0,1
+249,2006,"Deschutes River Eastside",309,0,1
+249,2007,"Deschutes River Eastside",318,0,1
+249,2008,"Deschutes River Eastside",328,0,1
+249,2009,"Deschutes River Eastside",0,0,0
+249,2010,"Deschutes River Eastside",346,0,0
+249,2011,"Deschutes River Eastside",352,0,0
+249,2012,"Deschutes River Eastside",361,0,0
+249,2013,"Deschutes River Eastside",370,0,0
+250,1978,"Deschutes River Westside",0,0,0
+250,1979,"Deschutes River Westside",0,0,0
+250,1980,"Deschutes River Westside",0,0,1
+250,1981,"Deschutes River Westside",0,0,1
+250,1982,"Deschutes River Westside",0,0,1
+250,1983,"Deschutes River Westside",0,0,1
+250,1984,"Deschutes River Westside",0,0,1
+250,1985,"Deschutes River Westside",0,0,1
+250,1986,"Deschutes River Westside",0,0,1
+250,1987,"Deschutes River Westside",0,0,1
+250,1988,"Deschutes River Westside",0,0,1
+250,1989,"Deschutes River Westside",0,0,1
+250,1990,"Deschutes River Westside",0,0,1
+250,1991,"Deschutes River Westside",177,0,1
+250,1992,"Deschutes River Westside",185,0,1
+250,1993,"Deschutes River Westside",194,0,1
+250,1994,"Deschutes River Westside",0,0,1
+250,1995,"Deschutes River Westside",213,0,1
+250,1996,"Deschutes River Westside",224,0,1
+250,1997,"Deschutes River Westside",233,0,1
+250,1998,"Deschutes River Westside",0,0,1
+250,1999,"Deschutes River Westside",248,0,1
+250,2000,"Deschutes River Westside",259,0,1
+250,2001,"Deschutes River Westside",269,0,1
+250,2002,"Deschutes River Westside",0,0,1
+250,2003,"Deschutes River Westside",282,0,1
+250,2004,"Deschutes River Westside",288,0,1
+250,2005,"Deschutes River Westside",298,0,1
+250,2006,"Deschutes River Westside",309,0,1
+250,2007,"Deschutes River Westside",318,0,1
+250,2008,"Deschutes River Westside",328,0,1
+250,2009,"Deschutes River Westside",0,0,0
+250,2010,"Deschutes River Westside",346,0,0
+250,2011,"Deschutes River Westside",352,0,0
+250,2012,"Deschutes River Westside",361,0,0
+250,2013,"Deschutes River Westside",370,0,0
+251,1985,"Fifteenmile Creek",0,0,1
+251,1986,"Fifteenmile Creek",0,0,1
+251,1987,"Fifteenmile Creek",0,0,1
+251,1988,"Fifteenmile Creek",0,0,1
+251,1989,"Fifteenmile Creek",0,0,1
+251,1990,"Fifteenmile Creek",0,0,1
+251,1991,"Fifteenmile Creek",0,0,1
+251,1992,"Fifteenmile Creek",0,0,1
+251,1993,"Fifteenmile Creek",0,0,1
+251,1994,"Fifteenmile Creek",0,0,1
+251,1995,"Fifteenmile Creek",0,0,1
+251,1996,"Fifteenmile Creek",0,0,1
+251,1997,"Fifteenmile Creek",0,0,1
+251,1998,"Fifteenmile Creek",0,0,1
+251,1999,"Fifteenmile Creek",0,0,1
+251,2000,"Fifteenmile Creek",0,0,1
+251,2001,"Fifteenmile Creek",0,0,1
+251,2002,"Fifteenmile Creek",0,0,1
+251,2003,"Fifteenmile Creek",0,0,1
+251,2004,"Fifteenmile Creek",0,0,1
+251,2005,"Fifteenmile Creek",0,0,1
+251,2006,"Fifteenmile Creek",0,0,1
+251,2007,"Fifteenmile Creek",0,0,1
+251,2008,"Fifteenmile Creek",0,0,1
+251,2009,"Fifteenmile Creek",0,0,1
+251,2010,"Fifteenmile Creek",0,0,1
+251,2011,"Fifteenmile Creek",0,0,0
+251,2012,"Fifteenmile Creek",0,0,0
+251,2013,"Fifteenmile Creek",0,0,0
+252,1965,"John Day River Lower Mainstem Tributaries",22,0,1
+252,1966,"John Day River Lower Mainstem Tributaries",25,0,1
+252,1967,"John Day River Lower Mainstem Tributaries",29,0,1
+252,1968,"John Day River Lower Mainstem Tributaries",33,0,1
+252,1969,"John Day River Lower Mainstem Tributaries",36,0,1
+252,1970,"John Day River Lower Mainstem Tributaries",39,0,1
+252,1971,"John Day River Lower Mainstem Tributaries",41,0,1
+252,1972,"John Day River Lower Mainstem Tributaries",46,0,1
+252,1973,"John Day River Lower Mainstem Tributaries",49,0,1
+252,1974,"John Day River Lower Mainstem Tributaries",54,0,1
+252,1975,"John Day River Lower Mainstem Tributaries",60,0,1
+252,1976,"John Day River Lower Mainstem Tributaries",64,0,1
+252,1977,"John Day River Lower Mainstem Tributaries",71,0,1
+252,1978,"John Day River Lower Mainstem Tributaries",79,0,1
+252,1979,"John Day River Lower Mainstem Tributaries",83,0,1
+252,1980,"John Day River Lower Mainstem Tributaries",90,0,1
+252,1981,"John Day River Lower Mainstem Tributaries",97,0,1
+252,1982,"John Day River Lower Mainstem Tributaries",105,0,1
+252,1983,"John Day River Lower Mainstem Tributaries",112,0,1
+252,1984,"John Day River Lower Mainstem Tributaries",119,0,1
+252,1985,"John Day River Lower Mainstem Tributaries",128,0,1
+252,1986,"John Day River Lower Mainstem Tributaries",135,0,1
+252,1987,"John Day River Lower Mainstem Tributaries",143,0,1
+252,1988,"John Day River Lower Mainstem Tributaries",148,0,1
+252,1989,"John Day River Lower Mainstem Tributaries",155,0,1
+252,1990,"John Day River Lower Mainstem Tributaries",164,0,1
+252,1991,"John Day River Lower Mainstem Tributaries",171,0,1
+252,1992,"John Day River Lower Mainstem Tributaries",180,0,1
+252,1993,"John Day River Lower Mainstem Tributaries",189,0,1
+252,1994,"John Day River Lower Mainstem Tributaries",199,0,1
+252,1995,"John Day River Lower Mainstem Tributaries",209,0,1
+252,1996,"John Day River Lower Mainstem Tributaries",217,0,1
+252,1997,"John Day River Lower Mainstem Tributaries",227,0,1
+252,1998,"John Day River Lower Mainstem Tributaries",239,0,1
+252,1999,"John Day River Lower Mainstem Tributaries",244,0,1
+252,2000,"John Day River Lower Mainstem Tributaries",254,0,1
+252,2001,"John Day River Lower Mainstem Tributaries",263,0,1
+252,2002,"John Day River Lower Mainstem Tributaries",271,0,1
+252,2003,"John Day River Lower Mainstem Tributaries",277,0,1
+252,2004,"John Day River Lower Mainstem Tributaries",283,0,1
+252,2005,"John Day River Lower Mainstem Tributaries",291,0,1
+252,2006,"John Day River Lower Mainstem Tributaries",310,0,1
+252,2007,"John Day River Lower Mainstem Tributaries",319,0,1
+252,2008,"John Day River Lower Mainstem Tributaries",329,0,1
+252,2009,"John Day River Lower Mainstem Tributaries",337,0,1
+252,2010,"John Day River Lower Mainstem Tributaries",345,0,1
+252,2011,"John Day River Lower Mainstem Tributaries",0,0,1
+252,2012,"John Day River Lower Mainstem Tributaries",361,0,1
+252,2013,"John Day River Lower Mainstem Tributaries",366,0,1
+253,1965,"John Day River Upper Mainstem",22,0,1
+253,1966,"John Day River Upper Mainstem",25,0,1
+253,1967,"John Day River Upper Mainstem",29,0,1
+253,1968,"John Day River Upper Mainstem",33,0,1
+253,1969,"John Day River Upper Mainstem",36,0,1
+253,1970,"John Day River Upper Mainstem",39,0,1
+253,1971,"John Day River Upper Mainstem",41,0,1
+253,1972,"John Day River Upper Mainstem",46,0,1
+253,1973,"John Day River Upper Mainstem",49,0,1
+253,1974,"John Day River Upper Mainstem",54,0,1
+253,1975,"John Day River Upper Mainstem",60,0,1
+253,1976,"John Day River Upper Mainstem",64,0,1
+253,1977,"John Day River Upper Mainstem",71,0,1
+253,1978,"John Day River Upper Mainstem",79,0,1
+253,1979,"John Day River Upper Mainstem",83,0,1
+253,1980,"John Day River Upper Mainstem",90,0,1
+253,1981,"John Day River Upper Mainstem",97,0,1
+253,1982,"John Day River Upper Mainstem",105,0,1
+253,1983,"John Day River Upper Mainstem",112,0,1
+253,1984,"John Day River Upper Mainstem",119,0,1
+253,1985,"John Day River Upper Mainstem",128,0,1
+253,1986,"John Day River Upper Mainstem",135,0,1
+253,1987,"John Day River Upper Mainstem",143,0,1
+253,1988,"John Day River Upper Mainstem",148,0,1
+253,1989,"John Day River Upper Mainstem",155,0,1
+253,1990,"John Day River Upper Mainstem",164,0,1
+253,1991,"John Day River Upper Mainstem",171,0,1
+253,1992,"John Day River Upper Mainstem",180,0,1
+253,1993,"John Day River Upper Mainstem",189,0,1
+253,1994,"John Day River Upper Mainstem",199,0,1
+253,1995,"John Day River Upper Mainstem",209,0,1
+253,1996,"John Day River Upper Mainstem",217,0,1
+253,1997,"John Day River Upper Mainstem",227,0,1
+253,1998,"John Day River Upper Mainstem",239,0,1
+253,1999,"John Day River Upper Mainstem",244,0,1
+253,2000,"John Day River Upper Mainstem",254,0,1
+253,2001,"John Day River Upper Mainstem",263,0,1
+253,2002,"John Day River Upper Mainstem",271,0,1
+253,2003,"John Day River Upper Mainstem",277,0,1
+253,2004,"John Day River Upper Mainstem",283,0,1
+253,2005,"John Day River Upper Mainstem",291,0,1
+253,2006,"John Day River Upper Mainstem",310,0,1
+253,2007,"John Day River Upper Mainstem",319,0,1
+253,2008,"John Day River Upper Mainstem",329,0,1
+253,2009,"John Day River Upper Mainstem",337,0,1
+253,2010,"John Day River Upper Mainstem",345,0,1
+253,2011,"John Day River Upper Mainstem",353,0,1
+253,2012,"John Day River Upper Mainstem",361,0,1
+253,2013,"John Day River Upper Mainstem",366,0,1
+255,1965,"Middle Fork John Day River",0,0,1
+255,1966,"Middle Fork John Day River",25,0,1
+255,1967,"Middle Fork John Day River",29,0,1
+255,1968,"Middle Fork John Day River",33,0,1
+255,1969,"Middle Fork John Day River",36,0,1
+255,1970,"Middle Fork John Day River",39,0,1
+255,1971,"Middle Fork John Day River",41,0,1
+255,1972,"Middle Fork John Day River",46,0,1
+255,1973,"Middle Fork John Day River",49,0,1
+255,1974,"Middle Fork John Day River",54,0,1
+255,1975,"Middle Fork John Day River",60,0,1
+255,1976,"Middle Fork John Day River",64,0,1
+255,1977,"Middle Fork John Day River",71,0,1
+255,1978,"Middle Fork John Day River",79,0,1
+255,1979,"Middle Fork John Day River",83,0,1
+255,1980,"Middle Fork John Day River",90,0,1
+255,1981,"Middle Fork John Day River",97,0,1
+255,1982,"Middle Fork John Day River",105,0,1
+255,1983,"Middle Fork John Day River",112,0,1
+255,1984,"Middle Fork John Day River",119,0,1
+255,1985,"Middle Fork John Day River",128,0,1
+255,1986,"Middle Fork John Day River",135,0,1
+255,1987,"Middle Fork John Day River",143,0,1
+255,1988,"Middle Fork John Day River",148,0,1
+255,1989,"Middle Fork John Day River",155,0,1
+255,1990,"Middle Fork John Day River",164,0,1
+255,1991,"Middle Fork John Day River",171,0,1
+255,1992,"Middle Fork John Day River",180,0,1
+255,1993,"Middle Fork John Day River",189,0,1
+255,1994,"Middle Fork John Day River",199,0,1
+255,1995,"Middle Fork John Day River",209,0,1
+255,1996,"Middle Fork John Day River",217,0,1
+255,1997,"Middle Fork John Day River",227,0,1
+255,1998,"Middle Fork John Day River",239,0,1
+255,1999,"Middle Fork John Day River",244,0,1
+255,2000,"Middle Fork John Day River",254,0,1
+255,2001,"Middle Fork John Day River",263,0,1
+255,2002,"Middle Fork John Day River",271,0,1
+255,2003,"Middle Fork John Day River",277,0,1
+255,2004,"Middle Fork John Day River",283,0,1
+255,2005,"Middle Fork John Day River",291,0,1
+255,2006,"Middle Fork John Day River",301,0,1
+255,2007,"Middle Fork John Day River",319,0,1
+255,2008,"Middle Fork John Day River",330,0,1
+255,2009,"Middle Fork John Day River",337,0,1
+255,2010,"Middle Fork John Day River",345,0,1
+255,2011,"Middle Fork John Day River",353,0,1
+255,2012,"Middle Fork John Day River",361,0,1
+255,2013,"Middle Fork John Day River",366,0,1
+255,2014,"Middle Fork John Day River",0,0,1
+256,1985,"Naches River",126,0,1
+256,1986,"Naches River",134,0,1
+256,1987,"Naches River",142,0,1
+256,1988,"Naches River",0,0,1
+256,1989,"Naches River",154,0,1
+256,1990,"Naches River",163,0,1
+256,1991,"Naches River",170,0,1
+256,1992,"Naches River",179,0,1
+256,1993,"Naches River",188,0,1
+256,1994,"Naches River",197,0,1
+256,1995,"Naches River",208,0,1
+256,1996,"Naches River",216,0,1
+256,1997,"Naches River",226,0,1
+256,1998,"Naches River",238,0,1
+256,1999,"Naches River",243,0,1
+256,2000,"Naches River",253,0,1
+256,2001,"Naches River",262,0,1
+256,2002,"Naches River",0,0,1
+256,2003,"Naches River",276,0,1
+256,2004,"Naches River",0,0,1
+256,2005,"Naches River",0,0,1
+256,2006,"Naches River",300,0,1
+256,2007,"Naches River",312,0,1
+256,2008,"Naches River",321,0,1
+256,2009,"Naches River",332,0,1
+256,2010,"Naches River",340,0,1
+256,2011,"Naches River",0,0,1
+256,2012,"Naches River",354,0,1
+256,2013,"Naches River",362,0,1
+256,2014,"Naches River",371,0,1
+257,1965,"North Fork John Day River",22,0,1
+257,1966,"North Fork John Day River",25,0,1
+257,1967,"North Fork John Day River",29,0,1
+257,1968,"North Fork John Day River",33,0,1
+257,1969,"North Fork John Day River",36,0,1
+257,1970,"North Fork John Day River",39,0,1
+257,1971,"North Fork John Day River",41,0,1
+257,1972,"North Fork John Day River",46,0,1
+257,1973,"North Fork John Day River",49,0,1
+257,1974,"North Fork John Day River",54,0,1
+257,1975,"North Fork John Day River",60,0,1
+257,1976,"North Fork John Day River",64,0,1
+257,1977,"North Fork John Day River",71,0,1
+257,1978,"North Fork John Day River",79,0,1
+257,1979,"North Fork John Day River",83,0,1
+257,1980,"North Fork John Day River",90,0,1
+257,1981,"North Fork John Day River",97,0,1
+257,1982,"North Fork John Day River",105,0,1
+257,1983,"North Fork John Day River",112,0,1
+257,1984,"North Fork John Day River",119,0,1
+257,1985,"North Fork John Day River",128,0,1
+257,1986,"North Fork John Day River",135,0,1
+257,1987,"North Fork John Day River",143,0,1
+257,1988,"North Fork John Day River",148,0,1
+257,1989,"North Fork John Day River",155,0,1
+257,1990,"North Fork John Day River",164,0,1
+257,1991,"North Fork John Day River",171,0,1
+257,1992,"North Fork John Day River",180,0,1
+257,1993,"North Fork John Day River",189,0,1
+257,1994,"North Fork John Day River",199,0,1
+257,1995,"North Fork John Day River",209,0,1
+257,1996,"North Fork John Day River",217,0,1
+257,1997,"North Fork John Day River",227,0,1
+257,1998,"North Fork John Day River",239,0,1
+257,1999,"North Fork John Day River",244,0,1
+257,2000,"North Fork John Day River",254,0,1
+257,2001,"North Fork John Day River",263,0,1
+257,2002,"North Fork John Day River",271,0,1
+257,2003,"North Fork John Day River",277,0,1
+257,2004,"North Fork John Day River",283,0,1
+257,2005,"North Fork John Day River",291,0,1
+257,2006,"North Fork John Day River",301,0,1
+257,2007,"North Fork John Day River",319,0,1
+257,2008,"North Fork John Day River",330,0,1
+257,2009,"North Fork John Day River",337,0,1
+257,2010,"North Fork John Day River",345,0,1
+257,2011,"North Fork John Day River",353,0,1
+257,2012,"North Fork John Day River",361,0,1
+257,2013,"North Fork John Day River",366,0,1
+259,1985,"Satus Creek",0,0,1
+259,1986,"Satus Creek",0,0,1
+259,1987,"Satus Creek",0,0,1
+259,1988,"Satus Creek",0,0,1
+259,1989,"Satus Creek",0,0,1
+259,1990,"Satus Creek",0,0,1
+259,1991,"Satus Creek",0,0,1
+259,1992,"Satus Creek",0,0,1
+259,1993,"Satus Creek",0,0,1
+259,1994,"Satus Creek",0,0,1
+259,1995,"Satus Creek",0,0,1
+259,1996,"Satus Creek",0,0,1
+259,1997,"Satus Creek",0,0,1
+259,1998,"Satus Creek",0,0,1
+259,1999,"Satus Creek",0,0,1
+259,2000,"Satus Creek",0,0,1
+259,2001,"Satus Creek",0,0,1
+259,2002,"Satus Creek",0,0,1
+259,2003,"Satus Creek",0,0,1
+259,2004,"Satus Creek",0,0,1
+259,2005,"Satus Creek",0,0,1
+259,2006,"Satus Creek",0,0,1
+259,2007,"Satus Creek",0,0,1
+259,2008,"Satus Creek",0,0,1
+259,2009,"Satus Creek",0,0,1
+259,2010,"Satus Creek",0,0,1
+259,2011,"Satus Creek",0,0,1
+259,2012,"Satus Creek",0,0,1
+259,2013,"Satus Creek",0,0,1
+259,2014,"Satus Creek",0,0,1
+260,1965,"South Fork John Day River",0,0,1
+260,1966,"South Fork John Day River",0,0,1
+260,1967,"South Fork John Day River",0,0,1
+260,1968,"South Fork John Day River",0,0,1
+260,1969,"South Fork John Day River",0,0,1
+260,1970,"South Fork John Day River",0,0,1
+260,1971,"South Fork John Day River",0,0,1
+260,1972,"South Fork John Day River",0,0,1
+260,1973,"South Fork John Day River",0,0,1
+260,1974,"South Fork John Day River",0,0,1
+260,1975,"South Fork John Day River",0,0,1
+260,1976,"South Fork John Day River",0,0,1
+260,1977,"South Fork John Day River",0,0,1
+260,1978,"South Fork John Day River",0,0,1
+260,1979,"South Fork John Day River",0,0,1
+260,1980,"South Fork John Day River",0,0,1
+260,1981,"South Fork John Day River",0,0,1
+260,1982,"South Fork John Day River",0,0,1
+260,1983,"South Fork John Day River",112,0,1
+260,1984,"South Fork John Day River",119,0,1
+260,1985,"South Fork John Day River",128,0,1
+260,1986,"South Fork John Day River",0,0,1
+260,1987,"South Fork John Day River",143,0,1
+260,1988,"South Fork John Day River",0,0,1
+260,1989,"South Fork John Day River",0,0,1
+260,1990,"South Fork John Day River",0,0,1
+260,1991,"South Fork John Day River",0,0,1
+260,1992,"South Fork John Day River",180,0,1
+260,1993,"South Fork John Day River",0,0,1
+260,1994,"South Fork John Day River",0,0,1
+260,1995,"South Fork John Day River",209,0,1
+260,1996,"South Fork John Day River",0,0,1
+260,1997,"South Fork John Day River",227,0,1
+260,1998,"South Fork John Day River",0,0,1
+260,1999,"South Fork John Day River",0,0,1
+260,2000,"South Fork John Day River",0,0,1
+260,2001,"South Fork John Day River",0,0,1
+260,2002,"South Fork John Day River",0,0,1
+260,2003,"South Fork John Day River",0,0,1
+260,2004,"South Fork John Day River",0,0,1
+260,2005,"South Fork John Day River",0,0,1
+260,2006,"South Fork John Day River",0,0,1
+260,2007,"South Fork John Day River",0,0,1
+260,2008,"South Fork John Day River",330,0,1
+260,2009,"South Fork John Day River",0,0,1
+260,2010,"South Fork John Day River",345,0,1
+260,2011,"South Fork John Day River",353,0,1
+260,2012,"South Fork John Day River",0,0,1
+260,2013,"South Fork John Day River",366,0,1
+261,1985,"Toppenish Creek",126,0,1
+261,1986,"Toppenish Creek",134,0,1
+261,1987,"Toppenish Creek",142,0,1
+261,1988,"Toppenish Creek",0,0,1
+261,1989,"Toppenish Creek",154,0,1
+261,1990,"Toppenish Creek",163,0,1
+261,1991,"Toppenish Creek",170,0,1
+261,1992,"Toppenish Creek",179,0,1
+261,1993,"Toppenish Creek",188,0,1
+261,1994,"Toppenish Creek",197,0,1
+261,1995,"Toppenish Creek",208,0,1
+261,1996,"Toppenish Creek",216,0,1
+261,1997,"Toppenish Creek",226,0,1
+261,1998,"Toppenish Creek",238,0,1
+261,1999,"Toppenish Creek",243,0,1
+261,2000,"Toppenish Creek",253,0,1
+261,2001,"Toppenish Creek",262,0,1
+261,2002,"Toppenish Creek",0,0,1
+261,2003,"Toppenish Creek",276,0,1
+261,2004,"Toppenish Creek",0,0,1
+261,2005,"Toppenish Creek",0,0,1
+261,2006,"Toppenish Creek",300,0,1
+261,2007,"Toppenish Creek",312,0,1
+261,2008,"Toppenish Creek",321,0,1
+261,2009,"Toppenish Creek",332,0,1
+261,2010,"Toppenish Creek",340,0,1
+261,2011,"Toppenish Creek",0,0,1
+261,2012,"Toppenish Creek",354,0,1
+261,2013,"Toppenish Creek",362,0,1
+261,2014,"Toppenish Creek",371,0,1
+262,1987,"Touchet River",0,0,1
+262,1988,"Touchet River",0,0,1
+262,1989,"Touchet River",0,0,1
+262,1990,"Touchet River",0,0,1
+262,1991,"Touchet River",0,0,1
+262,1992,"Touchet River",0,0,1
+262,1993,"Touchet River",0,0,1
+262,1994,"Touchet River",0,0,1
+262,1995,"Touchet River",0,0,1
+262,1996,"Touchet River",0,0,1
+262,1997,"Touchet River",0,0,1
+262,1998,"Touchet River",0,0,1
+262,1999,"Touchet River",0,0,0
+262,2000,"Touchet River",0,0,0
+262,2001,"Touchet River",0,0,0
+262,2002,"Touchet River",0,0,0
+262,2003,"Touchet River",0,0,0
+262,2004,"Touchet River",0,0,0
+262,2005,"Touchet River",0,0,0
+262,2006,"Touchet River",0,0,0
+262,2007,"Touchet River",0,0,0
+262,2008,"Touchet River",0,0,0
+262,2009,"Touchet River",0,0,0
+262,2010,"Touchet River",0,0,0
+262,2011,"Touchet River",0,0,0
+262,2012,"Touchet River",0,0,0
+262,2013,"Touchet River",0,0,0
+263,1967,"Umatilla River",0,0,1
+263,1968,"Umatilla River",0,0,1
+263,1969,"Umatilla River",0,0,1
+263,1970,"Umatilla River",0,0,1
+263,1971,"Umatilla River",0,0,1
+263,1972,"Umatilla River",0,0,1
+263,1973,"Umatilla River",0,0,1
+263,1974,"Umatilla River",0,0,1
+263,1975,"Umatilla River",0,0,1
+263,1976,"Umatilla River",0,0,1
+263,1977,"Umatilla River",0,0,1
+263,1978,"Umatilla River",0,0,1
+263,1979,"Umatilla River",0,0,1
+263,1980,"Umatilla River",0,0,1
+263,1981,"Umatilla River",0,0,1
+263,1982,"Umatilla River",0,0,1
+263,1983,"Umatilla River",0,0,1
+263,1984,"Umatilla River",0,0,1
+263,1985,"Umatilla River",0,0,1
+263,1986,"Umatilla River",0,0,1
+263,1987,"Umatilla River",0,0,1
+263,1988,"Umatilla River",0,0,1
+263,1989,"Umatilla River",0,0,1
+263,1990,"Umatilla River",0,0,1
+263,1991,"Umatilla River",0,0,1
+263,1992,"Umatilla River",0,0,1
+263,1993,"Umatilla River",0,0,1
+263,1994,"Umatilla River",0,0,0
+263,1995,"Umatilla River",0,0,0
+263,1996,"Umatilla River",0,0,0
+263,1997,"Umatilla River",0,0,0
+263,1998,"Umatilla River",0,0,0
+263,1999,"Umatilla River",0,0,0
+263,2000,"Umatilla River",0,0,0
+263,2001,"Umatilla River",0,0,0
+263,2002,"Umatilla River",0,0,0
+263,2003,"Umatilla River",0,0,0
+263,2004,"Umatilla River",0,0,0
+263,2005,"Umatilla River",0,0,0
+263,2006,"Umatilla River",0,0,0
+263,2007,"Umatilla River",0,0,0
+263,2008,"Umatilla River",0,0,0
+263,2009,"Umatilla River",0,0,0
+263,2010,"Umatilla River",0,0,0
+263,2011,"Umatilla River",0,0,0
+263,2012,"Umatilla River",0,0,0
+263,2013,"Umatilla River",0,0,0
+264,1993,"Walla Walla River",0,0,0
+264,1994,"Walla Walla River",0,0,0
+264,1995,"Walla Walla River",0,0,0
+264,1996,"Walla Walla River",0,0,1
+264,1997,"Walla Walla River",0,0,1
+264,1998,"Walla Walla River",0,0,1
+264,1999,"Walla Walla River",0,0,1
+264,2000,"Walla Walla River",0,0,1
+264,2001,"Walla Walla River",0,0,1
+264,2002,"Walla Walla River",0,0,1
+264,2003,"Walla Walla River",0,0,1
+264,2004,"Walla Walla River",0,0,1
+264,2005,"Walla Walla River",0,0,1
+264,2006,"Walla Walla River",0,0,1
+264,2007,"Walla Walla River",0,0,1
+264,2008,"Walla Walla River",0,0,1
+264,2009,"Walla Walla River",0,0,1
+264,2010,"Walla Walla River",0,0,1
+264,2011,"Walla Walla River",0,0,1
+264,2012,"Walla Walla River",0,0,1
+264,2013,"Walla Walla River",0,0,1
+267,1985,"Yakima River Upper Mainstem",126,0,1
+267,1986,"Yakima River Upper Mainstem",134,0,1
+267,1987,"Yakima River Upper Mainstem",142,0,1
+267,1988,"Yakima River Upper Mainstem",0,0,1
+267,1989,"Yakima River Upper Mainstem",154,0,1
+267,1990,"Yakima River Upper Mainstem",163,0,1
+267,1991,"Yakima River Upper Mainstem",170,0,1
+267,1992,"Yakima River Upper Mainstem",179,0,1
+267,1993,"Yakima River Upper Mainstem",188,0,1
+267,1994,"Yakima River Upper Mainstem",197,0,1
+267,1995,"Yakima River Upper Mainstem",208,0,1
+267,1996,"Yakima River Upper Mainstem",216,0,1
+267,1997,"Yakima River Upper Mainstem",226,0,1
+267,1998,"Yakima River Upper Mainstem",238,0,1
+267,1999,"Yakima River Upper Mainstem",243,0,1
+267,2000,"Yakima River Upper Mainstem",253,0,1
+267,2001,"Yakima River Upper Mainstem",262,0,1
+267,2002,"Yakima River Upper Mainstem",0,0,1
+267,2003,"Yakima River Upper Mainstem",276,0,1
+267,2004,"Yakima River Upper Mainstem",0,0,1
+267,2005,"Yakima River Upper Mainstem",0,0,1
+267,2006,"Yakima River Upper Mainstem",300,0,1
+267,2007,"Yakima River Upper Mainstem",312,0,1
+267,2008,"Yakima River Upper Mainstem",321,0,1
+267,2009,"Yakima River Upper Mainstem",332,0,1
+267,2010,"Yakima River Upper Mainstem",340,0,1
+267,2011,"Yakima River Upper Mainstem",0,0,1
+267,2012,"Yakima River Upper Mainstem",354,0,1
+267,2013,"Yakima River Upper Mainstem",362,0,1
+267,2014,"Yakima River Upper Mainstem",371,0,1
+306,1967,"Grande Ronde River Upper Mainstem",0,0,1
+306,1968,"Grande Ronde River Upper Mainstem",0,0,1
+306,1969,"Grande Ronde River Upper Mainstem",0,0,1
+306,1970,"Grande Ronde River Upper Mainstem",0,0,1
+306,1971,"Grande Ronde River Upper Mainstem",42,0,1
+306,1972,"Grande Ronde River Upper Mainstem",0,0,1
+306,1973,"Grande Ronde River Upper Mainstem",50,0,1
+306,1974,"Grande Ronde River Upper Mainstem",55,0,1
+306,1975,"Grande Ronde River Upper Mainstem",61,0,1
+306,1976,"Grande Ronde River Upper Mainstem",65,0,1
+306,1977,"Grande Ronde River Upper Mainstem",0,0,1
+306,1978,"Grande Ronde River Upper Mainstem",80,0,1
+306,1979,"Grande Ronde River Upper Mainstem",84,0,1
+306,1980,"Grande Ronde River Upper Mainstem",92,0,1
+306,1981,"Grande Ronde River Upper Mainstem",99,0,1
+306,1982,"Grande Ronde River Upper Mainstem",107,0,1
+306,1983,"Grande Ronde River Upper Mainstem",114,0,1
+306,1984,"Grande Ronde River Upper Mainstem",121,0,1
+306,1985,"Grande Ronde River Upper Mainstem",130,0,1
+306,1986,"Grande Ronde River Upper Mainstem",137,0,1
+306,1987,"Grande Ronde River Upper Mainstem",145,0,1
+306,1988,"Grande Ronde River Upper Mainstem",150,0,1
+306,1989,"Grande Ronde River Upper Mainstem",157,0,1
+306,1990,"Grande Ronde River Upper Mainstem",166,0,1
+306,1991,"Grande Ronde River Upper Mainstem",173,0,1
+306,1992,"Grande Ronde River Upper Mainstem",182,0,1
+306,1993,"Grande Ronde River Upper Mainstem",191,0,1
+306,1994,"Grande Ronde River Upper Mainstem",201,0,1
+306,1995,"Grande Ronde River Upper Mainstem",211,0,1
+306,1996,"Grande Ronde River Upper Mainstem",219,0,1
+306,1997,"Grande Ronde River Upper Mainstem",229,0,1
+306,1998,"Grande Ronde River Upper Mainstem",241,0,1
+306,1999,"Grande Ronde River Upper Mainstem",0,0,0
+306,2000,"Grande Ronde River Upper Mainstem",0,0,0
+306,2001,"Grande Ronde River Upper Mainstem",265,0,0
+306,2002,"Grande Ronde River Upper Mainstem",0,0,0
+306,2003,"Grande Ronde River Upper Mainstem",0,0,0
+306,2004,"Grande Ronde River Upper Mainstem",0,0,0
+306,2005,"Grande Ronde River Upper Mainstem",293,0,1
+306,2006,"Grande Ronde River Upper Mainstem",303,0,1
+306,2007,"Grande Ronde River Upper Mainstem",0,0,1
+306,2008,"Grande Ronde River Upper Mainstem",0,0,1
+306,2009,"Grande Ronde River Upper Mainstem",0,0,1
+306,2010,"Grande Ronde River Upper Mainstem",0,0,1
+306,2011,"Grande Ronde River Upper Mainstem",348,0,1
+306,2012,"Grande Ronde River Upper Mainstem",356,0,1
+306,2013,"Grande Ronde River Upper Mainstem",364,0,1
+310,1970,"Joseph Creek",0,0,1
+310,1971,"Joseph Creek",42,0,1
+310,1972,"Joseph Creek",0,0,1
+310,1973,"Joseph Creek",50,0,1
+310,1974,"Joseph Creek",55,0,1
+310,1975,"Joseph Creek",61,0,1
+310,1976,"Joseph Creek",65,0,1
+310,1977,"Joseph Creek",0,0,1
+310,1978,"Joseph Creek",80,0,1
+310,1979,"Joseph Creek",84,0,1
+310,1980,"Joseph Creek",92,0,1
+310,1981,"Joseph Creek",99,0,1
+310,1982,"Joseph Creek",107,0,1
+310,1983,"Joseph Creek",114,0,1
+310,1984,"Joseph Creek",121,0,1
+310,1985,"Joseph Creek",130,0,1
+310,1986,"Joseph Creek",137,0,1
+310,1987,"Joseph Creek",145,0,1
+310,1988,"Joseph Creek",150,0,1
+310,1989,"Joseph Creek",157,0,1
+310,1990,"Joseph Creek",166,0,1
+310,1991,"Joseph Creek",173,0,1
+310,1992,"Joseph Creek",182,0,1
+310,1993,"Joseph Creek",191,0,1
+310,1994,"Joseph Creek",201,0,1
+310,1995,"Joseph Creek",211,0,1
+310,1996,"Joseph Creek",219,0,1
+310,1997,"Joseph Creek",229,0,1
+310,1998,"Joseph Creek",241,0,1
+310,1999,"Joseph Creek",0,0,1
+310,2000,"Joseph Creek",0,0,1
+310,2001,"Joseph Creek",265,0,1
+310,2002,"Joseph Creek",0,0,1
+310,2003,"Joseph Creek",0,0,1
+310,2004,"Joseph Creek",0,0,1
+310,2005,"Joseph Creek",293,0,1
+310,2006,"Joseph Creek",303,0,1
+310,2007,"Joseph Creek",0,0,1
+310,2008,"Joseph Creek",0,0,1
+310,2009,"Joseph Creek",0,0,1
+310,2010,"Joseph Creek",342,0,1
+310,2011,"Joseph Creek",348,0,1
+310,2012,"Joseph Creek",356,0,1
+310,2013,"Joseph Creek",364,0,1
+328,1978,"Entiat River",81,0,1
+328,1979,"Entiat River",85,0,1
+328,1980,"Entiat River",93,0,1
+328,1981,"Entiat River",102,0,1
+328,1982,"Entiat River",108,0,1
+328,1983,"Entiat River",116,0,1
+328,1984,"Entiat River",123,0,1
+328,1985,"Entiat River",131,0,1
+328,1986,"Entiat River",138,0,1
+328,1987,"Entiat River",147,0,0
+328,1988,"Entiat River",152,0,0
+328,1989,"Entiat River",159,0,0
+328,1990,"Entiat River",162,0,0
+328,1991,"Entiat River",174,0,0
+328,1992,"Entiat River",184,0,0
+328,1993,"Entiat River",187,0,0
+328,1994,"Entiat River",196,0,0
+328,1995,"Entiat River",207,0,0
+328,1996,"Entiat River",220,0,0
+328,1997,"Entiat River",230,0,1
+328,1998,"Entiat River",242,0,1
+328,1999,"Entiat River",247,0,0
+328,2000,"Entiat River",256,0,0
+328,2001,"Entiat River",270,0,0
+328,2002,"Entiat River",273,0,0
+328,2003,"Entiat River",279,0,0
+328,2004,"Entiat River",289,0,0
+328,2005,"Entiat River",294,0,0
+328,2006,"Entiat River",307,0,0
+328,2007,"Entiat River",316,0,0
+328,2008,"Entiat River",326,0,0
+328,2009,"Entiat River",334,0,0
+328,2010,"Entiat River",343,0,0
+328,2011,"Entiat River",349,0,0
+328,2012,"Entiat River",360,0,0
+328,2013,"Entiat River",365,0,0
+328,2014,"Entiat River",373,0,0
+329,1977,"Methow River",75,0,1
+329,1978,"Methow River",81,0,1
+329,1979,"Methow River",85,0,1
+329,1980,"Methow River",93,0,1
+329,1981,"Methow River",102,0,1
+329,1982,"Methow River",108,0,1
+329,1983,"Methow River",116,0,1
+329,1984,"Methow River",123,0,1
+329,1985,"Methow River",131,0,1
+329,1986,"Methow River",138,0,1
+329,1987,"Methow River",147,0,0
+329,1988,"Methow River",152,0,0
+329,1989,"Methow River",159,0,0
+329,1990,"Methow River",162,0,0
+329,1991,"Methow River",174,0,0
+329,1992,"Methow River",184,0,0
+329,1993,"Methow River",187,0,0
+329,1994,"Methow River",196,0,0
+329,1995,"Methow River",207,0,0
+329,1996,"Methow River",220,0,0
+329,1997,"Methow River",230,0,1
+329,1998,"Methow River",242,0,1
+329,1999,"Methow River",247,0,0
+329,2000,"Methow River",256,0,0
+329,2001,"Methow River",270,0,0
+329,2002,"Methow River",273,0,0
+329,2003,"Methow River",279,0,0
+329,2004,"Methow River",289,0,0
+329,2005,"Methow River",294,0,0
+329,2006,"Methow River",307,0,0
+329,2007,"Methow River",316,0,0
+329,2008,"Methow River",326,0,0
+329,2009,"Methow River",334,0,0
+329,2010,"Methow River",343,0,0
+329,2011,"Methow River",349,0,0
+329,2012,"Methow River",360,0,0
+329,2013,"Methow River",365,0,0
+329,2014,"Methow River",0,0,0
+330,1977,"Okanogan River",75,0,1
+330,1978,"Okanogan River",81,0,1
+330,1979,"Okanogan River",85,0,1
+330,1980,"Okanogan River",93,0,1
+330,1981,"Okanogan River",102,0,1
+330,1982,"Okanogan River",108,0,1
+330,1983,"Okanogan River",116,0,1
+330,1984,"Okanogan River",123,0,1
+330,1985,"Okanogan River",131,0,1
+330,1986,"Okanogan River",138,0,1
+330,1987,"Okanogan River",147,0,0
+330,1988,"Okanogan River",152,0,0
+330,1989,"Okanogan River",159,0,0
+330,1990,"Okanogan River",162,0,0
+330,1991,"Okanogan River",174,0,0
+330,1992,"Okanogan River",184,0,0
+330,1993,"Okanogan River",187,0,0
+330,1994,"Okanogan River",196,0,0
+330,1995,"Okanogan River",207,0,0
+330,1996,"Okanogan River",220,0,0
+330,1997,"Okanogan River",230,0,0
+330,1998,"Okanogan River",242,0,0
+330,1999,"Okanogan River",247,0,0
+330,2000,"Okanogan River",256,0,0
+330,2001,"Okanogan River",270,0,0
+330,2002,"Okanogan River",273,0,0
+330,2003,"Okanogan River",279,0,0
+330,2004,"Okanogan River",289,0,0
+330,2005,"Okanogan River",294,0,0
+330,2006,"Okanogan River",307,0,0
+330,2007,"Okanogan River",316,0,0
+330,2008,"Okanogan River",326,0,0
+330,2009,"Okanogan River",334,0,0
+330,2010,"Okanogan River",343,0,0
+330,2011,"Okanogan River",349,0,0
+330,2012,"Okanogan River",360,0,0
+330,2013,"Okanogan River",365,0,0
+330,2014,"Okanogan River",373,0,0
+331,1978,"Wenatchee River",81,0,1
+331,1979,"Wenatchee River",85,0,1
+331,1980,"Wenatchee River",93,0,1
+331,1981,"Wenatchee River",102,0,1
+331,1982,"Wenatchee River",108,0,1
+331,1983,"Wenatchee River",116,0,1
+331,1984,"Wenatchee River",123,0,1
+331,1985,"Wenatchee River",131,0,1
+331,1986,"Wenatchee River",138,0,1
+331,1987,"Wenatchee River",147,0,0
+331,1988,"Wenatchee River",152,0,0
+331,1989,"Wenatchee River",159,0,0
+331,1990,"Wenatchee River",162,0,0
+331,1991,"Wenatchee River",174,0,0
+331,1992,"Wenatchee River",184,0,0
+331,1993,"Wenatchee River",187,0,0
+331,1994,"Wenatchee River",196,0,0
+331,1995,"Wenatchee River",207,0,0
+331,1996,"Wenatchee River",220,0,0
+331,1997,"Wenatchee River",230,0,0
+331,1998,"Wenatchee River",242,0,0
+331,1999,"Wenatchee River",247,0,0
+331,2000,"Wenatchee River",256,0,0
+331,2001,"Wenatchee River",270,0,0
+331,2002,"Wenatchee River",273,0,0
+331,2003,"Wenatchee River",279,0,0
+331,2004,"Wenatchee River",289,0,0
+331,2005,"Wenatchee River",294,0,0
+331,2006,"Wenatchee River",307,0,0
+331,2007,"Wenatchee River",316,0,0
+331,2008,"Wenatchee River",326,0,0
+331,2009,"Wenatchee River",334,0,0
+331,2010,"Wenatchee River",343,0,0
+331,2011,"Wenatchee River",349,0,0
+331,2012,"Wenatchee River",360,0,0
+331,2013,"Wenatchee River",365,0,0
+331,2014,"Wenatchee River",0,0,0
+332,1980,"Calapooia River",91,0,1
+332,1981,"Calapooia River",98,0,1
+332,1982,"Calapooia River",106,0,1
+332,1983,"Calapooia River",113,0,1
+332,1984,"Calapooia River",120,0,1
+332,1985,"Calapooia River",129,0,1
+332,1986,"Calapooia River",136,0,1
+332,1987,"Calapooia River",144,0,1
+332,1988,"Calapooia River",149,0,1
+332,1989,"Calapooia River",156,0,1
+332,1990,"Calapooia River",165,0,1
+332,1991,"Calapooia River",172,0,1
+332,1992,"Calapooia River",181,0,1
+332,1993,"Calapooia River",190,0,1
+332,1994,"Calapooia River",200,0,1
+332,1995,"Calapooia River",210,0,1
+332,1996,"Calapooia River",218,0,1
+332,1997,"Calapooia River",228,0,1
+332,1998,"Calapooia River",240,0,1
+332,1999,"Calapooia River",245,0,1
+332,2000,"Calapooia River",255,0,1
+332,2001,"Calapooia River",264,0,1
+332,2002,"Calapooia River",272,0,1
+332,2003,"Calapooia River",278,0,1
+332,2004,"Calapooia River",284,0,1
+332,2005,"Calapooia River",292,0,1
+332,2006,"Calapooia River",302,0,1
+332,2007,"Calapooia River",313,0,1
+332,2008,"Calapooia River",322,0,1
+333,1980,"Molalla River",91,1,1
+333,1981,"Molalla River",98,1,1
+333,1982,"Molalla River",106,1,1
+333,1983,"Molalla River",113,1,1
+333,1984,"Molalla River",120,1,1
+333,1985,"Molalla River",129,1,1
+333,1986,"Molalla River",136,1,1
+333,1987,"Molalla River",144,1,1
+333,1988,"Molalla River",149,1,1
+333,1989,"Molalla River",156,1,1
+333,1990,"Molalla River",165,1,1
+333,1991,"Molalla River",172,1,1
+333,1992,"Molalla River",181,1,1
+333,1993,"Molalla River",190,1,1
+333,1994,"Molalla River",200,1,1
+333,1995,"Molalla River",210,1,1
+333,1996,"Molalla River",218,1,1
+333,1997,"Molalla River",228,1,1
+333,1998,"Molalla River",240,1,1
+333,1999,"Molalla River",245,0,1
+333,2000,"Molalla River",255,0,1
+333,2001,"Molalla River",264,0,1
+333,2002,"Molalla River",272,0,1
+333,2003,"Molalla River",278,0,1
+333,2004,"Molalla River",284,0,1
+333,2005,"Molalla River",292,0,1
+333,2006,"Molalla River",302,0,1
+333,2007,"Molalla River",313,0,1
+333,2008,"Molalla River",322,0,1
+334,1980,"North Santiam River",91,1,1
+334,1981,"North Santiam River",98,1,1
+334,1982,"North Santiam River",106,1,1
+334,1983,"North Santiam River",113,1,1
+334,1984,"North Santiam River",120,1,1
+334,1985,"North Santiam River",129,1,1
+334,1986,"North Santiam River",136,1,1
+334,1987,"North Santiam River",144,1,1
+334,1988,"North Santiam River",149,1,1
+334,1989,"North Santiam River",156,1,1
+334,1990,"North Santiam River",165,1,1
+334,1991,"North Santiam River",172,1,1
+334,1992,"North Santiam River",181,1,1
+334,1993,"North Santiam River",190,0,1
+334,1994,"North Santiam River",200,0,1
+334,1995,"North Santiam River",210,0,1
+334,1996,"North Santiam River",218,0,1
+334,1997,"North Santiam River",0,0,0
+334,1998,"North Santiam River",240,0,1
+334,1999,"North Santiam River",245,0,1
+334,2000,"North Santiam River",255,0,1
+334,2001,"North Santiam River",264,0,1
+334,2002,"North Santiam River",272,0,1
+334,2003,"North Santiam River",278,0,1
+334,2004,"North Santiam River",284,0,1
+334,2005,"North Santiam River",292,0,1
+334,2006,"North Santiam River",302,0,1
+334,2007,"North Santiam River",313,0,1
+334,2008,"North Santiam River",322,0,1
+334,2009,"North Santiam River",333,0,1
+334,2010,"North Santiam River",341,0,1
+334,2011,"North Santiam River",347,0,1
+334,2012,"North Santiam River",355,0,1
+334,2013,"North Santiam River",363,0,1
+334,2014,"North Santiam River",372,0,1
+335,1980,"South Santiam River",91,0,1
+335,1981,"South Santiam River",98,0,1
+335,1982,"South Santiam River",106,0,1
+335,1983,"South Santiam River",113,0,1
+335,1984,"South Santiam River",120,0,1
+335,1985,"South Santiam River",129,0,1
+335,1986,"South Santiam River",136,0,1
+335,1987,"South Santiam River",144,0,1
+335,1988,"South Santiam River",149,0,1
+335,1989,"South Santiam River",156,0,1
+335,1990,"South Santiam River",165,0,1
+335,1991,"South Santiam River",172,0,1
+335,1992,"South Santiam River",181,0,1
+335,1993,"South Santiam River",190,0,1
+335,1994,"South Santiam River",200,0,1
+335,1995,"South Santiam River",210,0,1
+335,1996,"South Santiam River",218,0,1
+335,1997,"South Santiam River",228,0,1
+335,1998,"South Santiam River",240,0,1
+335,1999,"South Santiam River",245,0,1
+335,2000,"South Santiam River",255,0,1
+335,2001,"South Santiam River",264,0,1
+335,2002,"South Santiam River",272,0,1
+335,2003,"South Santiam River",278,0,1
+335,2004,"South Santiam River",284,0,1
+335,2005,"South Santiam River",292,0,1
+335,2006,"South Santiam River",302,0,1
+335,2007,"South Santiam River",313,0,1
+335,2008,"South Santiam River",322,0,1
+335,2009,"South Santiam River",333,0,1
+335,2010,"South Santiam River",341,0,1
+335,2011,"South Santiam River",347,0,1
+335,2012,"South Santiam River",355,0,1
+335,2013,"South Santiam River",363,0,1
+335,2014,"South Santiam River",372,0,1
